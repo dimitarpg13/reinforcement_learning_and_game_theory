@@ -1,4 +1,4 @@
-# reinforcement_learning_and_game_theory
+# reinforcement learning and game theory
 
 This repository is a work in progress.
 
