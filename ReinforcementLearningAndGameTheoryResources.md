@@ -270,6 +270,10 @@
 
 # Game Theory Resources
 
+## Books
+
+* [Algorithmic Game Theory, Tim Roughgarden, 2007](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/algorithmic-game-theory-roughgarden.pdf)
+
 ## online lecture videos
 
 * [Algorithmic Game Theory, Tim Roughgarden, Stanford CS364A, Fall 2013](https://youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4) 
