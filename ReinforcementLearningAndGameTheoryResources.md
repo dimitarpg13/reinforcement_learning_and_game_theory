@@ -63,6 +63,26 @@
 
     https://towardsdatascience.com/the-fundamentals-of-reinforcement-learning-177dd8626042
 
+* Introduction to Reinforcement Learning (Part 1): Multi-armed bandit problem
+
+    https://markelsanz14.medium.com/introduction-to-reinforcement-learning-part-1-multi-armed-bandit-problem-618e8cbf9d4b
+
+* Introduction to Reinforcement Learning (Part 2): Q-Learning
+
+    https://markelsanz14.medium.com/introduction-to-reinforcement-learning-part-2-q-learning-4d93f9f37e3e
+
+* Introduction to Reinforcement Learning (Part 3): Q-Learning with Neural Networks, Algorithm DQN
+
+    https://markelsanz14.medium.com/introduction-to-reinforcement-learning-part-3-q-learning-with-neural-networks-algorithm-dqn-1e22ee928ecd
+
+* Introduction to Reinforcement Learning (Part 4): Double DQN and Dueling DQN
+
+    https://markelsanz14.medium.com/introduction-to-reinforcement-learning-part-4-double-dqn-and-dueling-dqn-b349c9a61ea1
+
+* Introduction to Reinforcement Learning (Part 5): Policy Gradient
+
+    https://markelsanz14.medium.com/introduction-to-reinforcement-learning-part-5-policy-gradient-algorithms-862960f7b0dc
+
 * Introduction to Reinforcement Learning (Part 1): The four main subelements of a reinforcement learning system
 
     https://towardsdatascience.com/introduction-to-reinforcement-learning-rl-part-1-introduction-c0d55c1240a3
