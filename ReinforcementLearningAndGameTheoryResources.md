@@ -208,6 +208,10 @@
 
     https://towardsdatascience.com/6-reinforcement-learning-algorithms-explained-237a79dbd8e
 
+* Gambler's Problem - When inaction is in fact optimal
+
+    https://borundev.medium.com/gamblers-problem-when-inaction-is-infact-optimal-1d8348b69c4f
+
 * Win at Blackjack with Reinforcement Learning
 
     https://medium.com/the-power-of-ai/blackjack-with-reinforcement-learning-95f588dd670c
