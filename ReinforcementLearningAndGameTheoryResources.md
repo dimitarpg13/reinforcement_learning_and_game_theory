@@ -79,6 +79,13 @@
 
     https://towardsdatascience.com/introduction-to-reinforcement-learning-rl-part-5-monte-carlo-methods-25067003bb0f
 
+* Introduction to Reinforcement Learning (Part 6): Temporal Difference (TD) Learning
+
+    https://towardsdatascience.com/introduction-to-reinforcement-learning-rl-part-6-temporal-difference-td-learning-2a12f0aba9f9
+
+* Introduction to Reinforcement Learning (Part 7): N-step Bootstraping
+
+    https://towardsdatascience.com/introduction-to-reinforcement-learning-rl-part-7-n-step-bootstrapping-6c3006a13265
 
 * Simple Reinforcement Learning with Tensorflow (Part 0): Q-Learning with Tables and Neural Networks
 
@@ -155,6 +162,10 @@
 * Foundational RL: Value Iteration and Policy Iteration
 
     https://medium.com/mlearning-ai/foundational-rl-value-iteration-and-policy-iteration-76251e47581b
+
+* Temporal Difference Learning in Reinforcement Learning
+
+    https://medium.com/nerd-for-tech/temporal-difference-learning-in-reinforcement-learning-cf13ed159fcb
 
 * Reinforcement Learning: Q-Learning
 
