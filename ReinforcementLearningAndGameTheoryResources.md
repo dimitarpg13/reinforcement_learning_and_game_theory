@@ -59,6 +59,27 @@
 
     https://towardsdatascience.com/the-fundamentals-of-reinforcement-learning-177dd8626042
 
+* Introduction to Reinforcement Learning (Part 1): The four main subelements of a reinforcement learning system
+
+    https://towardsdatascience.com/introduction-to-reinforcement-learning-rl-part-1-introduction-c0d55c1240a3
+
+* Introduction to Reinforcement Learning (Part 2): Multi-arm bandits
+
+    https://towardsdatascience.com/introduction-to-reinforcement-learning-rl-part-2-multi-arm-bandits-be5efb2e83ea
+
+* Introduction to Reinforcement Learning (Part 3): Finite Markov Decision Processes
+
+    https://towardsdatascience.com/introduction-to-reinforcement-learning-rl-part-3-finite-markov-decision-processes-51e1f8d3ddb7
+
+* Introduction to Reinforcement Learning (Part 4): Dynamic Programming
+
+    https://towardsdatascience.com/introduction-to-reinforcement-learning-rl-part-4-dynamic-programming-6af57e575b3d
+
+* Introduction to Reinforcement Learning (Part 5): Monte Carlo Methods
+
+    https://towardsdatascience.com/introduction-to-reinforcement-learning-rl-part-5-monte-carlo-methods-25067003bb0f
+
+
 * Simple Reinforcement Learning with Tensorflow (Part 0): Q-Learning with Tables and Neural Networks
 
     https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0
@@ -94,7 +115,7 @@
 * Simple Reinforcement Learning with Tensorflow (Part 7): Action-Selection Strategies for exploration 
 
     https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-7-action-selection-strategies-for-exploration-d3a97b7cceaf
-    
+ 
 * Simple Reinforcement Learning with Tensorflow (Part 8): Asynchronous Actor-Critic Agents (A3C)
 
     https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2#.hg13tn9zw
@@ -130,6 +151,10 @@
 * Reinforcement Learning (Part 8): Proximal Policy Optimization (PPO) for trading environment (Tensorflow)
 
     https://medium.com/@sthanikamsanthosh1994/reinforcement-learning-part-8-proximal-policy-optimization-ppo-for-trading-9f1c3431f27d
+
+* Foundational RL: Value Iteration and Policy Iteration
+
+    https://medium.com/mlearning-ai/foundational-rl-value-iteration-and-policy-iteration-76251e47581b
 
 * Reinforcement Learning: Q-Learning
 
