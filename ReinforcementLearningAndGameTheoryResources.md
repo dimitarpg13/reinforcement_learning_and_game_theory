@@ -59,6 +59,46 @@
 
     https://towardsdatascience.com/the-fundamentals-of-reinforcement-learning-177dd8626042
 
+* Simple Reinforcement Learning with Tensorflow (Part 0): Q-Learning with Tables and Neural Networks
+
+    https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0
+
+* Simple Reinforcement Learning in Tensorflow (Part 1): Two-armed bandit
+
+    https://awjuliani.medium.com/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149
+
+* Simple Reinforcement Learning with Tensorflow (Part 1.5): Contextual bandits
+
+    https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-1-5-contextual-bandits-bff01d1aad9c
+
+* Simple Reinforcement Learning with Tensorflow (Part 2): Policy-based agents
+
+    https://awjuliani.medium.com/super-simple-reinforcement-learning-tutorial-part-2-ded33892c724
+
+* Simple Reinforcement Learning with Tensorflow (Part 3): Model-based RL
+
+    https://awjuliani.medium.com/simple-reinforcement-learning-with-tensorflow-part-3-model-based-rl-9a6fe0cce99
+
+* Simple Reinforcement Learning with Tensorflow (Part 4): Deep Q Networks and beyond
+
+    https://awjuliani.medium.com/simple-reinforcement-learning-with-tensorflow-part-4-deep-q-networks-and-beyond-8438a3e2b8df
+
+* Simple Reinforcement Learning with Tensorflow (Part 5): Visualizing an Agent's thoughts and actions
+
+    https://awjuliani.medium.com/simple-reinforcement-learning-with-tensorflow-part-5-visualizing-an-agents-thoughts-and-actions-4f27b134bb2a#.kdgfgy7k8
+
+* Simple Reinforcement Learning with Tensorflow (Part 6): Partial Observability and Deep Recurrent Q-Networks
+
+    https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-6-partial-observability-and-deep-recurrent-q-68463e9aeefc#.gi4xdq8pk
+
+* Simple Reinforcement Learning with Tensorflow (Part 7): Action-Selection Strategies for exploration 
+
+    https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-7-action-selection-strategies-for-exploration-d3a97b7cceaf
+    
+* Simple Reinforcement Learning with Tensorflow (Part 8): Asynchronous Actor-Critic Agents (A3C)
+
+    https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2#.hg13tn9zw
+
 * Reinforcement Learning (Part 1): Deep Q Learning using Tensorflow2
 
     https://medium.com/@sthanikamsanthosh1994/deep-q-learning-using-tensorflow2-a5eabc1a8d82
