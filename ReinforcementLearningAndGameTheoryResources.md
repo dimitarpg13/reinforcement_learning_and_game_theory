@@ -4,6 +4,10 @@
 
 * [Reinforcement Learning - An Introduction, Second Edition, Richard Sutton, Andrew Barto, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/ReinforcementLearningSuttonSecondEdition2020.pdf)
 
+## Articles
+
+* [Discovering faster matrix multiplication algorithms with reinforcement learning, Fawzi A., 2021, Nature](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/DiscoveringFasterMatrixMultiplicationAlgorithmsWithReinforcementLearningFawziNature2021.pdf)
+
 ## Online tutorials and short readings
 
 ### StudyWolf's resources:
