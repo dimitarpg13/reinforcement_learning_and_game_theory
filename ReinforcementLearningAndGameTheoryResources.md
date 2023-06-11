@@ -1,4 +1,4 @@
-# Reinforcement Learning Links
+# Reinforcement Learning Reseources 
 
 
-# Game Theory Links
+# Game Theory Resources
