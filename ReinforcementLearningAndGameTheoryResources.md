@@ -5,11 +5,15 @@
 * [Reinforcement Learning - An Introduction, Second Edition, Richard Sutton, Andrew Barto, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/ReinforcementLearningSuttonSecondEdition2020.pdf)
 
 ## Articles
+* [An Introduction to Deep Reinforcement Learning, Vincent Francois-Lavet et al, McGill, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/IntroToDeepReinforcementLearningVFrancois-Lavet2018.pdf)
 
 * [Discovering faster matrix multiplication algorithms with reinforcement learning, Fawzi A., 2021, Nature](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/DiscoveringFasterMatrixMultiplicationAlgorithmsWithReinforcementLearningFawziNature2021.pdf)
 
 * [Faster sorting algorithms discovered using deep reinforcement learning](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/FasterSortingAlgorithmsDiscoveredUsingDLRMankowitzNature2023.pdf)
 
+* [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, Levine S. et al, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OfflineReinforcementLearningTutorialReviewLevine2020.pdf)
+
+* [Optimal COntrol of Markov Processes with Incomplete State Information, Astrom, JMAA, 1965](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OptimalControlOfMarkovProcessesWithIncompleteStateInformationAstrom1965.pdf)
 ## Online tutorials and short readings
 
 ### StudyWolf's resources:
