@@ -177,6 +177,10 @@
 
     https://towardsdev.com/reinforcement-learning-q-learning-38146880ca49
 
+* Q-Learning: Utilizing Reinforcement learning algorithm to trace optimal path
+
+    https://medium.com/@amos.eda/q-learning-utilising-reinforcement-learning-algorithm-to-trace-optimal-path-aa443e307443
+
 * A/B Optimization with Policy Gradient Reinforcement Learning
 
     A step by step visual explanation of the Policy Gradient method
