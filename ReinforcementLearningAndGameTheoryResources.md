@@ -30,15 +30,19 @@ example code: https://github.com/studywolf/blog/blob/master/train_AHF/train_hf.p
 ### DeepMind's resources:
 
 * Deep Reinforcement Learning 
+
 https://www.deepmind.com/blog/deep-reinforcement-learning
 
 ### Computational Neuroscience Lab's resources:
+
 * Demystifying Deep Reinforcement Learning
+
 https://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/
 
 ### Andrej Karpathy blog
 
 * Deep Reinforcement learning: Pong From Pixels
+
 http://karpathy.github.io/2016/05/31/rl/
 
 ### Medium
