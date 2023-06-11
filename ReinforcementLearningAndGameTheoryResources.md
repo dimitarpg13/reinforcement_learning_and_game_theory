@@ -74,4 +74,9 @@ https://towardsdev.com/reinforcement-learning-q-learning-38146880ca49
 A step by step visual explanation of the Policy Gradient method
 https://towardsdatascience.com/a-b-optimization-with-policy-gradient-reinforcement-learning-b4a3527f849
 
+
+* Making Sense of the Bias / Variance trade-off in (Deep) Reinforcement Learning
+What goes into a stable accurate reinforcement signal?
+https://blog.mlreview.com/making-sense-of-the-bias-variance-trade-off-in-deep-reinforcement-learning-79cf1e83d565
+
 # Game Theory Resources
