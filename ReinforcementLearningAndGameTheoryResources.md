@@ -208,4 +208,18 @@
 
     https://towardsdatascience.com/6-reinforcement-learning-algorithms-explained-237a79dbd8e
 
+* Win at Blackjack with Reinforcement Learning
+
+    https://medium.com/the-power-of-ai/blackjack-with-reinforcement-learning-95f588dd670c
+
+
+
 # Game Theory Resources
+
+## Online tutorials and short readins
+
+### Medium
+
+* NashPy: Strategic Interactions in Python
+
+    https://medium.com/@agbonorino/nashpy-strategic-interactions-in-python-aac937c916a5
