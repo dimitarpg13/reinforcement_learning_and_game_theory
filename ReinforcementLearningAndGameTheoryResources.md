@@ -212,7 +212,13 @@
 
     https://medium.com/the-power-of-ai/blackjack-with-reinforcement-learning-95f588dd670c
 
+* Learn to Win Games with Monte Carlo Reinforcement Learning
 
+    https://medium.com/the-power-of-ai/monte-carlo-reinforcement-learning-for-simple-games-71dc8f4ffda4
+
+* Build your own unbeatable TicTacToe with Reinforcement Learning
+
+    https://medium.com/@artem.a.arutyunov/build-your-own-unbeatable-tictactoe-ai-with-reinforcement-learning-411502c54c22
 
 # Game Theory Resources
 
