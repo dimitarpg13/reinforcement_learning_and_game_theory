@@ -159,4 +159,9 @@
 * Q vs V in Reinforcement Learning, the Easy Way
 
     https://zsalloum.medium.com/q-vs-v-in-reinforcement-learning-the-easy-way-9350e1523031
+
+* 6 Reinforcement Learning Algorithms Explained
+
+    https://towardsdatascience.com/6-reinforcement-learning-algorithms-explained-237a79dbd8e
+
 # Game Theory Resources
