@@ -36,6 +36,34 @@ https://www.deepmind.com/blog/deep-reinforcement-learning
 * Demystifying Deep Reinforcement Learning
 https://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/
 
+### Andrej Karpathy blog
+* Deep Reinforcement learning: Pong From Pixels
+http://karpathy.github.io/2016/05/31/rl/
 
+### Medium
+
+* Reinforcement Learning (Part 1): Deep Q Learning using Tensorflow2
+https://medium.com/@sthanikamsanthosh1994/deep-q-learning-using-tensorflow2-a5eabc1a8d82
+
+* Reinforcement Learning (Part 2): Policy Gradient (Reinforce) using Tensorflow2
+https://medium.com/@sthanikamsanthosh1994/reinforcement-learning-part-2-policy-gradient-reinforce-using-tensorflow2-a386a11e1dc6
+
+* Reinforcement Learning (Part 3): Dueling DQN using Tensorflow2
+https://medium.com/@sthanikamsanthosh1994/reinforcement-learning-part-3-dueling-dqn-using-tensorflow-45b024c5b7d9
+
+* Reinforcement Learning (Part 4): Dueling Double Deep Q Learning
+https://medium.com/@sthanikamsanthosh1994/reinforcement-learning-part-4-dueling-double-deep-q-learning-with-tensorflow-3f46e65fb644
+
+* Reinforcement Learning (Part 5): Soft Actor-Critic (SAC) Network
+https://medium.com/@sthanikamsanthosh1994/reinforcement-learning-part-5-soft-actor-critic-sac-network-using-tensorflow2-697917b4b752
+
+* Reinforcement Learning (Part 6): Deep Deterministic Policy Gradient (DDPG) using Tensorflow2
+https://medium.com/@sthanikamsanthosh1994/reinforcement-learning-part-6-deep-deterministic-policy-gradient-ddpg-using-tesorflow2-fcdccf8f1172
+
+* Reinforcement Learning (Part 7): Twin Delayed Deep Deterministic Policy Gradient (TD3) in Tensorflow2
+https://medium.com/@sthanikamsanthosh1994/reinforcement-learning-part-7-twin-delayed-deep-deterministic-policy-gradient-td3-in-tensorflow2-726fb9a53ae6
+
+* Reinforcement Learning (Part 8): Proximal Policy Optimization (PPO) for trading environment (Tensorflow)
+https://medium.com/@sthanikamsanthosh1994/reinforcement-learning-part-8-proximal-policy-optimization-ppo-for-trading-9f1c3431f27d
 
 # Game Theory Resources
