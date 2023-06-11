@@ -268,6 +268,10 @@
 
 ## online lecture videos
 
+* [Algorithmic Game Theory, Tim Roughgarden, Stanford CS364A, Fall 2013](https://youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4) 
+
+
+
 ### 
 
 ## Online tutorials and short readins
