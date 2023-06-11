@@ -13,7 +13,11 @@
 
 * [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, Levine S. et al, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OfflineReinforcementLearningTutorialReviewLevine2020.pdf)
 
-* [Optimal COntrol of Markov Processes with Incomplete State Information, Astrom, JMAA, 1965](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OptimalControlOfMarkovProcessesWithIncompleteStateInformationAstrom1965.pdf)
+* [A Survey of Partially Observable Markov Desicion Processes: theory, models and algorithms, Monahan G., 2014](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/SurveyOfPOMDP_TheoryModelsAndAlgorithmsMonahan1982.pdf)
+
+* [Optimal Control of Markov Processes with Incomplete State Information, Astrom, JMAA, 1965](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OptimalControlOfMarkovProcessesWithIncompleteStateInformationAstrom1965.pdf)
+
+* [The Optimal Control of Partially Observable markov Processes over the Infinite Horizon: Discounted Costs, Sondik, ORSA, 1973](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OptimalControlOfPOMDPOverInfiniteHorizonSondik1978.pdf)
 ## Online tutorials and short readings
 
 ### StudyWolf's resources:
