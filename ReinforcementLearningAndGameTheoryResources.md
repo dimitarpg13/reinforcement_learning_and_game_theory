@@ -27,6 +27,14 @@ https://studywolf.wordpress.com/2016/04/04/deep-learning-for-control-using-augme
 
 example code: https://github.com/studywolf/blog/blob/master/train_AHF/train_hf.py
 
+### DeepMind's resources:
+
+* Deep Reinforcement Learning 
+https://www.deepmind.com/blog/deep-reinforcement-learning
+
+### Computational Neuroscience Lab's resources:
+* Demystifying Deep Reinforcement Learning
+https://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/
 
 
 
