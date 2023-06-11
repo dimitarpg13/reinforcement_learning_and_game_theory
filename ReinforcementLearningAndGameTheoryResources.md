@@ -4,7 +4,8 @@
 
 ### StudyWolf's resources:
 * Reinforcement Learning Part 1: Q-Learning and exploration
-https://studywolf.wordpress.com/2012/11/25/reinforcement-learning-q-learning-and-exploration/
+
+    https://studywolf.wordpress.com/2012/11/25/reinforcement-learning-q-learning-and-exploration/
 
 * Reinforcement Learning Part 2: Sarsa versus Q learning
 https://studywolf.wordpress.com/2013/07/01/reinforcement-learning-sarsa-vs-q-learning/
