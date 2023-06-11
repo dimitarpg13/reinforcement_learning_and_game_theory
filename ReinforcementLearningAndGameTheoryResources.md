@@ -53,6 +53,12 @@
 
 ### Medium
 
+* The Fundamentals of Reinforcement Learning
+
+    Markov Decision Process, Policy, Value Function, Bellman Equation, Dynamic Programming Implementation
+
+    https://towardsdatascience.com/the-fundamentals-of-reinforcement-learning-177dd8626042
+
 * Reinforcement Learning (Part 1): Deep Q Learning using Tensorflow2
 
     https://medium.com/@sthanikamsanthosh1994/deep-q-learning-using-tensorflow2-a5eabc1a8d82
@@ -103,5 +109,11 @@
     What goes into a stable accurate reinforcement signal?
 
     https://blog.mlreview.com/making-sense-of-the-bias-variance-trade-off-in-deep-reinforcement-learning-79cf1e83d565
+
+* Reinforcement Learning - Generalization In Continuous State Space
+
+    https://towardsdatascience.com/reinforcement-learning-generalisation-in-continuous-state-space-df943b04ebfa
+
+    Function Approximation with Random Walk Example
 
 # Game Theory Resources
