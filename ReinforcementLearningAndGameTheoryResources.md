@@ -244,7 +244,15 @@
 
     https://medium.com/@artem.a.arutyunov/build-your-own-unbeatable-tictactoe-ai-with-reinforcement-learning-411502c54c22
 
+* Breaking down DeepMind's AlphaTensor
+
+    https://pub.towardsai.net/breaking-down-deepminds-alphatensor-15534303cde2
+
 # Game Theory Resources
+
+## online lecture videos
+
+### 
 
 ## Online tutorials and short readins
 
