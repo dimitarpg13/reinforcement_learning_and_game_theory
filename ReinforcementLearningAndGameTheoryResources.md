@@ -70,4 +70,8 @@ https://medium.com/@sthanikamsanthosh1994/reinforcement-learning-part-8-proximal
 A step-by-step guide to implementing the Q-Learning algorithm using OpenAI Gym for Taxi-V3
 https://towardsdev.com/reinforcement-learning-q-learning-38146880ca49
 
+* A/B Optimization with Policy Gradient Reinforcement Learning
+A step by step visual explanation of the Policy Gradient method
+https://towardsdatascience.com/a-b-optimization-with-policy-gradient-reinforcement-learning-b4a3527f849
+
 # Game Theory Resources
