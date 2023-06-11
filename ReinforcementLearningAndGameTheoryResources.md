@@ -264,6 +264,10 @@
 
     https://pub.towardsai.net/breaking-down-deepminds-alphatensor-15534303cde2
 
+## online lecture videos
+
+* [Reinforcement Learning, Emma Brunskill, Stanfrod CS234, Winter 2019](https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+
 # Game Theory Resources
 
 ## online lecture videos
