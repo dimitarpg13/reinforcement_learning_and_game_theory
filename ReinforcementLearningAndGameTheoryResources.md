@@ -37,6 +37,7 @@ https://www.deepmind.com/blog/deep-reinforcement-learning
 https://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/
 
 ### Andrej Karpathy blog
+
 * Deep Reinforcement learning: Pong From Pixels
 http://karpathy.github.io/2016/05/31/rl/
 
