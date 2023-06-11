@@ -2,7 +2,7 @@
 
 ## The Book
 
-* [Reinforcement Learning An Introduction Second Edition Richard Sutton, Andrew Barto](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/ReinforcementLearningSuttonSecondEdition2020.pdf)
+* [Reinforcement Learning - An Introduction, Second Edition, Richard Sutton, Andrew Barto, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/ReinforcementLearningSuttonSecondEdition2020.pdf)
 
 ## Online tutorials and short readings
 
