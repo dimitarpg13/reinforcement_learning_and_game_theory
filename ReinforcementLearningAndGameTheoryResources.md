@@ -66,4 +66,8 @@ https://medium.com/@sthanikamsanthosh1994/reinforcement-learning-part-7-twin-del
 * Reinforcement Learning (Part 8): Proximal Policy Optimization (PPO) for trading environment (Tensorflow)
 https://medium.com/@sthanikamsanthosh1994/reinforcement-learning-part-8-proximal-policy-optimization-ppo-for-trading-9f1c3431f27d
 
+* Reinforcement Learning: Q-Learning
+A step-by-step guide to implementing the Q-Learning algorithm using OpenAI Gym for Taxi-V3
+https://towardsdev.com/reinforcement-learning-q-learning-38146880ca49
+
 # Game Theory Resources
