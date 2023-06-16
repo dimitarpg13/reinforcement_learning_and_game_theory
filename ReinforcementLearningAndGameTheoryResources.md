@@ -275,6 +275,8 @@
 ## online lecture videos
 * [Tutorial: Introduction to Reinforcement Learning with Function Approximation (NIPS Tutorials 2015)](https://www.youtube.com/watch?v=ggqnxyjaKe4)
 
+* [Reinforcement Learning: From Basic Concepts to Deep Q Networks (Deep Learning Summer School McGill 2016)](http://videolectures.net/deeplearning2016_pineau_reinforcement_learning/)
+
 * [Reinforcement Learning, Emma Brunskill, Stanford CS234, Winter 2019](https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
 # Game Theory Resources
