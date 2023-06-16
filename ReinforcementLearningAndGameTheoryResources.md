@@ -279,6 +279,16 @@
 ## online lecture videos
 * [Tutorial: Introduction to Reinforcement Learning with Function Approximation (NIPS Tutorials 2015)](https://www.youtube.com/watch?v=ggqnxyjaKe4)
 
+* Deep Reinforcement Learning: John Schulman, OpenAI, Berkeley (MLSS Cadiz, 2016)
+
+    [Lecture 1](https://youtu.be/aUrX-rP_ss4)
+
+    [Lecture 2](https://youtu.be/oPGVsoBonLM)
+
+    [Lecture 3](https://youtu.be/rO7Dx8pSJQw)
+
+    [Lecture 4](https://youtu.be/gb5Q2XL5c8A)
+
 * [Deep Reinforcement Learning, David Silver, Dept. of Computer Science, University College, (July 2015, London)](http://videolectures.net/rldm2015_silver_reinforcement_learning/)
     _Note: lecture slides included under section "Articles and tutorials"_
 
