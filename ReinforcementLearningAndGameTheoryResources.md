@@ -277,6 +277,8 @@
 
 * [Reinforcement Learning: From Basic Concepts to Deep Q Networks (Deep Learning Summer School McGill 2016)](http://videolectures.net/deeplearning2016_pineau_reinforcement_learning/)
 
+* [Deep Reinforcement Learning, Pieter Abbeel, Dept. of Electrical Engineering and Computer Sciences, UC Berkeley, August 2016](http://videolectures.net/deeplearning2016_abbeel_deep_reinforcement/)
+
 * [Reinforcement Learning, Emma Brunskill, Stanford CS234, Winter 2019](https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
 # Game Theory Resources
