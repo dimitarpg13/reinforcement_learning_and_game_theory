@@ -273,8 +273,9 @@
     example code: https://github.com/studywolf/blog/blob/master/train_AHF/train_hf.py
 
 ## online lecture videos
+* [Tutorial: Introduction to Reinforcement Learning with Function Approximation (NIPS Tutorials 2015)](https://www.youtube.com/watch?v=ggqnxyjaKe4)
 
-* [Reinforcement Learning, Emma Brunskill, Stanfrod CS234, Winter 2019](https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+* [Reinforcement Learning, Emma Brunskill, Stanford CS234, Winter 2019](https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
 # Game Theory Resources
 
