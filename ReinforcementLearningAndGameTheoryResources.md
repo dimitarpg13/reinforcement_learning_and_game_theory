@@ -22,6 +22,8 @@
 * [The Optimal Control of Partially Observable markov Processes over the Infinite Horizon: Discounted Costs, Sondik, ORSA, 1973](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OptimalControlOfPOMDPOverInfiniteHorizonSondik1978.pdf)
 
 * [Deep Reinforcement Learning slides (NIPS 2016)](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/docs/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf) 
+
+* [Deep Reinforcement Learning slides, Pieter Abbeel from August 23th, 2016 lecture](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/docs/deeplearning2016_abbeel_deep_reinforcement.pdf)
 ## Online tutorials and short readings
 
 ### OpenAI resources:
@@ -278,6 +280,7 @@
 * [Reinforcement Learning: From Basic Concepts to Deep Q Networks (Deep Learning Summer School McGill 2016)](http://videolectures.net/deeplearning2016_pineau_reinforcement_learning/)
 
 * [Deep Reinforcement Learning, Pieter Abbeel, Dept. of Electrical Engineering and Computer Sciences, UC Berkeley, August 2016](http://videolectures.net/deeplearning2016_abbeel_deep_reinforcement/)
+    Note: lecture slides included under section "Articles and tutorials"
 
 * [Reinforcement Learning, Emma Brunskill, Stanford CS234, Winter 2019](https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
