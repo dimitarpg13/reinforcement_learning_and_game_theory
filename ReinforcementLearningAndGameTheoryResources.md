@@ -21,7 +21,7 @@
 
 * [The Optimal Control of Partially Observable markov Processes over the Infinite Horizon: Discounted Costs, Sondik, ORSA, 1973](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OptimalControlOfPOMDPOverInfiniteHorizonSondik1978.pdf)
 
-* [Advanced Deep Learning & Reinforcement Learning Bootcamp (UCL 2018, DeepMind)](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/docs/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf) 
+* [Deep Reinforcement Learning slides (NIPS 2016)](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/docs/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf) 
 ## Online tutorials and short readings
 
 ### OpenAI resources:
