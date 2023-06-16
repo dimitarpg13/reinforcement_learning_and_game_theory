@@ -22,7 +22,13 @@
 * [The Optimal Control of Partially Observable markov Processes over the Infinite Horizon: Discounted Costs, Sondik, ORSA, 1973](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OptimalControlOfPOMDPOverInfiniteHorizonSondik1978.pdf)
 ## Online tutorials and short readings
 
-### DeepMind's resources:
+### OpenAI resources:
+
+* Spinning Up
+
+    https://spinningup.openai.com/en/latest/user/introduction.html
+
+### DeepMind resources:
 
 * Deep Reinforcement Learning 
 
