@@ -282,7 +282,7 @@
 
     example code: https://github.com/studywolf/blog/blob/master/train_AHF/train_hf.py
 
-### Jeff Bradberry
+### Jeff Bradberry's blog
 
 * [Introductuction to Monte Carlo Tree Search](http://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
 
