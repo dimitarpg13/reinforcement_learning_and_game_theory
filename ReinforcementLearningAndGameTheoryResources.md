@@ -17,6 +17,8 @@
 
 * [Fast Computation of Nash Equilibria in Imperfect Information games, Munos et al, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Fast_Computation_of_Nash_Equilibria_in_Imperfect_Information_Games_Munos_2020.pdf)
 
+* [Making Sense of Reinforcement Learning and Probabilistic Inference, O'Donoghue et al, ICLR, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Making_Sense_of_Reinforcement_Learning_And_Probabilistic_Inference_ODonoghue_ICLR_2020.pdf)
+
 * [Deep Reinforcement Learning from Sels-Play in Imperfect-Information Games, Heinrich, Silver, 2016](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Deep_Reinforcement_Learning_from_Self-Play_in_Imperfect-Information_Games_Heinrich_Silver_2016.pdf)
 
 * [Understanding Sampling-Based Adversarial Search Methods, Ramanujan, PhD Thesis, 2012](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Understanding_Sampling-Based_Adversarial_Search_Methods_Ramanujan_PhD_Thesis_2012.pdf)
