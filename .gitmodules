@@ -4,3 +4,6 @@
 [submodule "src/acme"]
 	path = src/acme
 	url = https://github.com/deepmind/acme.git
+[submodule "src/open_spiel"]
+	path = src/open_spiel
+	url = https://github.com/deepmind/open_spiel.git
