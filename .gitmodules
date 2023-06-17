@@ -1,3 +1,6 @@
 [submodule "src/examples/reinforcement-learning"]
 	path = src/examples/reinforcement-learning
 	url = https://github.com/dimitarpg13/reinforcement-learning.git
+[submodule "src/acme"]
+	path = src/acme
+	url = https://github.com/deepmind/acme.git
