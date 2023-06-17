@@ -52,7 +52,7 @@
 
     https://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/
 
-### Andrej Karpathy blog
+### Andrej Karpathy's blog
 
 * Deep Reinforcement learning: Pong From Pixels
 
