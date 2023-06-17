@@ -31,6 +31,10 @@
 
 * [World Discovery Models, Azar et al, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/World_Discovery_Models_Azar_2019.pdf)
 
+* [Optimizing Agent Behavior Over Long Time Scales By Transporting Value, Hung, Lillicrap, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Optimizing_agent_behavior_over_long_time_scales_by_transporting_value_Hung_Lillycrap_2019.pdf)
+
+* [Generative Adversarial Self-Imitation Learning, Guo, Oh, et al, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Generative_Adversarial_Self-Imitation_Learning_Guo_Oh_2018.pdf)
+
 * [Fast deep reinforcement learning using online adjustments from the past, Hansen et al, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Fast_deep_reinforcement_learning_using_online_adjustments_from_the_past_Hansen_2018.pdf)
 
 * [Deep Reinforcement Learning from Sels-Play in Imperfect-Information Games, Heinrich, Silver, 2016](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Deep_Reinforcement_Learning_from_Self-Play_in_Imperfect-Information_Games_Heinrich_Silver_2016.pdf)
