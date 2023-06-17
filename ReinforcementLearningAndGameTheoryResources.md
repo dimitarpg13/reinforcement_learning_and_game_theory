@@ -282,6 +282,10 @@
 
     example code: https://github.com/studywolf/blog/blob/master/train_AHF/train_hf.py
 
+### Jeff Bradberry
+
+* [Introductuction to Monte Carlo Tree Search](http://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
+
 ## online lecture videos
 * [Tutorial: Introduction to Reinforcement Learning with Function Approximation (NIPS Tutorials 2015)](https://www.youtube.com/watch?v=ggqnxyjaKe4)
 
