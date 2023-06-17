@@ -265,6 +265,10 @@
 
     https://medium.com/@artem.a.arutyunov/build-your-own-unbeatable-tictactoe-ai-with-reinforcement-learning-411502c54c22
 
+* Understand Policy Gradient by Building Cross Entropy from Scratch
+
+    https://towardsdatascience.com/understand-policy-gradient-by-building-cross-entropy-from-scratch-75ca18b53e94
+
 * Breaking down DeepMind's AlphaTensor
 
     https://pub.towardsai.net/breaking-down-deepminds-alphatensor-15534303cde2
