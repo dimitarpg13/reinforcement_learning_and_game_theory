@@ -15,6 +15,8 @@
 
 * [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, Levine S. et al, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OfflineReinforcementLearningTutorialReviewLevine2020.pdf)
 
+* [Reinforcement Learning and Simulation-Based Search in Computer Go, David Silver, PhD Thesis 2009](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Reinforcement_Learning_and_Simulation-Based_Search_in_Computer_Go_Silver_PhDThesis_2009.pdf)
+
 * [A Survey of Partially Observable Markov Desicion Processes: theory, models and algorithms, Monahan G., 2014](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/SurveyOfPOMDP_TheoryModelsAndAlgorithmsMonahan1982.pdf)
 
 * [Optimal Control of Markov Processes with Incomplete State Information, Astrom, JMAA, 1965](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OptimalControlOfMarkovProcessesWithIncompleteStateInformationAstrom1965.pdf)
