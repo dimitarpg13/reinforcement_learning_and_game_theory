@@ -36,9 +36,13 @@
 
 ### DeepMind resources:
 
-* Deep Reinforcement Learning 
+* Deep Reinforcement Learning blog 
 
     https://www.deepmind.com/blog/deep-reinforcement-learning
+
+* DeepMind Reinforcement Learning articles:
+
+    https://www.deepmind.com/research?tag=Reinforcement+learning
 
 ### Computational Neuroscience Lab's resources:
 
