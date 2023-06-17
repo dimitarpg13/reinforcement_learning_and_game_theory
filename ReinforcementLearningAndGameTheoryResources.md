@@ -29,6 +29,8 @@
 
 * [Foolproof Cooperative Learning Jacq, Perolat et al, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Foolproof_Cooperative_Learning_Jacq_2019.pdf)
 
+* [World Discovery Models, Azar et al, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/World_Discovery_Models_Azar_2019.pdf)
+
 * [Deep Reinforcement Learning from Sels-Play in Imperfect-Information Games, Heinrich, Silver, 2016](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Deep_Reinforcement_Learning_from_Self-Play_in_Imperfect-Information_Games_Heinrich_Silver_2016.pdf)
 
 * [Understanding Sampling-Based Adversarial Search Methods, Ramanujan, PhD Thesis, 2012](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Understanding_Sampling-Based_Adversarial_Search_Methods_Ramanujan_PhD_Thesis_2012.pdf)
