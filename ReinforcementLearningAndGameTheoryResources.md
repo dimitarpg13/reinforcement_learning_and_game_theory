@@ -13,6 +13,8 @@
 
 * [Faster sorting algorithms discovered using deep reinforcement learning, Mankowitz et al, 2023, Nature](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/FasterSortingAlgorithmsDiscoveredUsingDLRMankowitzNature2023.pdf)
 
+* [When Should The Agents Explore?, Pislar et al, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/when_should_agents_explore_2022.pdf)
+
 * [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, Levine S. et al, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OfflineReinforcementLearningTutorialReviewLevine2020.pdf)
 
 * [Fast Computation of Nash Equilibria in Imperfect Information games, Munos et al, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Fast_Computation_of_Nash_Equilibria_in_Imperfect_Information_Games_Munos_2020.pdf)
