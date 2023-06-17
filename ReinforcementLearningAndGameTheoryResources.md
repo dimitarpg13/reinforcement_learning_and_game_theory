@@ -84,6 +84,43 @@
 
     https://towardsdatascience.com/the-fundamentals-of-reinforcement-learning-177dd8626042
 
+* Multi-Armed Bandits by Steve Roberts (Part 1): Mathematical Framework and Terminology
+
+    https://towardsdatascience.com/multi-armed-bandits-part-1-b8d33ab80697
+
+* Multi-Armed Bandits by Steve Roberts (Part 2): The Bandit Framework
+
+    https://towardsdatascience.com/multi-armed-bandits-part-2-5834cb7aba4b
+
+* Multi-Armed Bandits by Steve Roberts (Part 3): Bandit Algorithms
+
+    https://towardsdatascience.com/bandit-algorithms-34fd7890cb18
+
+* Multi-Armed Bandits by Steve Roberts (Part 4): The Upper Confidence Bound Bandit Algorithm
+
+    https://towardsdatascience.com/the-upper-confidence-bound-ucb-bandit-algorithm-c05c2bf4c13f
+
+* Multi-Armed Bandits by Steve Roberts (Part 5): Thompson Sampling
+
+    https://towardsdatascience.com/thompson-sampling-fc28817eacb8
+
+* Multi-Armed Bandits by Steve Roberts (Part 6): A Comparison of Bandit Algorithms
+
+    https://towardsdatascience.com/a-comparison-of-bandit-algorithms-24b4adfcabb
+
+
+* An Introduction to Reinforcement Learning by Steve Roberts (Part 1): State Values and Policy Evaluation
+
+    https://towardsdatascience.com/state-values-and-policy-evaluation-ceefdd8c2369
+
+* An Introduction to Reinforcement Learning by Steve Roberts (Part 2): Markov Decision Processes and Bellman Equations
+
+    https://towardsdatascience.com/markov-decision-processes-and-bellman-equations-45234cce9d25
+
+* An Introduction to Reinforcement Learning by Steve Roberts (Part 3): Policy and Value Iteration
+
+    https://towardsdatascience.com/policy-and-value-iteration-78501afb41d2
+
 * Introduction to Reinforcement Learning (Part 1): Multi-armed bandit problem
 
     https://markelsanz14.medium.com/introduction-to-reinforcement-learning-part-1-multi-armed-bandit-problem-618e8cbf9d4b
