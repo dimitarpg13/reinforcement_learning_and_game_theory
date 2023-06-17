@@ -27,7 +27,7 @@
 
 * [Deep Reinforcement Learning slides, Pieter Abbeel, UC Berkeley (August 23th, 2016)](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/docs/deeplearning2016_abbeel_deep_reinforcement.pdf)
 
-* [...More Reinforcement Learning articles on DeepMind site](https://www.deepmind.com/research?tag=Reinforcement+learning)
+[...More Reinforcement Learning articles on DeepMind site](https://www.deepmind.com/research?tag=Reinforcement+learning)
 ## Online tutorials and short readings
 
 ### OpenAI resources:
