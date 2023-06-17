@@ -51,6 +51,8 @@
 
 * [The Optimal Control of Partially Observable markov Processes over the Infinite Horizon: Discounted Costs, Sondik, ORSA, 1973](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OptimalControlOfPOMDPOverInfiniteHorizonSondik1978.pdf)
 
+* [Dynamic Programming and Markov Processes, Ronald Howard, 1960](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/1960-howard-dynamicprogrammingmarkovprocesses.pdf)
+
 * [Deep Reinforcement Learning slides, David Silver, DeepMind, 2015](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/docs/rldm2015_silver_reinforcement_learning.pdf)
 
 * [Deep Reinforcement Learning slides, Pieter Abbeel, UC Berkeley (NIPS 2016)](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/docs/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf) 
