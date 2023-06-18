@@ -31,6 +31,8 @@
 
 * [World Discovery Models, Azar et al, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/World_Discovery_Models_Azar_2019.pdf)
 
+* [Transfer in Deep Reinforcement Learning Using Successor Features and Generalised Policy Imporvement, Barreto et al, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Transfer_in_Deep_Reinforcement_Learning_Using_Successor_Features_and_Generalised_Policy_Improvement_Barreto_2019.pdf)
+
 * [Optimizing Agent Behavior Over Long Time Scales By Transporting Value, Hung, Lillicrap, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Optimizing_agent_behavior_over_long_time_scales_by_transporting_value_Hung_Lillycrap_2019.pdf)
 
 * [Generative Adversarial Self-Imitation Learning, Guo, Oh, et al, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Generative_Adversarial_Self-Imitation_Learning_Guo_Oh_2018.pdf)
