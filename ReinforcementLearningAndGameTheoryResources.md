@@ -1,8 +1,10 @@
 # Reinforcement Learning Resources 
 
-## The Book
+## Books
 
 * [Reinforcement Learning - An Introduction, Second Edition, Richard Sutton, Andrew Barto, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/ReinforcementLearningSuttonSecondEdition2020.pdf)
+
+* [Reinforcement Learning and Optimal Control, Dimitri Bertsekas, 2019 (Draft)](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Reinforcement_Learning_and_Optimal_Control_Bertsekas.pdf)
 
 ## Articles and tutorials
 * [An Introduction to Deep Reinforcement Learning, Vincent Francois-Lavet et al, McGill, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/IntroToDeepReinforcementLearningVFrancois-Lavet2018.pdf)
@@ -68,6 +70,8 @@
 * [Deep Reinforcement Learning slides, Pieter Abbeel, UC Berkeley (NIPS 2016)](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/docs/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf) 
 
 * [Deep Reinforcement Learning slides, Pieter Abbeel, UC Berkeley (August 23th, 2016)](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/docs/deeplearning2016_abbeel_deep_reinforcement.pdf)
+
+* [Reinforcement Learning and Optimal Control A Selective Overview, Dimitri Bertsekas](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Slides_RL_and_Optimal_Control.pdf)
 
 [...More Reinforcement Learning articles on DeepMind site](https://www.deepmind.com/research?tag=Reinforcement+learning)
 ## Online tutorials and short readings
