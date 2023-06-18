@@ -41,6 +41,8 @@
 
 * [Deep Reinforcement Learning from Sels-Play in Imperfect-Information Games, Heinrich, Silver, 2016](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Deep_Reinforcement_Learning_from_Self-Play_in_Imperfect-Information_Games_Heinrich_Silver_2016.pdf)
 
+* [Gradient Estimation Using Stochastic Computation Graphs, J. Schulman, N. Heess, 2016](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Gradient_Estimation_Using_Stochastic_Computation_Graphs_Schulman_2016.pdf)
+
 * [Understanding Sampling-Based Adversarial Search Methods, Ramanujan, PhD Thesis, 2012](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Understanding_Sampling-Based_Adversarial_Search_Methods_Ramanujan_PhD_Thesis_2012.pdf)
 
 * [Reinforcement Learning and Simulation-Based Search in Computer Go, David Silver, PhD Thesis 2009](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Reinforcement_Learning_and_Simulation-Based_Search_in_Computer_Go_Silver_PhDThesis_2009.pdf)
