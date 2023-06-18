@@ -6,6 +6,10 @@
 
 * [Reinforcement Learning and Optimal Control, Dimitri Bertsekas, 2019 (Draft)](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Reinforcement_Learning_and_Optimal_Control_Bertsekas.pdf)
 
+* [Deep Reinforcement Learning, Aske Plaat, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/DeepReinforcementLearning_AskeePlaat2023.pdf)
+
+* [Reinforcement Learning and Stochastic Optimization, Warren Powel, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Powell-Reinforcement-Learning-and-Stochastic-Optimization.pdf)
+
 ## Articles and tutorials
 * [An Introduction to Deep Reinforcement Learning, Vincent Francois-Lavet et al, McGill, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/IntroToDeepReinforcementLearningVFrancois-Lavet2018.pdf)
 
