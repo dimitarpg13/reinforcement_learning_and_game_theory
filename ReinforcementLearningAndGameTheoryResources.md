@@ -35,6 +35,10 @@
 
 * [Optimizing Agent Behavior Over Long Time Scales By Transporting Value, Hung, Lillicrap, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Optimizing_agent_behavior_over_long_time_scales_by_transporting_value_Hung_Lillycrap_2019.pdf)
 
+* [Statistics and Samples in Dsitributional Reinforcement Learning, Rowland et al, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Statistics_and_Samples_in_Distributional_Reinforcement_Learning_Rowland_2019.pdf)
+
+* [The Termination Critic, Harutyunyan, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/The_Termination_Critic_Harutyunyan_2019.pdf)
+
 * [Generative Adversarial Self-Imitation Learning, Guo, Oh, et al, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Generative_Adversarial_Self-Imitation_Learning_Guo_Oh_2018.pdf)
 
 * [Deep Reinforcement Learning and the Deadly Triad, von Hasselt et al, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Deep_Reinforcement_Learning_and_the_Deadly_Triad_Hasselt_2018.pdf)
