@@ -45,6 +45,8 @@
 
 * [Fast deep reinforcement learning using online adjustments from the past, Hansen et al, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Fast_deep_reinforcement_learning_using_online_adjustments_from_the_past_Hansen_2018.pdf)
 
+* [A Generalised Method for Empirical Game Theoretic Analysis, K. Tuyls, J. Perolat, et al, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/A_Generalised_Method_for_Empirical_Game_Theoretic_Analysis_Tuyls_2018.pdf)
+
 * [Deep Reinforcement Learning from Sels-Play in Imperfect-Information Games, Heinrich, Silver, 2016](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Deep_Reinforcement_Learning_from_Self-Play_in_Imperfect-Information_Games_Heinrich_Silver_2016.pdf)
 
 * [Gradient Estimation Using Stochastic Computation Graphs, J. Schulman, N. Heess, 2016](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Gradient_Estimation_Using_Stochastic_Computation_Graphs_Schulman_2016.pdf)
