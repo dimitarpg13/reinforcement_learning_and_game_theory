@@ -112,7 +112,7 @@
 
 * The Fundamentals of Reinforcement Learning with Ruben Winastwan
 
-    Markov Decision Process, Policy, Value Function, Bellman Equation, Dynamic Programming Implementation
+    _Markov Decision Process, Policy, Value Function, Bellman Equation, Dynamic Programming Implementation_
 
     https://towardsdatascience.com/the-fundamentals-of-reinforcement-learning-177dd8626042
 
@@ -411,6 +411,10 @@
     https://studywolf.wordpress.com/2016/04/04/deep-learning-for-control-using-augmented-hessian-free-optimization/
 
     example code: https://github.com/studywolf/blog/blob/master/train_AHF/train_hf.py
+
+* A Deep Dive into Reinforcement Learning: Q-Learning and Deep Q-Learning on a 10x10 FrozenLake Environment with Nandan Grover
+
+    https://medium.com/mlearning-ai/a-deep-dive-into-reinforcement-learning-q-learning-and-deep-q-learning-on-a-10x10-frozenlake-c76d56810a46
 
 ### Jeff Bradberry's blog
 
