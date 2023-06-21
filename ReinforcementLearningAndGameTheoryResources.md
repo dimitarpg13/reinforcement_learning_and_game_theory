@@ -416,6 +416,8 @@
 
     https://medium.com/mlearning-ai/a-deep-dive-into-reinforcement-learning-q-learning-and-deep-q-learning-on-a-10x10-frozenlake-c76d56810a46
 
+    example code: https://github.com/nandangrover/reinforcement_frozenlake
+
 ### Jeff Bradberry's blog
 
 * [Introductuction to Monte Carlo Tree Search](http://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
