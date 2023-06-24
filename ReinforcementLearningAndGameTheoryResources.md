@@ -77,9 +77,19 @@
 
 * [A Survey of Partially Observable Markov Desicion Processes: theory, models and algorithms, Monahan G., 2014](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/SurveyOfPOMDP_TheoryModelsAndAlgorithmsMonahan1982.pdf)
 
+* [POMDP Solution Methods, D. Braziunas, University of Toronto, 2003](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/POMDPTutorialAndSolutionMethodsBraziunas2003.pdf)
+
 * [Optimal Control of Markov Processes with Incomplete State Information, Astrom, JMAA, 1965](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OptimalControlOfMarkovProcessesWithIncompleteStateInformationAstrom1965.pdf)
 
+* [Dynamic Programming Conditions for Partially Observable Stochastic Systems, M.H.A. Davis et al, 1971](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Dynamic_Programming_Conditions_For_Partially_Observable_Stochastic_Systems_Davis_1970.pdf)
+
+* [The Optimal Control of Partially Observable Markov Processes over a Finite Horizon, R. Smallwood, E. Sondik, 1971](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OptimalControlofPOMDPOverFiniteHorizonSmallwoodAndSondik1971.pdf)
+
 * [The Optimal Control of Partially Observable markov Processes over the Infinite Horizon: Discounted Costs, Sondik, ORSA, 1973](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OptimalControlOfPOMDPOverInfiniteHorizonSondik1978.pdf)
+
+* [Optimal Control For Partially Observable Markov Decision Processes Over an Infinite Horizon, Sawaki, 1978](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OptimalCOntrolForPOMDPOverInfiniteHorizon1978Sawaki.pdf)
+
+* [Semi-Markov Decision Processes with Incomplete State Observation, Discounted Cost Criterion, Kazuyoshi Wakuta, 1982](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/SemiMarkovDecisionProcessesWithIncompleteStateObservation_DiscountedCostCriterion_Wakuta_1982.pdf)
 
 
 ## Online tutorials and short readings
