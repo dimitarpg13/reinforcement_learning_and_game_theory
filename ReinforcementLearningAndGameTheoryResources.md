@@ -418,6 +418,38 @@
 
     example code: https://github.com/nandangrover/reinforcement_frozenlake
 
+* Reinforcement Learning - TD(lambda) Introduction with Jeremy Zhang (Part 1)
+
+    Apply offline-lambda on Random Walk
+
+    code for _RL, an Introduction_ : https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+
+    https://towardsdatascience.com/reinforcement-learning-td-%CE%BB-introduction-686a5e4f4e60
+
+* Reinforcement Learning - TD(lambda) Introduction with Jeremy Zhang (Part 2)
+
+    TD(lambda) with eligibility trace
+
+    code for _RL, an Introduction_ : https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+
+    https://meatba11.medium.com/reinforcement-learning-td-%CE%BB-introduction-2-f0ea427cd395
+
+
+* Reinforcement Learning - TD(lambda) Introduction with Jeremy Zhang (Part 3)
+
+    Extend TD(lambda) on Q function with Sarsa(lambda)
+
+    code for _RL, an Introduction_ : https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+
+    https://towardsdatascience.com/reinforcement-learning-td-%CE%BB-introduction-3-f329bdbf872a
+
+* Reinforcement Learning - Generalization of Continuing Tasks
+
+    Server Access Example implementation
+
+    https://towardsdatascience.com/reinforcement-learning-generalisation-on-continuing-tasks-ffb9a89d57d0
+
+
 ### Jeff Bradberry's blog
 
 * [Introductuction to Monte Carlo Tree Search](http://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
