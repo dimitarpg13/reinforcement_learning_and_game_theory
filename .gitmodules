@@ -7,3 +7,6 @@
 [submodule "src/open_spiel"]
 	path = src/open_spiel
 	url = https://github.com/deepmind/open_spiel.git
+[submodule "src/examples/reinforcement-learning-an-introduction"]
+	path = src/examples/reinforcement-learning-an-introduction
+	url = https://github.com/ShangtongZhang/reinforcement-learning-an-introduction.git
