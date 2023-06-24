@@ -9,4 +9,4 @@
 	url = https://github.com/deepmind/open_spiel.git
 [submodule "src/examples/reinforcement-learning-an-introduction"]
 	path = src/examples/reinforcement-learning-an-introduction
-	url = https://github.com/ShangtongZhang/reinforcement-learning-an-introduction.git
+	url = https://github.com/dimitarpg13/reinforcement-learning-an-introduction.git 
