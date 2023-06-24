@@ -61,12 +61,6 @@
 
 * [Reinforcement Learning and Simulation-Based Search in Computer Go, David Silver, PhD Thesis 2009](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Reinforcement_Learning_and_Simulation-Based_Search_in_Computer_Go_Silver_PhDThesis_2009.pdf)
 
-* [A Survey of Partially Observable Markov Desicion Processes: theory, models and algorithms, Monahan G., 2014](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/SurveyOfPOMDP_TheoryModelsAndAlgorithmsMonahan1982.pdf)
-
-* [Optimal Control of Markov Processes with Incomplete State Information, Astrom, JMAA, 1965](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OptimalControlOfMarkovProcessesWithIncompleteStateInformationAstrom1965.pdf)
-
-* [The Optimal Control of Partially Observable markov Processes over the Infinite Horizon: Discounted Costs, Sondik, ORSA, 1973](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OptimalControlOfPOMDPOverInfiniteHorizonSondik1978.pdf)
-
 * [Dynamic Programming and Markov Processes, Ronald Howard, 1960](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/1960-howard-dynamicprogrammingmarkovprocesses.pdf)
 
 * [Deep Reinforcement Learning slides, David Silver, DeepMind, 2015](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/docs/rldm2015_silver_reinforcement_learning.pdf)
@@ -78,6 +72,16 @@
 * [Reinforcement Learning and Optimal Control A Selective Overview, Dimitri Bertsekas](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Slides_RL_and_Optimal_Control.pdf)
 
 [...More Reinforcement Learning articles on DeepMind site](https://www.deepmind.com/research?tag=Reinforcement+learning)
+
+## Partially Observable Markov Processes articles
+
+* [A Survey of Partially Observable Markov Desicion Processes: theory, models and algorithms, Monahan G., 2014](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/SurveyOfPOMDP_TheoryModelsAndAlgorithmsMonahan1982.pdf)
+
+* [Optimal Control of Markov Processes with Incomplete State Information, Astrom, JMAA, 1965](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OptimalControlOfMarkovProcessesWithIncompleteStateInformationAstrom1965.pdf)
+
+* [The Optimal Control of Partially Observable markov Processes over the Infinite Horizon: Discounted Costs, Sondik, ORSA, 1973](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OptimalControlOfPOMDPOverInfiniteHorizonSondik1978.pdf)
+
+
 ## Online tutorials and short readings
 
 ### OpenAI resources:
