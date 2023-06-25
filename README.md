@@ -1,6 +1,6 @@
 # reinforcement learning and game theory
 
-This repository is a work in progress.
+This repository is a **work in progress**.
 
 This repository will provide supplementary material for the following books:
 * Sutton's Reinforcement Learning Second Edition
