@@ -3,7 +3,8 @@
 This repository is a work in progress.
 
 This repository will provide supplementary material for the following books:
-* Sutton's Reinforcement Learning Second Edition and
+* Sutton's Reinforcement Learning Second Edition
+* Dimitri Bertsekas' Reinforcement Learning and Optimal Control
 * Blackwell's Theory of Games and Statistical Decisions
 
 We will go through some of the examples and excercises in both books and will write a Python code for solving those. 
