@@ -463,6 +463,18 @@
 
     https://towardsdatascience.com/reinforcement-learning-generalisation-on-continuing-tasks-ffb9a89d57d0
 
+* The exploration-exploitation tradeoff: intuitions and strategies with Joseph Rocca
+    
+    Understanding e-greedy, optimistic initialization, UCB and Thompson sampling strategies
+
+    https://towardsdatascience.com/the-exploration-exploitation-dilemma-f5622fbe1e82
+
+* RL - Exploration with Deep Learning with Jonathan Hui
+
+    https://jonathan-hui.medium.com/rl-exploration-9d7c15c5bf79
+
+
+
 
 ### Jeff Bradberry's blog
 
