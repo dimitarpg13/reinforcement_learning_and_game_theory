@@ -316,6 +316,7 @@
 
     https://medium.com/@sthanikamsanthosh1994/reinforcement-learning-part-8-proximal-policy-optimization-ppo-for-trading-9f1c3431f27d
 
+
 * Foundational RL with Rahul Bhadani: Value Iteration and Policy Iteration
 
     https://medium.com/mlearning-ai/foundational-rl-value-iteration-and-policy-iteration-76251e47581b
@@ -356,6 +357,23 @@
     What goes into a stable accurate reinforcement signal?
 
     https://blog.mlreview.com/making-sense-of-the-bias-variance-trade-off-in-deep-reinforcement-learning-79cf1e83d565
+
+* n-step Bootrapping in Reinforcement Learning with Shivam Mohan
+
+    Introduction
+
+    https://medium.com/@shivamohan07/n-step-bootstrapping-in-reinforcement-learning-fa87cbd0584a
+
+* A brief overview of Eligibility Traces in Reinforcement Learning with Shivam Mohan
+
+    https://medium.com/nerd-for-tech/a-brief-overview-of-eligibility-traces-in-reinforcement-learning-c0a8326fa9f7
+
+* Temporal Difference Learning in Reinforcement Learning
+
+    Introduction
+
+    https://medium.com/nerd-for-tech/temporal-difference-learning-in-reinforcement-learning-cf13ed159fcb
+
 
 * Reinforcement Learning - Generalization In Continuous State Space
 
