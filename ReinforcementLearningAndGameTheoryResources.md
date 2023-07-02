@@ -443,6 +443,20 @@
 
     https://pub.towardsai.net/breaking-down-deepminds-alphatensor-15534303cde2
 
+* Batched Bandit Problems with Sean Smith
+
+    Multi-armed Bandits with delayed rewards in successive trials
+
+    https://towardsdatascience.com/batched-bandit-problems-ea73dba5da7a
+
+* A Lesson on Applied Reinforcement Learning in Production with Bill Zhu
+
+    https://medium.com/@zheqing.zhu/a-lesson-on-applied-reinforcement-learning-in-production-2390011994b3
+
+* Deep Reinforcement Learning for Network Design in Marine Transportation with Timothe Boulet
+
+    https://medium.com/instadeep/deep-reinforcement-learning-for-network-design-in-marine-transportation-c3e31a1aba0
+
 ### StudyWolf's resources:
 * Reinforcement Learning Part 1: Q-Learning and exploration
 
