@@ -368,7 +368,7 @@
 
     https://medium.com/nerd-for-tech/a-brief-overview-of-eligibility-traces-in-reinforcement-learning-c0a8326fa9f7
 
-* Temporal Difference Learning in Reinforcement Learning
+* Temporal Difference Learning in Reinforcement Learning with Shivam Mohan
 
     Introduction
 
