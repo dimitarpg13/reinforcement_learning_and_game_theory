@@ -358,6 +358,12 @@
 
     https://blog.mlreview.com/making-sense-of-the-bias-variance-trade-off-in-deep-reinforcement-learning-79cf1e83d565
 
+* Monte Carlo Methods for Reinforcement Learning with Shivam Mohan
+
+    Introduction
+
+    https://medium.com/nerd-for-tech/monte-carlo-methods-for-reinforcement-learning-d30d874dd817
+
 * n-step Bootrapping in Reinforcement Learning with Shivam Mohan
 
     Introduction
