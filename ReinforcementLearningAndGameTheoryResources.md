@@ -518,6 +518,9 @@
 * [Introductuction to Monte Carlo Tree Search](http://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
 
 ## online lecture videos
+
+* [Control as Inference and Soft Deep RL with Sergey Levine ()NIPS 2018)](https://www.youtube.com/watch?v=IAJ1LywY6Zg)
+
 * [Tutorial: Introduction to Reinforcement Learning with Function Approximation (NIPS Tutorials 2015)](https://www.youtube.com/watch?v=ggqnxyjaKe4)
 
 * Deep Reinforcement Learning: John Schulman, OpenAI, Berkeley (MLSS Cadiz, 2016)
