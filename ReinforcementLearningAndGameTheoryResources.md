@@ -550,6 +550,8 @@
 
 ## Books
 
+* [Theory of Games and Statistical Decisions, David Blackwell, 1954](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/TheoryofGamesAndStatisticalDecisionsBlackwell1954.pdf)
+
 * [Algorithmic Game Theory, Tim Roughgarden, 2007](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/algorithmic-game-theory-roughgarden.pdf)
 
 ## online lecture videos
