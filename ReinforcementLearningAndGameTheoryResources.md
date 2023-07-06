@@ -23,6 +23,8 @@
 
 * [Emotions as Computations, Emanuel, A., Eldar, E., 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Emotions_as_computations_Emanuel_Eldar_2022.pdf)
 
+* [Mood as Representation of Momentum, Eldar, E. et al, 2016](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Mood_as_Representation_of_Momentum_Eldar_2016.pdf)
+
 * [When Should The Agents Explore?, Pislar et al, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/when_should_agents_explore_2022.pdf)
 
 * [What Can Learned Intrinsic Rewards Capture?, Zheng at al, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/What_Can_Learned_Intrinsic_Rewards_Capture_Zheng_Oh_2020.pdf)
