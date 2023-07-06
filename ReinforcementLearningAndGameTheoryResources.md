@@ -518,6 +518,7 @@
 * [Introductuction to Monte Carlo Tree Search](http://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
 
 ## online lecture videos
+* [Reinforcement Learning from Human Feedback: Progress and Challenges with John Schulman (Berkeley EECS Colloquium, April 19, 2023)](https://www.youtube.com/watch?v=hhiLw5Q_UFg)
 
 * [Control as Inference and Soft Deep RL with Sergey Levine (NIPS 2018)](https://www.youtube.com/watch?v=IAJ1LywY6Zg)
 
