@@ -19,6 +19,10 @@
 
 * [Faster sorting algorithms discovered using deep reinforcement learning, Mankowitz et al, 2023, Nature](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/FasterSortingAlgorithmsDiscoveredUsingDLRMankowitzNature2023.pdf)
 
+* [A Model of Mood as Integrated Advantage, Bennett, D, Davidson, G., Niv Y, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/A_model_of_mood_as_integrated_advantage_Bennett2023.pdf)
+
+* [Emotions as Computations, Emanuel, A., Eldar, E., 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Emotions_as_computations_Emanuel_Eldar_2022.pdf)
+
 * [When Should The Agents Explore?, Pislar et al, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/when_should_agents_explore_2022.pdf)
 
 * [What Can Learned Intrinsic Rewards Capture?, Zheng at al, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/What_Can_Learned_Intrinsic_Rewards_Capture_Zheng_Oh_2020.pdf)
