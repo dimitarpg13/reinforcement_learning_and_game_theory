@@ -481,6 +481,10 @@
 
     https://medium.com/instadeep/deep-reinforcement-learning-for-network-design-in-marine-transportation-c3e31a1aba0
 
+* The Emotional Lives of RL Agents
+
+    https://awjuliani.medium.com/the-emotional-lives-of-rl-agents-12e2c8ee36af
+
 ### StudyWolf's resources:
 * Reinforcement Learning Part 1: Q-Learning and exploration
 
