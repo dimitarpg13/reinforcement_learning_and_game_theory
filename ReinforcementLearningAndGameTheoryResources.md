@@ -335,6 +335,10 @@
 
     https://towardsdatascience.com/foundational-rl-solving-markov-decision-process-d90b7e134c0b
 
+* Cross-entropy method for Reinforcement Learning with Avishree Khare
+
+    https://towardsdatascience.com/cross-entropy-method-for-reinforcement-learning-2b6de2a4f3a0
+
 * Temporal Difference Learning in Reinforcement Learning
 
     https://medium.com/nerd-for-tech/temporal-difference-learning-in-reinforcement-learning-cf13ed159fcb
