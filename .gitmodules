@@ -10,3 +10,6 @@
 [submodule "src/examples/reinforcement-learning-an-introduction"]
 	path = src/examples/reinforcement-learning-an-introduction
 	url = https://github.com/dimitarpg13/reinforcement-learning-an-introduction.git
+[submodule "src/keras-rl"]
+	path = src/keras-rl
+	url = https://github.com/keras-rl/keras-rl.git
