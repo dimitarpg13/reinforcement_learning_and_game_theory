@@ -19,3 +19,6 @@
 [submodule "src/src/box2d-py"]
 	path = src/src/box2d-py
 	url = https://github.com/openai/box2d-py.git
+[submodule "src/box2d-py"]
+	path = src/box2d-py
+	url = https://github.com/openai/box2d-py.git
