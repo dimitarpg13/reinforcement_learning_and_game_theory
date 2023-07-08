@@ -13,3 +13,9 @@
 [submodule "src/keras-rl"]
 	path = src/keras-rl
 	url = https://github.com/keras-rl/keras-rl.git
+[submodule "src/openai/gym"]
+	path = src/openai/gym
+	url = https://github.com/openai/gym.git
+[submodule "src/src/box2d-py"]
+	path = src/src/box2d-py
+	url = https://github.com/openai/box2d-py.git
