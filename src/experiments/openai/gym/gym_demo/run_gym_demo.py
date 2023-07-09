@@ -8,8 +8,8 @@ while True:
      env.render()
      observation = env.reset()
      print(observation)
-     action = env.action_space.sample()
-     observation, reward, done, info, _ = env.step(action)
+     random_action = env.action_space.sample()
+     observation, reward, done, info, _ = env.step(random_action)
      if done:
          print("Episode finished after {} timesteps".format(t+1))
          break
