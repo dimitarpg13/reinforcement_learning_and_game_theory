@@ -2,8 +2,8 @@ import gym
 import random
 import time
 
-MAX_EPISODE_TIMESTEPS = 200
-env = gym.make('MountainCar-v0', render_mode="human")
+MAX_EPISODE_TIMESTEPS = 500
+env = gym.make('BipedalWalker-v3', render_mode="human")
 
 
 def Random_games():
