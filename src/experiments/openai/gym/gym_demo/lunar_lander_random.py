@@ -1,15 +1,17 @@
 import gym
 import random
 
+MAX_EPISODE_TIMESTEPS = 10000
 env = gym.make("LunarLander-v2",render_mode="human")
 
 def Random_games():
-    # each of this episode is its own game
+    # each of these episodes is a new game
     for episode in range(10):
         env.reset()
 
-        # this is each frame, up to 500
-        while True:
+        # perform up to MAX_EPISODE_TIMESTEPS, generating that number of frames
+        t = 0
+        while t < MAX_EPISODE_TIMESTEPS:
             # This will display the environment
             # Only display if you really want to see it
             # Takes much longer to display it
@@ -23,6 +25,8 @@ def Random_games():
             # and returns the observation of the environment,
             # the reward, if the env is over, and other info.
             next_state, reward, done, info, _ = env.step(action)
+
+            t = t + 1
 
             # lets print everything in one line:
             print(next_state, reward, done, info, action)
