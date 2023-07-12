@@ -1,4 +1,5 @@
 import gym
+import random
 
 env = gym.make('MountainCar-v0', render_mode="human")
 observation = env.reset()
@@ -10,8 +11,9 @@ while True:
      print(observation)
      random_action = env.action_space.sample()
      observation, reward, done, info, _ = env.step(random_action)
-     if done:
+     if done or t == 500:
          print("Episode finished after {} timesteps".format(t+1))
          break
 
 env.close()
+
