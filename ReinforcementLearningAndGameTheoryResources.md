@@ -122,6 +122,12 @@
 
     https://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/
 
+### Richard Sutton's online posts
+
+* The Bitter Lesson with Richard Sutton
+
+    http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+
 ### Andrej Karpathy's blog
 
 * Deep Reinforcement learning: Pong From Pixels
@@ -494,6 +500,34 @@
 * The Emotional Lives of RL Agents
 
     https://awjuliani.medium.com/the-emotional-lives-of-rl-agents-12e2c8ee36af
+
+* Curious Agents: An Introduction with Dries Smith
+
+    https://medium.com/@dries.epos/curious-agents-ebfee02ef024
+
+    (code of this series: https://github.com/DriesSmit/CuriousAgents)
+
+* Curious Agents II: Solving MountainCar without Rewards
+
+    https://medium.com/@dries.epos/curious-agents-ii-solving-mountaincar-without-rewards-c49ae2177819
+
+    (code of this series: https://github.com/DriesSmit/CuriousAgents)
+
+* Curious Agents III: BYOL-Explore
+
+    https://medium.com/@dries.epos/curious-agents-iii-byol-explore-93f34fa6146a
+
+    (code of this series: https://github.com/DriesSmit/CuriousAgents)
+
+* Curious Agents IV: BYOL-Hindsight
+
+    https://medium.com/@dries.epos/curious-agents-iv-byol-hindsight-318c559175f0
+
+    (code of this series: https://github.com/DriesSmit/CuriousAgents)
+
+* Understanding the World Through Action: RL as a Foundation for Scalable Self-Supervised Learning with Sergey Levine
+
+    https://medium.com/@sergey.levine/understanding-the-world-through-action-rl-as-a-foundation-for-scalable-self-supervised-learning-636e4e243001
 
 ### StudyWolf's resources:
 * Reinforcement Learning Part 1: Q-Learning and exploration
