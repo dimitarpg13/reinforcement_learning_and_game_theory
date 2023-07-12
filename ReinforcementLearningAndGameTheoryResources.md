@@ -124,7 +124,7 @@
 
 ### Richard Sutton's online posts
 
-* The Bitter Lesson with Richard Sutton
+* The Bitter Lesson, Richard Sutton, 2019
 
     http://www.incompleteideas.net/IncIdeas/BitterLesson.html
 
@@ -528,6 +528,18 @@
 * Understanding the World Through Action: RL as a Foundation for Scalable Self-Supervised Learning with Sergey Levine
 
     https://medium.com/@sergey.levine/understanding-the-world-through-action-rl-as-a-foundation-for-scalable-self-supervised-learning-636e4e243001
+
+* How Robots Can Learn End-to-End from Data with Sergey Levine
+
+    https://medium.com/@sergey.levine/how-robots-can-learn-end-to-end-from-data-3d879b0a2ba1
+
+* Decisions from Data: How Offline Reinforcement Learning Will Change How We Use Machine Learning with Sergey Levine
+
+    https://medium.com/@sergey.levine/decisions-from-data-how-offline-reinforcement-learning-will-change-how-we-use-ml-24d98cb069b0
+
+* An Ecological Perspective on Reinforcement Learning
+
+    https://medium.com/@sergey.levine/an-ecological-perspective-on-reinforcement-learning-de697f3d6516
 
 ### StudyWolf's resources:
 * Reinforcement Learning Part 1: Q-Learning and exploration
