@@ -294,7 +294,9 @@
 * Simple Reinforcement Learning with Tensorflow (Part 8), Arthur Juliani: Asynchronous Actor-Critic Agents (A3C)
 
     https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2#.hg13tn9zw
+* Q Learning Algorithm: How to Successfully Teach an Intelligent Agent to Play A Game
 
+    https://towardsdatascience.com/q-learning-algorithm-how-to-successfully-teach-an-intelligent-agent-to-play-a-game-933595fd1abf
 
 * Reinforcement Learning with Sthanikam Santhosh (Part 1): Deep Q Learning using Tensorflow2
 
