@@ -553,7 +553,7 @@
 
     https://jonathan-hui.medium.com/rl-exploration-9d7c15c5bf79
 
-* Multi-agent Reinforcement Learning Paper Reading RODE: Learning Roles to Decompose Multi-agent Tasks with Christian Lin
+* Multi-agent Reinforcement Learning Paper Reading - RODE: Learning Roles to Decompose Multi-agent Tasks with Christian Lin
 
     https://medium.com/@crlc112358/multi-agent-reinforcement-learning-paper-reading-rode-learning-roles-to-decompose-multi-agent-31e54f196425
 
@@ -564,6 +564,12 @@
     https://medium.com/@crlc112358/multi-agent-reinforcement-learning-paper-reading-trust-region-policy-optimization-inmulti-agent-f52e55a1c060
 
     link to the paper [here](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/TheSurprisingEffectivenessofPPOinCooperativeMulti-AgentGames_Yu2022.pdf)
+
+* Multi-agent Reinforcement Learning paper Reading - Offline Reinforcement Learning with Knowledge Distillation with Christopher Lin
+
+    https://medium.com/@crlc112358/multi-agent-reinforcement-learning-paper-reading-offline-multi-agent-reinforcement-learning-with-6718f3cbf6fc
+
+    link to the paper [here]()
 
 ### StudyWolf's resources:
 * Reinforcement Learning Part 1: Q-Learning and exploration
