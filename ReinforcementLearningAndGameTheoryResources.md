@@ -569,7 +569,7 @@
 
     https://medium.com/@crlc112358/multi-agent-reinforcement-learning-paper-reading-offline-multi-agent-reinforcement-learning-with-6718f3cbf6fc
 
-    link to the paper [here]()
+    link to the paper [here](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Offline_Multi-Agent_Reinforcement_Learning_with_Knowledge_Distillation_Tseng2022.pdf)
 
 ### StudyWolf's resources:
 * Reinforcement Learning Part 1: Q-Learning and exploration
