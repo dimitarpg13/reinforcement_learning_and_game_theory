@@ -547,6 +547,8 @@
 
     https://medium.com/@marlos.cholodovskis/deep-laplacian-based-options-for-temporally-extended-exploration-7bf8dd469838
 
+    links to the papers - [here](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/DeepLaplacian-basedOptionsforTemporally-ExtendedExploration_Klissarov_Machado_2023.pdf) and [here](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/TemporalAbstractioninReinforcementLearningwiththeSuccessorRepresentation_Machado2023.pdf).
+
 * RL - Explorationg with Deep Learning with Jonathan Hui
 
     https://jonathan-hui.medium.com/rl-exploration-9d7c15c5bf79
