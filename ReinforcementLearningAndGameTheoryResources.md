@@ -543,6 +543,14 @@
 
     https://medium.com/@sergey.levine/an-ecological-perspective-on-reinforcement-learning-de697f3d6516
 
+* Deep Laplacian-based Options for Temporally-Extended Exploration with Marlos Machado
+
+    https://medium.com/@marlos.cholodovskis/deep-laplacian-based-options-for-temporally-extended-exploration-7bf8dd469838
+
+* RL - Explorationg with Deep Learning with Jonathan Hui
+
+    https://jonathan-hui.medium.com/rl-exploration-9d7c15c5bf79
+
 ### StudyWolf's resources:
 * Reinforcement Learning Part 1: Q-Learning and exploration
 
