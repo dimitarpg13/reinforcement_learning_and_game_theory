@@ -563,7 +563,7 @@
 
     https://medium.com/@crlc112358/multi-agent-reinforcement-learning-paper-reading-trust-region-policy-optimization-inmulti-agent-f52e55a1c060
 
-    link to the paper [here](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/TheSurprisingEffectivenessofPPOinCooperativeMulti-AgentGames_Yu2022.pdf)
+    link to the paper [here](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/TheSurprisingEffectivenessofPPOinCooperativeMulti-AgentGames_Yu2022.pdf) and [here](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Proximal_Policy_Optimization_Algorithms_Shulman_2017.pdf)
 
 * Multi-agent Reinforcement Learning paper Reading - Offline Reinforcement Learning with Knowledge Distillation with Christopher Lin
 
