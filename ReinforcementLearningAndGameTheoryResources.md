@@ -579,6 +579,34 @@
 
     link to the paper [here](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Offline_Multi-Agent_Reinforcement_Learning_with_Knowledge_Distillation_Tseng2022.pdf)
 
+### PyLessons online tutorials using OpenAI Gym environment
+
+* [Introduction to Reinforcement Learning: CartPole game](https://pylessons.com/CartPole-reinforcement-learning)
+
+* [Solving the Cartpole with Double Deep Q Network](https://pylessons.com/CartPole-DDQN)
+
+* [Solving the Cartpole with Dueling Double Deep Q Network](https://pylessons.com/CartPole-DDDQN)
+
+* [Epsilon Greedy in Deep Q Learning](https://pylessons.com/Epsilon-Greedy-DQN)
+
+* [D3QN Agent with Prioritized Experience Replay](https://pylessons.com/CartPole-PER)
+
+* [DQN PER with Convolutional Neural Networks](https://pylessons.com/CartPole-PER-CNN)
+
+* [A.I. learns to play Pong with Deed Q Network](https://pylessons.com/DQN-PONG)
+
+* [Introduction to Reinforcement Learning Policy Gradient](https://pylessons.com/Beyond-DQN)
+
+* [Introduction to Advantage Actor-Critic method (A2C)](https://pylessons.com/A2C-reinforcement-learning)
+
+* [Asynchronous Advantage Actor-Critic (A3C) algorithm](https://pylessons.com/A3C-reinforcement-learning)
+
+* [Policy Optimization (PPO)](https://pylessons.com/PPO-reinforcement-learning)
+
+* [LunarLander-v2 with Proximal Policy Optimization](https://pylessons.com/LunarLander-v2-PPO)
+
+* [BipedalWalker-v3 with Continuous Proximal Policy Optimization](https://pylessons.com/BipedalWalker-v3-PPO)
+
 ### StudyWolf's resources:
 * Reinforcement Learning Part 1: Q-Learning and exploration
 
