@@ -37,6 +37,8 @@
 
 * [Making Sense of Reinforcement Learning and Probabilistic Inference, O'Donoghue et al, ICLR, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Making_Sense_of_Reinforcement_Learning_And_Probabilistic_Inference_ODonoghue_ICLR_2020.pdf)
 
+* [Continuous Control With Deep Reinforcement Learning, T. Lillicrap, et al, 2015](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Continuous_control_with_deep_reinforcement_learning_Lillycrap_2015.pdf)
+
 * [Deep Reinforcement Learning from Self-Play in Imperfect-Information Games, Heinrich, UCL, 2016](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Deep_Reinforcement_Learning_from_Self-Play_in_Imperfect-Information_Games_Heinrich_Silver_2016.pdf)
 
 * [A Bayesian Approach to Robust Reinforcement Learning, Derman, Derman et al, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/A_Bayesian_Approach_to_Robust_Reinforcement_Learning_Derman_2019.pdf)
