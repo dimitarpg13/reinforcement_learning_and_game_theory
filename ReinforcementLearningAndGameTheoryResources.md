@@ -551,6 +551,126 @@
 
     https://medium.com/@sergey.levine/an-ecological-perspective-on-reinforcement-learning-de697f3d6516
 
+* A Gentle Introduction to Deep Reinforcement Learning with Jordi Torres
+
+    https://towardsdatascience.com/drl-01-a-gentle-introduction-to-deep-reinforcement-learning-405b79866bf4
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
+* Formalization of a Reinforcement Learning Problem with Jordi Torres
+
+    https://towardsdatascience.com/drl-02-formalization-of-a-reinforcement-learning-problem-108b52ebfd9a
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
+* Deep Learning Basics: Basic Concepts for Beginners with Jordi Torres
+
+    https://towardsdatascience.com/deep-learning-basics-1d26923cc24a
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
+* Deep Learning with PyTorch: First contact with PyTorch for beginners with Jordi Torres
+
+    https://towardsdatascience.com/deep-learning-with-pytorch-a93b09bdae96
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
+* PyTorch Performance Analysis with TensorBoad: How to run TensorBoard for PyTorch inside Colab
+
+    https://towardsdatascience.com/pytorch-performance-analysis-with-tensorboard-7c61f91071aa
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
+* Solving a Reinforcement Learning Problem Using Cross-Entropy Method: Agent Creation Using Deep Neural Networks with Jordi Torres
+
+    https://towardsdatascience.com/solving-a-reinforcement-learning-problem-using-cross-entropy-method-23d9726a737
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
+* Cross-Entropy Method Performance Analysis: Implementation of Cross Entropy Training Loop with Jordi Torres
+
+    https://towardsdatascience.com/cross-entropy-method-performance-analysis-161a5faef5fc
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
+* The Bellman Equation: V-function and Q-function explained with Jordi Torres
+
+    https://towardsdatascience.com/the-bellman-equation-59258a0d3fa7
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
+* The Value Iteration Algorithm: Estimation of Transitions and Rewards from the Agent's Experience with Jordi Torres
+
+    https://torres.ai/deep-reinforcement-learning-explained-series/
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
+* Value Iteration for V-function: V-function in Practice for Frozen-Lake Environment with Jordi Torres
+
+    https://towardsdatascience.com/value-iteration-for-v-function-d7bcccc1ec24
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
+* Value Iteration for Q-function: Frozen Lake code for Q function with Jordi Torres
+
+    https://towardsdatascience.com/value-iteration-for-q-function-ac9e508d85bd
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
+* Reviewing Essential Concepts: Mathematical Notation Updated with Jordi Torres
+
+    https://towardsdatascience.com/reviewing-essential-concepts-from-part-1-e28234ee7f4f
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
+* Monte Carlo methods: Exploration-Exploitation Dilemma with Jordi Torres
+
+    https://towardsdatascience.com/monte-carlo-methods-9b289f030c2e
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
+* MC Control and Temporal Difference Methods: Constant-a MC Control, Sarsa, Q-Learning with Jordi Torres
+
+    https://towardsdatascience.com/mc-control-methods-50c018271553
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
+* Deep Q-Network (DQN)-I: OpenAI Gym Pong and Wrappers with Jordi Torres
+
+    https://towardsdatascience.com/deep-q-network-dqn-i-bce08bdf2af
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
+* Deep Q-Network (DQN)-II: Experience Replay and Target Networks with Jordi Torres
+
+    https://towardsdatascience.com/deep-q-network-dqn-ii-b6bf911b6b2c
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
+* Deep Q-Netowrk (DQN)-III: Performance and Use with Jordi Torres
+
+    https://towardsdatascience.com/deep-q-network-dqn-iii-c5a83b0338d2
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
+* Policy-Based Methods: Hill Climbing Algorithm with Jordi Torres
+
+    https://towardsdatascience.com/policy-based-methods-8ae60927a78d
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
+* Policy-Gradient Methods: REINFORCE algorithm with Jordi Torres
+
+    https://towardsdatascience.com/policy-gradient-methods-104c783251e0
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
+* Reinforcement Learning Frameworks: Solving CartPole Environment using RLib on Ray framework with Jordi Torres
+
+    https://towardsdatascience.com/reinforcement-learning-frameworks-e349de4f645a
+
+    (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+
 * Deep Laplacian-based Options for Temporally-Extended Exploration with Marlos Machado
 
     https://medium.com/@marlos.cholodovskis/deep-laplacian-based-options-for-temporally-extended-exploration-7bf8dd469838
