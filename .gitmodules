@@ -19,3 +19,6 @@
 [submodule "src/openai/box2d-py"]
 	path = src/openai/box2d-py
 	url = https://github.com/openai/box2d-py.git
+[submodule "src/examples/deep-reinforcement-learning-explained"]
+	path = src/examples/deep-reinforcement-learning-explained
+	url = https://github.com/dimitarpg13/Deep-Reinforcement-Learning-Explained.git
