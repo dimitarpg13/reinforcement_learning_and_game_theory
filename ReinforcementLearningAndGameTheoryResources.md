@@ -681,6 +681,10 @@
 
     https://jonathan-hui.medium.com/rl-exploration-9d7c15c5bf79
 
+* Multi-Agent Reinforcement Learning (MARL) algorithms with Mehul Gupta 
+
+    https://medium.com/data-science-in-your-pocket/multi-agent-reinforcement-learning-marl-algorithms-4156f2a0d448
+
 * Multi-agent Reinforcement Learning Paper Reading - RODE: Learning Roles to Decompose Multi-agent Tasks with Christian Lin
 
     https://medium.com/@crlc112358/multi-agent-reinforcement-learning-paper-reading-rode-learning-roles-to-decompose-multi-agent-31e54f196425
