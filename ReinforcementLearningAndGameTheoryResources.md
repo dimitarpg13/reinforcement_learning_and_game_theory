@@ -709,6 +709,14 @@
 
     https://ayushtues.medium.com/rl-with-diffusion-i-d64c6e96d5ed
 
+    link to the paper [here](https://arxiv.org/pdf/2205.09991.pdf)
+
+    link to web page [here](https://diffusion-planning.github.io/)
+
+    link to github repo [here](https://github.com/jannerm/diffuser)
+
+    colab link [here](https://colab.research.google.com/drive/1YajKhu-CUIGBJeQPehjVPJcK_b38a8Nc?usp=sharing)
+
 
 ### PyLessons online tutorials using OpenAI Gym environment
 
