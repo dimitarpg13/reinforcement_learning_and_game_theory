@@ -14,7 +14,7 @@ For the books on Reinforcement Learning we will discuss and go through the follo
 For the second book we will discuss and go through the following packages: [NashPy](https://nashpy.readthedocs.io/en/stable/) and [Gambit](http://www.gambit-project.org/gambit15/pyapi.html). 
 
 
-## Relevant Work
+## Other Relevant Work
  
  * [Reinforcement Learning](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
 
