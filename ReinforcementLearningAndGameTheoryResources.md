@@ -27,6 +27,8 @@
 
 * [When Should The Agents Explore?, Pislar et al, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/when_should_agents_explore_2022.pdf)
 
+* [Planning with Diffusion for Flexible Behavior Synthesis, Michael Janner, Yliun Du, Joshua Tennenbaum, Sergey Levine, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Planning_with_Diffusion_for_Flexible_Behavior_Synthesis_Janner_Du_Tennenbaum_Levine_2022.pdf)
+
 * [What Can Learned Intrinsic Rewards Capture?, Zheng at al, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/What_Can_Learned_Intrinsic_Rewards_Capture_Zheng_Oh_2020.pdf)
 
 * [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, Levine S. et al, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OfflineReinforcementLearningTutorialReviewLevine2020.pdf)
