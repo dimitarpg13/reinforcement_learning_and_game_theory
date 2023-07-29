@@ -703,6 +703,11 @@
 
     link to the paper [here](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Offline_Multi-Agent_Reinforcement_Learning_with_Knowledge_Distillation_Tseng2022.pdf)
 
+* Reinforcement Learning/RL with diffusion - I with Ayush Mangal
+
+    https://ayushtues.medium.com/rl-with-diffusion-i-d64c6e96d5ed
+
+
 ### PyLessons online tutorials using OpenAI Gym environment
 
 * [Introduction to Reinforcement Learning: CartPole game](https://pylessons.com/CartPole-reinforcement-learning)
