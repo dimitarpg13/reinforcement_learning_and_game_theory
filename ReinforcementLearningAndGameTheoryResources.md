@@ -667,6 +667,14 @@
 
     (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
 
+* Model Compression in Reinforcement Learning with Kartik G (Part 1)
+
+    https://medium.com/@kartikganapathi/model-compression-in-reinforcement-learning-part-1-91970a84a24a
+
+* Model Compression in Reinforcement Learning with Kartik G (Part 2)
+
+    https://medium.com/@kartikganapathi/model-compression-in-reinforcement-learning-part-2-8e57269c8386
+
 * Reinforcement Learning Frameworks: Solving CartPole Environment using RLib on Ray framework with Jordi Torres
 
     https://towardsdatascience.com/reinforcement-learning-frameworks-e349de4f645a
@@ -776,7 +784,6 @@
     https://studywolf.wordpress.com/2016/04/04/deep-learning-for-control-using-augmented-hessian-free-optimization/
 
     example code: https://github.com/studywolf/blog/blob/master/train_AHF/train_hf.py
-
 
 ### Jeff Bradberry's blog
 
