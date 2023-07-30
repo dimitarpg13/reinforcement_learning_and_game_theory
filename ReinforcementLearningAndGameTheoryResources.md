@@ -29,6 +29,8 @@
 
 * [Planning with Diffusion for Flexible Behavior Synthesis, Michael Janner, Yliun Du, Joshua Tennenbaum, Sergey Levine, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Planning_with_Diffusion_for_Flexible_Behavior_Synthesis_Janner_Du_Tennenbaum_Levine_2022.pdf)
 
+* [On Neural Consolidation For Transfer In Reinforcement Learning, Valentin Guillet et al, Universite de Toulouse, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/On_Neural_Consolidation_for_Transfer_in_Reinforcement_Learning_Guillet_2022.pdf)
+
 * [What Can Learned Intrinsic Rewards Capture?, Zheng at al, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/What_Can_Learned_Intrinsic_Rewards_Capture_Zheng_Oh_2020.pdf)
 
 * [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, Levine S. et al, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OfflineReinforcementLearningTutorialReviewLevine2020.pdf)
