@@ -847,8 +847,6 @@
 
 ## Other Relevant Work
  
-## Other Relevant Work
- 
  * [NLP Concepts](https://github.com/dimitarpg13/nlp_concepts/blob/main/NLPResources.md)
  
  * [Transformers](https://github.com/dimitarpg13/transformers_intro/blob/main/TransformersResources.md)
