@@ -91,6 +91,8 @@
 
 * [Reinforcement Learning and Optimal Control A Selective Overview, Dimitri Bertsekas](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Slides_RL_and_Optimal_Control.pdf)
 
+* [Simple Embodied Language Learning as a Byproduct of Meta-reinforcement Learning, Liu 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Simple_Embodied_Language_Learning_as_a_Byproduct_of_Meta-Reinforcement_Learning_Liu_2023.pdf)
+
 [...More Reinforcement Learning articles on DeepMind site](https://www.deepmind.com/research?tag=Reinforcement+learning)
 
 ## Partially Observable Markov Processes articles
