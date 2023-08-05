@@ -19,6 +19,8 @@
 
 * [Faster sorting algorithms discovered using deep reinforcement learning, Mankowitz et al, 2023, Nature](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/FasterSortingAlgorithmsDiscoveredUsingDLRMankowitzNature2023.pdf)
 
+* [A Definition of Continual Reinforcement Learning, David Abel et al, DeepMind, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/A_Definition_of_Continual_Reinforcement_Learning_Abel_DeepMind_2023.pdf)
+
 * [A Model of Mood as Integrated Advantage, Bennett, D, Davidson, G., Niv Y, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/A_model_of_mood_as_integrated_advantage_Bennett2023.pdf)
 
 * [Emotions as Computations, Emanuel, A., Eldar, E., 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Emotions_as_computations_Emanuel_Eldar_2022.pdf)
@@ -55,7 +57,7 @@
 
 * [Optimizing Agent Behavior Over Long Time Scales By Transporting Value, Hung, Lillicrap, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Optimizing_agent_behavior_over_long_time_scales_by_transporting_value_Hung_Lillycrap_2019.pdf)
 
-* [Statistics and Samples in Dsitributional Reinforcement Learning, Rowland et al, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Statistics_and_Samples_in_Distributional_Reinforcement_Learning_Rowland_2019.pdf)
+* [Statistics and Samples in Distributional Reinforcement Learning, Rowland et al, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Statistics_and_Samples_in_Distributional_Reinforcement_Learning_Rowland_2019.pdf)
 
 * [The Termination Critic, Harutyunyan, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/The_Termination_Critic_Harutyunyan_2019.pdf)
 
