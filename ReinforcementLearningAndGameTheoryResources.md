@@ -449,6 +449,10 @@
 
     https://towardsdatascience.com/walking-off-the-cliff-with-off-policy-reinforcement-learning-7fdbcdfe31ff
 
+* Trust Region Policy Optimization (TRPO) Explained with Wouter van Heeswijk
+
+    https://towardsdatascience.com/trust-region-policy-optimization-trpo-explained-4b56bd206fc2
+
 * Understand Policy Gradient by Building Cross Entropy from Scratch
 
     https://towardsdatascience.com/understand-policy-gradient-by-building-cross-entropy-from-scratch-75ca18b53e94
