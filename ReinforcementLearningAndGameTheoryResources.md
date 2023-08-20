@@ -445,6 +445,10 @@
 
     https://medium.com/@artem.a.arutyunov/build-your-own-unbeatable-tictactoe-ai-with-reinforcement-learning-411502c54c22
 
+* The Five Building Blocks of Markov Decision Processes with Wouter van Heeswijk
+
+    https://towardsdatascience.com/the-five-building-blocks-of-markov-decision-processes-997dc1ab48a7
+
 * Walking Off The Cliff with Off-Policy Reinforcement Learning with Wouter van Heeswijk
 
     https://towardsdatascience.com/walking-off-the-cliff-with-off-policy-reinforcement-learning-7fdbcdfe31ff
@@ -452,6 +456,14 @@
 * Trust Region Policy Optimization (TRPO) Explained with Wouter van Heeswijk
 
     https://towardsdatascience.com/trust-region-policy-optimization-trpo-explained-4b56bd206fc2
+
+* Policy Gradients in Reinforcement Learning Explained with Wouter van Heeswijk
+
+    https://towardsdatascience.com/policy-gradients-in-reinforcement-learning-explained-ecec7df94245
+
+* A Deep Dive into Problem States with Wouter van Heeswijk
+
+    https://towardsdatascience.com/a-deep-dive-into-problem-states-498ad0746c98
 
 * Deep Deterministic Policy Gradients Explained with Wouter van Heeswijk
 
@@ -758,6 +770,22 @@
     link to github repo [here](https://github.com/jannerm/diffuser)
 
     colab link [here](https://colab.research.google.com/drive/1YajKhu-CUIGBJeQPehjVPJcK_b38a8Nc?usp=sharing)
+
+### Python-based tools, techniques and design pattersn for Reinforcement Learning projects
+
+*  Quickly Generate Combinatorial State Spaces in Python with Wouter van Heeswijk
+
+    https://medium.com/codex/quickly-generate-combinatorial-state-spaces-in-python-c53decab2bdd
+
+* Quickly Generate Combinatorial Action Spaces in Python with Wouter van Heeswijk
+
+    https://medium.com/codex/quickly-generate-combinatorial-action-spaces-15962118e508
+
+* Speed Up Your Simulations By Deploying These Sampling Strategies with Wouter van Heeswijk
+
+    https://towardsdatascience.com/speed-up-your-simulations-by-deploying-these-sampling-strategies-372993703ec5
+
+
 
 
 ### PyLessons online tutorials using OpenAI Gym environment
