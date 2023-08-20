@@ -445,6 +445,14 @@
 
     https://medium.com/@artem.a.arutyunov/build-your-own-unbeatable-tictactoe-ai-with-reinforcement-learning-411502c54c22
 
+* Implement Policy Iteration In Python - A Minimal Working Example with Wouter van Heeswijk
+
+    https://towardsdatascience.com/implement-policy-iteration-in-python-a-minimal-working-example-6bf6cc156ca9
+
+* Implement Value Iteration In Python - A Minimal Working Example
+
+    https://towardsdatascience.com/implement-value-iteration-in-python-a-minimal-working-example-f638907f3437
+
 * The Five Building Blocks of Markov Decision Processes with Wouter van Heeswijk
 
     https://towardsdatascience.com/the-five-building-blocks-of-markov-decision-processes-997dc1ab48a7
@@ -484,6 +492,27 @@
 * Seven Exploration Strategies In Reinforcement Learning You Should Know with Wouter van Heeswijk
 
     https://towardsdatascience.com/seven-exploration-strategies-in-reinforcement-learning-you-should-know-8eca7dec503b
+
+* Why Reinforcement Learning Does Not Need Bellman's Equation with Wouter van Heeswijk
+
+    https://towardsdatascience.com/why-reinforcement-learning-doesnt-need-bellman-s-equation-c9c2e51a0b7
+
+* The Alberta Plan: Sutton's Research Vision for Artifical Intelligence with Wouter van Heeswijk
+
+    https://towardsdatascience.com/the-alberta-plan-suttons-research-vision-for-artificial-intelligence-a1763088da04
+
+* Natural Policy Gradients In Reinforcement Learning Explained with Wouter van Heeswijk
+
+    https://towardsdatascience.com/natural-policy-gradients-in-reinforcement-learning-explained-2265864cf43c
+
+    related literature:
+    [Why Natural Gradient? S. Amari, S.C. Douglas, 1998](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/amari-why-natural-gradient-1998.pdf)
+
+    [Efficient Natural Gradient Descent Methods for Large-Scale PDE-Based Optimization Problems, L. Nurbekyan et al](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Efficient_Natural_Gradient_Descent_Methods_for_Large-Scale_PDE-Based_Optimization_Problems_Nurbekyan_2023.pdf)
+
+    [New Insights and Perspectives on the Natural Gradient Method, James Martens, DeepMind, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/New_Insights_and_Perspectives_on_the_Natural_Gradient_Method_Martens_2020.pdf)
+
+    [Natural Gradient Methods: Perspectives, Efficient-Scalabale Appropximations, and Analysis, R. Shreshta, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Natural_Gradient_Methods-Perspectives_Efficient-Scalable_Approximations_and_Analysis_Shsreshta_2023.pdf)
 
 * Understand Policy Gradient by Building Cross Entropy from Scratch
 
