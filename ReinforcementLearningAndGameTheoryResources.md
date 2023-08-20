@@ -453,6 +453,26 @@
 
     https://towardsdatascience.com/trust-region-policy-optimization-trpo-explained-4b56bd206fc2
 
+* Deep Deterministic Policy Gradients Explained with Wouter van Heeswijk
+
+    https://towardsdatascience.com/deep-deterministic-policy-gradients-explained-4643c1f71b2e
+
+* Solving The Taxi Environment With Q-Learning - A Tutorial with Wouter van Heeswijk
+
+    https://towardsdatascience.com/solving-the-taxi-environment-with-q-learning-a-tutorial-c76c22fc5d8f
+
+* When Stochastic Policies Are Better Than Deterministic Ones with Wouter van Heeswijk
+
+    https://towardsdatascience.com/when-stochastic-policies-are-better-than-deterministic-ones-b950cd0d60f4
+
+* Common Reinforcement Learning Algorithms (And How To Fix Them) with Wouter van Heeswijk
+
+    https://towardsdatascience.com/three-fundamental-flaws-in-common-reinforcement-learning-algorithms-and-how-to-fix-them-951160b7a207
+
+* Seven Exploration Strategies In Reinforcement Learning You Should Know with Wouter van Heeswijk
+
+    https://towardsdatascience.com/seven-exploration-strategies-in-reinforcement-learning-you-should-know-8eca7dec503b
+
 * Understand Policy Gradient by Building Cross Entropy from Scratch
 
     https://towardsdatascience.com/understand-policy-gradient-by-building-cross-entropy-from-scratch-75ca18b53e94
