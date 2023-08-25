@@ -121,6 +121,8 @@
 
 * [Emergent Bartering Behaviour in Multi-Agent Reinforcement Learning, Johanson, Hughes, Timbers, Leibo, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/Emergent_Bartering_Behaviour_in_Multi-Agent_Reinforcement_Learning_Johansson_DeepMind_2022.pdf)
 
+* [Simple Embodied Language as Byproduct of Meta-Reinforcement Learning, Liu, Suri, Zhou, Finn, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/Simple_Embodied_Language_Learning_as_a_Byproduct_of_Meta-Reinforcement_Learning_Liu_2023.pdf)
+
 ## Online tutorials and short readings
 
 ### OpenAI resources:
