@@ -113,7 +113,7 @@
 
 * [Semi-Markov Decision Processes with Incomplete State Observation, Discounted Cost Criterion, Kazuyoshi Wakuta, 1982](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/SemiMarkovDecisionProcessesWithIncompleteStateObservation_DiscountedCostCriterion_Wakuta_1982.pdf)
 
-### Multi-Agent Reinforcement Learning (MARL) articles
+## Multi-Agent Reinforcement Learning (MARL) articles
 
 * [A Review of Cooperative Multi-Agent Deep Reinforcement Learning, Oroojlooy et al, SAS Institute, 2021](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/A_Review_of_Cooperative_Multi-Agent_Deep_Reinforcement_Learning_Oroojlooy_SASInstitute_2021.pdf)
 
