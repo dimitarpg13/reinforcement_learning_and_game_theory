@@ -113,6 +113,13 @@
 
 * [Semi-Markov Decision Processes with Incomplete State Observation, Discounted Cost Criterion, Kazuyoshi Wakuta, 1982](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/SemiMarkovDecisionProcessesWithIncompleteStateObservation_DiscountedCostCriterion_Wakuta_1982.pdf)
 
+### Multi-Agent Reinforcement Learning (MARL) articles
+
+* [A Review of Cooperative Multi-Agent Deep Reinforcement Learning, Oroojlooy et al, SAS Institute, 2021](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/A_Review_of_Cooperative_Multi-Agent_Deep_Reinforcement_Learning_Oroojlooy_SASInstitute_2021.pdf)
+
+* [Cooperative Multi-Agent learning for Navigation via Structured State Abstraction, Abdel-Aziz et al, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/Cooperative_Multi-Agent_Learning_for_Navigation_via_Structured_State_Abstraction_Abdel-Aziz_2023.pdf)
+
+* [Emergent Bartering Behaviour in Multi-Agent Reinforcement Learning, Johanson, Hughes, Timbers, Leibo, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/Emergent_Bartering_Behaviour_in_Multi-Agent_Reinforcement_Learning_Johansson_DeepMind_2022.pdf)
 
 ## Online tutorials and short readings
 
