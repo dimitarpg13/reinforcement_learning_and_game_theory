@@ -114,6 +114,7 @@
 * [Semi-Markov Decision Processes with Incomplete State Observation, Discounted Cost Criterion, Kazuyoshi Wakuta, 1982](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/SemiMarkovDecisionProcessesWithIncompleteStateObservation_DiscountedCostCriterion_Wakuta_1982.pdf)
 
 ## Multi-Agent Reinforcement Learning (MARL) articles
+* [A Deep Reinforcement Learning For Multi Agent Systems: A Review of Challenges, Solutions and Applications,  Nguyen, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/DeepReinforcementLearningForMultiAgentSystemsNguyen2019.pdf)
 
 * [A Review of Cooperative Multi-Agent Deep Reinforcement Learning, Oroojlooy et al, SAS Institute, 2021](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/A_Review_of_Cooperative_Multi-Agent_Deep_Reinforcement_Learning_Oroojlooy_SASInstitute_2021.pdf)
 
@@ -122,6 +123,12 @@
 * [Emergent Bartering Behaviour in Multi-Agent Reinforcement Learning, Johanson, Hughes, Timbers, Leibo, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/Emergent_Bartering_Behaviour_in_Multi-Agent_Reinforcement_Learning_Johansson_DeepMind_2022.pdf)
 
 * [Simple Embodied Language as Byproduct of Meta-Reinforcement Learning, Liu, Suri, Zhou, Finn, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/Simple_Embodied_Language_Learning_as_a_Byproduct_of_Meta-Reinforcement_Learning_Liu_2023.pdf)
+
+* [RODE: Learning Roles To Decompose Multi Agent Tasks, Wang, Gupta, Mahajan, Bei Peng, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/RODELearningRolesToDecmoposeMultiAgentsTasks_Wang2020.pdf)
+
+* [The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games, Yu et al, Tsinghua U., 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/TheSurprisingEffectivenessofPPOinCooperativeMulti-AgentGames_Yu2022.pdf)
+
+* [Offline Multi-Agent Reinforcement Learning with Knowledge Distillation, Tseng, MIT-CSAIL, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/Offline_Multi-Agent_Reinforcement_Learning_with_Knowledge_Distillation_Tseng2022.pdhttps://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/Offline_Multi-Agent_Reinforcement_Learning_with_Knowledge_Distillation_Tseng2022.pdf)
 
 ## Online tutorials and short readings
 
