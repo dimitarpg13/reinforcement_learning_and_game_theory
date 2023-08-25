@@ -128,7 +128,7 @@
 
 * [The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games, Yu et al, Tsinghua U., 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/TheSurprisingEffectivenessofPPOinCooperativeMulti-AgentGames_Yu2022.pdf)
 
-* [Offline Multi-Agent Reinforcement Learning with Knowledge Distillation, Tseng, MIT-CSAIL, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/Offline_Multi-Agent_Reinforcement_Learning_with_Knowledge_Distillation_Tseng2022.pdhttps://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/Offline_Multi-Agent_Reinforcement_Learning_with_Knowledge_Distillation_Tseng2022.pdf)
+* [Offline Multi-Agent Reinforcement Learning with Knowledge Distillation, Tseng, MIT-CSAIL, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/Offline_Multi-Agent_Reinforcement_Learning_with_Knowledge_Distillation_Tseng2022.pdf)
 
 ## Online tutorials and short readings
 
