@@ -525,7 +525,7 @@
 
     [Unified Framework for Stochastic Optimization, Warren Powel, Princeton, 2017](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Powell-UnifiedFrameworkStochasticOptimization_July222017.pdf)
 
-    [Tutorial on Stochastic Optimization in Energy II: An energy storage illustration, Warren Powel, 2017](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Powell-TutorialPartII-StochasticOptJan182015.pdf)
+    [Tutorial on Stochastic Optimization in Energy II: An energy storage illustration, Warren Powel, 2015](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Powell-TutorialPartII-StochasticOptJan182015.pdf)
 
 * Natural Policy Gradients In Reinforcement Learning Explained with Wouter van Heeswijk
 
