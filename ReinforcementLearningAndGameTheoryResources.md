@@ -530,6 +530,10 @@
 
     [Natural Gradient Methods: Perspectives, Efficient-Scalabale Appropximations, and Analysis, R. Shreshta, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Natural_Gradient_Methods-Perspectives_Efficient-Scalable_Approximations_and_Analysis_Shsreshta_2023.pdf)
 
+    [Natural Gradient Descent with Agustinus Kristiadi](https://agustinus.kristia.de/techblog/2018/03/14/natural-gradient/)
+
+    [Trust Region Policy Optimization, OpenAI](https://spinningup.openai.com/en/latest/algorithms/trpo.html#id2)
+
 * Understand Policy Gradient by Building Cross Entropy from Scratch
 
     https://towardsdatascience.com/understand-policy-gradient-by-building-cross-entropy-from-scratch-75ca18b53e94
