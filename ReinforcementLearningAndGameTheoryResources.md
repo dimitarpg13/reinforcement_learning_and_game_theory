@@ -517,6 +517,16 @@
 
     https://towardsdatascience.com/the-alberta-plan-suttons-research-vision-for-artificial-intelligence-a1763088da04
 
+* The Four Policy Classes of Reinforcement Learning with Wouter van Heeswijk
+
+    https://towardsdatascience.com/the-four-policy-classes-of-reinforcement-learning-38185daa6c8a
+
+    related papers:
+
+    [Unified Framework for Stochastic Optimization, Warren Powel, Princeton, 2017](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Powell-UnifiedFrameworkStochasticOptimization_July222017.pdf)
+
+    [Tutorial on Stochastic Optimization in Energy II: An energy storage illustration, Warren Powel, 2017](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Powell-TutorialPartII-StochasticOptJan182015.pdf)
+
 * Natural Policy Gradients In Reinforcement Learning Explained with Wouter van Heeswijk
 
     https://towardsdatascience.com/natural-policy-gradients-in-reinforcement-learning-explained-2265864cf43c
@@ -819,6 +829,7 @@
     link to github repo [here](https://github.com/jannerm/diffuser)
 
     colab link [here](https://colab.research.google.com/drive/1YajKhu-CUIGBJeQPehjVPJcK_b38a8Nc?usp=sharing)
+
 
 ### Python-based tools, techniques and design pattersn for Reinforcement Learning projects
 
