@@ -836,6 +836,11 @@
 
     colab link [here](https://colab.research.google.com/drive/1YajKhu-CUIGBJeQPehjVPJcK_b38a8Nc?usp=sharing)
 
+* Can Reinforcement Learning Generalize Beyond Its Training with John Morrow
+
+    https://towardsdatascience.com/can-reinforcement-learning-generalize-beyond-its-training-3b9012d8e4cf
+
+    link to the paper [here](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/ReinforcementLearning-ACaseStudyinModelGeneralization.pdf)
 
 ### Python-based tools, techniques and design pattersn for Reinforcement Learning projects
 
