@@ -387,6 +387,10 @@
 
     https://medium.com/@violante.andre/simple-reinforcement-learning-temporal-difference-learning-e883ea0d65b0
 
+* Dynamic Pricing with Reinforcement Learning from Scratch: Q-Learning with Nicolo Albanese
+
+    https://towardsdatascience.com/dynamic-pricing-with-reinforcement-learning-from-scratch-q-learning-fb3fb764da49
+
 * Reinforcement Learning: Q-Learning
 
     A step-by-step guide to implementing the Q-Learning algorithm using OpenAI Gym for Taxi-V3
