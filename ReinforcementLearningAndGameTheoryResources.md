@@ -845,6 +845,20 @@
 
     link to the paper [here](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/ReinforcementLearning-ACaseStudyinModelGeneralization.pdf)
 
+* Dynamic Model Selection using Reinforcement Learning with Monimoy Purkayastha
+
+    https://medium.com/@juniper.cto.aiml.2021/dynamic-model-selection-using-reinforcement-learning-e872453cb97b
+
+    related papers:
+
+    [Adaptive Model Selection Network: Application to Airline Pricing, Shukla et al, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Adaptive_Model_Selection_Framework-An_Application_to_Airline_Pricing_Shukla_2019.pdf)
+
+    [Introduction to Multi-Armed Bandits, A. Slivkins, Microsoft Reserach, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Introduction_to_Multi-Armed_Bandits_Slivkins_2022.pdf)
+
+    [Model Selection for Contextual Bandits, D.J. Foster et al, MIT, Microsoft Research, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Model_selection_for_contextual_bandits_Foster_MIT_2019.pdf)
+
+    [Online and Scalable Model Selection with Contextual Bandits, Xie et al, 2021](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Online_and_Scalable_Model_Selection_with_Multi-Armed_Bandits_Xie_CopilotAI_2021.pdf)
+
 ### Python-based tools, techniques and design pattersn for Reinforcement Learning projects
 
 *  Quickly Generate Combinatorial State Spaces in Python with Wouter van Heeswijk
