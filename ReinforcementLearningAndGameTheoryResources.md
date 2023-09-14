@@ -667,6 +667,10 @@
 
     https://medium.com/@sergey.levine/an-ecological-perspective-on-reinforcement-learning-de697f3d6516
 
+* Function Approximation in Reinforcement Learning
+
+    https://towardsdatascience.com/function-approximation-in-reinforcement-learning-85a4864d566
+
 * A Gentle Introduction to Deep Reinforcement Learning with Jordi Torres
 
     https://towardsdatascience.com/drl-01-a-gentle-introduction-to-deep-reinforcement-learning-405b79866bf4
