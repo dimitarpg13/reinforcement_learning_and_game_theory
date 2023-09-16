@@ -863,6 +863,20 @@
 
     [Online and Scalable Model Selection with Contextual Bandits, Xie et al, 2021](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Online_and_Scalable_Model_Selection_with_Multi-Armed_Bandits_Xie_CopilotAI_2021.pdf)
 
+* Reinforcement Learning in the Warehousing Industry with Chris Mahoney
+
+    https://ai.plainenglish.io/reinforcement-learning-in-the-warehousing-industry-a5e7f1c28422
+    
+    related papers: 
+
+    [A Reinforcement Learning Approach for a Decision Support System for Logistics Network, M. Rabe, F. Dross, 2015](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Reinforcement_Learning_Approach_for_A_Decision_Support_System_for_Logistics_Networks_Rabe_Dross_2015.pdf)
+
+    [Reinforcement Learning Approach to Porduct Allocation and Storage, M. Andra M.S. Thesis](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Reinforcement_Learning_approach_to_product_allocation_and_storage_Andra_2010.pdf)
+
+* How to apply reinforcement learning to order-pick routing in warehouses (including Python code) with SMLC
+
+    https://ai.plainenglish.io/how-to-apply-reinforcement-learning-to-order-pick-routing-in-warehouses-including-python-code-e9f208e53350
+
 ### Python-based tools, techniques and design pattersn for Reinforcement Learning projects
 
 *  Quickly Generate Combinatorial State Spaces in Python with Wouter van Heeswijk
