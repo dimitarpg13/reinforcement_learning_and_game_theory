@@ -891,7 +891,14 @@
 
     https://towardsdatascience.com/speed-up-your-simulations-by-deploying-these-sampling-strategies-372993703ec5
 
+* Evolving Reinforcement Learning Agents Using Genetic Algorithms with Mohamed Abdin
 
+    https://levelup.gitconnected.com/evolving-reinforcement-learning-agents-using-genetic-algorithms-409e213562a5
+
+    related paper: [Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for
+Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Deep_Neuroevolution-Genetic_Algorithms_are_a_Competitive_Alternative_for_Training_Deep_Neural_Networks_for_Reinforcement_Learning_Such_2018.pdf)
+
+    related github repo: https://github.com/mohdabdin/Evolving-RL-Agents
 
 
 ### PyLessons online tutorials using OpenAI Gym environment
