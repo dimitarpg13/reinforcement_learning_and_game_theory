@@ -179,6 +179,18 @@
 
     https://towardsdatascience.com/the-fundamentals-of-reinforcement-learning-177dd8626042
 
+* Reinforcement Learning: Markov Decision Process (Part 1) with Tan Alvin
+
+    https://pub.towardsai.net/reinforcement-learning-markov-decision-process-part-1-e376991cafbe
+
+* Reinforcement Learning: Dynamic Programming and Monte Carlo (Part 2) with Tan Alvin
+
+    https://pub.towardsai.net/reinforcement-learning-dynamic-programming-and-monte-carlo-part-2-190c1d86532c
+
+* Reinforcement Learning: SARSA and Q Learning (Part 3) with Tan Alvin
+
+    https://pub.towardsai.net/reinforcement-learning-sarsa-and-q-learning-part-3-871bedbeaec0
+
 * Multi-Armed Bandits with Steve Roberts (Part 1): Mathematical Framework and Terminology
 
     https://towardsdatascience.com/multi-armed-bandits-part-1-b8d33ab80697
@@ -798,6 +810,7 @@
     https://towardsdatascience.com/reinforcement-learning-frameworks-e349de4f645a
 
     (Github repo: [here](https://github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained))
+ 
 
 * Deep Laplacian-based Options for Temporally-Extended Exploration with Marlos Machado
 
