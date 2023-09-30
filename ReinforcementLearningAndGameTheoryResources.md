@@ -486,9 +486,15 @@
 
     https://towardsdatascience.com/implement-policy-iteration-in-python-a-minimal-working-example-6bf6cc156ca9
 
-* Implement Value Iteration In Python - A Minimal Working Example
+* Implement Value Iteration In Python - A Minimal Working Example with Wouter van Heeswijk
 
     https://towardsdatascience.com/implement-value-iteration-in-python-a-minimal-working-example-f638907f3437
+
+* A Minimal Working Example for Discrete Policy Gradients in TensorFlow 2.0 with Wouter van Heeswijk
+
+    https://towardsdatascience.com/a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7
+
+    related paper: [link](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Implementing_Actor_Networks_for_Discrete_Control_in_TensorFlow2.0_vanHeeswijk_2020.pdf)
 
 * The Five Building Blocks of Markov Decision Processes with Wouter van Heeswijk
 
