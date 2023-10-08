@@ -142,11 +142,11 @@
 
 [Dynamic Pricing with Contextual Bandits: Learning by Doing, Massimiliano Costacurta, Medium](https://towardsdatascience.com/dynamic-pricing-with-contextual-bandits-learning-by-doing-b88e49f55894)
     
-    related repo: [github.com/massi82/contextual_bandits](https://github.com/massi82/contextual_bandits)
+related repo: [github.com/massi82/contextual_bandits](https://github.com/massi82/contextual_bandits)
 
-    related docs: [contextual-bandits.readthedocs.io](https://contextual-bandits.readthedocs.io/en/latest/)
+related docs: [contextual-bandits.readthedocs.io](https://contextual-bandits.readthedocs.io/en/latest/)
 
-    related video: [PyData Tel Aviv Meetup: Contextual Bandit for Pricing - Daniel Hen & Uri Goren](https://www.youtube.com/watch?v=sVpwtj4nSfI)
+related video: [PyData Tel Aviv Meetup: Contextual Bandit for Pricing - Daniel Hen & Uri Goren](https://www.youtube.com/watch?v=sVpwtj4nSfI)
 
 [A Unified Framework for Stochastic Optimization, Warren B. Powell, Princeton, 2017](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Powell-UnifiedFrameworkStochasticOptimization_July222017.pdf)
 
