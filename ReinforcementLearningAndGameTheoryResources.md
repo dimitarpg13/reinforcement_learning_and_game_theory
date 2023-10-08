@@ -135,6 +135,30 @@
 
 * [Offline Multi-Agent Reinforcement Learning with Knowledge Distillation, Tseng, MIT-CSAIL, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/Offline_Multi-Agent_Reinforcement_Learning_with_Knowledge_Distillation_Tseng2022.pdf)
 
+
+## Reinforcement Learning in Supply Chain Management
+
+[Why Hasn’t Reinforcement Learning Conquered The World (Yet)?, Wouter van Heeswijk, Medium](https://towardsdatascience.com/why-hasnt-reinforcement-learning-conquered-the-world-yet-459ae99982c6)
+
+[Dynamic Pricing with Contextual Bandits: Learning by Doing, Massimiliano Costacurta, Medium](https://towardsdatascience.com/dynamic-pricing-with-contextual-bandits-learning-by-doing-b88e49f55894)
+    
+    related repo: https://github.com/massi82/contextual_bandits
+
+    related docs: https://contextual-bandits.readthedocs.io/en/latest/
+
+    related video: https://www.youtube.com/watch?v=sVpwtj4nSfI
+
+[A Unified Framework for Stochastic Optimization, Warren B. Powell, Princeton, 2017](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Powell-UnifiedFrameworkStochasticOptimization_July222017.pdf)
+
+[Challenges of Real World Reinforcement Learning, Gabriel Dulac-Arnold, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Challenges_of_Real-World_Reinforcement_Learning_Arnold_2019.pdf)
+
+[From Reinforcement Learning to Optimal Control: A unified
+framework for sequential decisions, Warren B. Powell, Princeton, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/From_Reinforcement_Learning_to_Optimal_Control-A_unified_framework_for_sequential_decisions_Powell_Princeton_2019.pdf)
+
+[Sequential Decision Analytics for the Truckload Industry, Warren B. Powell, Optimal  Dynamics, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Sequential_Decision_Analytics_for_the_Truckload_Industry_Powell_OptimalDynamics_2022.pdf)
+
+[Stochastic Optimization, James C. Spall, John Hopkins U., 2012](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Stochastic_Optimization_Spall_JHU_2012.pdf)
+
 ## Online tutorials and short readings
 
 ### OpenAI resources:
