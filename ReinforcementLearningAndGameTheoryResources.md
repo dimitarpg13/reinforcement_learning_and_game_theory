@@ -623,6 +623,14 @@
 
     https://jonathan-hui.medium.com/rl-exploration-9d7c15c5bf79
 
+* RL — Tips on Reinforcement Learning with Jonathan Hui
+
+    https://jonathan-hui.medium.com/rl-tips-on-reinforcement-learning-fbd121111775
+
+* Deep Reinforcement Learning - Deep Deterministic Policy Gradient (DDPG) algorithm with Markus Buchholz
+
+    https://markus-x-buchholz.medium.com/deep-reinforcement-learning-deep-deterministic-policy-gradient-ddpg-algoritm-5a823da91b43
+
 * Breaking down DeepMind's AlphaTensor
 
     https://pub.towardsai.net/breaking-down-deepminds-alphatensor-15534303cde2
