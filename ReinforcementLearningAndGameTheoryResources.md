@@ -1045,6 +1045,12 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
 * [Reinforcement Learning, Emma Brunskill, Stanford CS234, Winter 2019](https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
+* [RLHF: Reinforcement Learning from Human Feedback with Ms Aerin](https://automata88.medium.com/rlhf-reinforcement-learning-from-human-feedback-faa5ff4761d1)
+
+    related paper: [Training language models to follow instructions with human feedback, Ouyang et al, OpenAI, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Training_language_models_to_follow_instructions_with_human_feedback_Ouyang_OpenAI_2022.pdf)
+
+    related python code: https://github.com/lucidrains/PaLM-rlhf-pytorch/tree/main
+
 # Game Theory Resources
 
 ## Books
