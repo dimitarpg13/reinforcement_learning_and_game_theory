@@ -967,7 +967,7 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
 * [DQN PER with Convolutional Neural Networks](https://pylessons.com/CartPole-PER-CNN)
 
-* [A.I. learns to play Pong with Deed Q Network](https://pylessons.com/DQN-PONG)
+* [A.I. learns to play Pong with Deep Q Network](https://pylessons.com/DQN-PONG)
 
 * [Introduction to Reinforcement Learning Policy Gradient](https://pylessons.com/Beyond-DQN)
 
