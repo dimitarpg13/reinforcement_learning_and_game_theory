@@ -938,6 +938,16 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
     related github repo: https://github.com/mohdabdin/Evolving-RL-Agents
 
+* Understanding Zero-Shot Learning — Making ML More Human with Ekin Tiu
+
+    https://towardsdatascience.com/understanding-zero-shot-learning-making-ml-more-human-4653ac35ccab
+
+    related paper: [Simulation to Scaled City: Zero-Shot Policy Transfer for Traffic Control via Autonomous Vehicles, Kathy Jang et al, UC Berkeley, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Simulation_to_Scaled_City-Zero-Shot_Policy_Transfer_for_Traffic_Control_via_Autonomous_Vehicles_Jang_UCBerkeley_2019.pdf)
+
+    related paper: [Learning Transferable Visual Models From Natural Language Supervision, Alec Radford et al, OpenAI, 2021](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision_Radford_2021.pdf)
+
+    related paper: [Zero-Shot Learning and its Applications from Autonomous Vehicles to COVID-19 Diagnosis: A Review, M. Rezaei et al, U Leeds, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Zero-Shot_Learning_and_its_Applications_from_Autonomous_Vehicles_to_COVID-19_Diagnosis-A_Review_Rezael_ULeeds_2020.pdf)
+
 ### Python-based tools, techniques and design pattersn for Reinforcement Learning projects
 
 *  Quickly Generate Combinatorial State Spaces in Python with Wouter van Heeswijk
