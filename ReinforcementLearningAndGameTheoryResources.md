@@ -159,6 +159,18 @@ framework for sequential decisions, Warren B. Powell, Princeton, 2019](https://g
 
 [Stochastic Optimization, James C. Spall, John Hopkins U., 2012](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Stochastic_Optimization_Spall_JHU_2012.pdf)
 
+[How to Improve your Supply Chain with Deep Reinforcement Learning with Christian Hubbs](https://towardsdatascience.com/deep-reinforcement-learning-for-supply-chain-optimization-3e4d99ad4b58)
+
+[Deep reinforcement learning for supply chain and price optimization, Ilya Katsov, 2020, blog](https://blog.griddynamics.com/deep-reinforcement-learning-for-supply-chain-and-price-optimization/)
+
+[A Deep Q-Network for the Beer Game: Deep Reinforcement Learning for Inventory Optimization, Oroojlooyjadid et al, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/A_Deep_Q-Network_for_the_Beer_Game-Deep_Reinforcement_Learning_for_Inventory_Optimization_Oroojlooyjadid_2020.pdf)
+
+[A Deep Reinforcement Learning Approach to Supply Chain Inventory Management, Francesco Stranieri, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/A_Deep_Reinforcement_Learning_Approach_to_Supply_Chain_Inventory_Management_Stranieri_2022.pdf)
+
+[Optimization of Apparel Supply Chain Using Deep Reinforcement Learning, JW. Chong et al, IEEE, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Optimization_of_Apparel_Supply_Chain_Using_Deep_Reinforcement_Learning_Chong_IEEE_2022.pdf)
+
+[Reinforcement learning for supply chain optimization, L. Kemmer et al, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/ReinforcementLearning_for_Supply_Chain_Optimization_Kemmer_2018.pdf)
+
 ## Online tutorials and short readings
 
 ### OpenAI resources:
