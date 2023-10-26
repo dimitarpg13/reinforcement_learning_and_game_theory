@@ -159,7 +159,7 @@ framework for sequential decisions, Warren B. Powell, Princeton, 2019](https://g
 
 [Stochastic Optimization, James C. Spall, John Hopkins U., 2012](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Stochastic_Optimization_Spall_JHU_2012.pdf)
 
-[How to Improve your Supply Chain with Deep Reinforcement Learning with Christian Hubbs](https://towardsdatascience.com/deep-reinforcement-learning-for-supply-chain-optimization-3e4d99ad4b58)
+[How to Improve your Supply Chain with Deep Reinforcement Learning with Christian Hubbs, Medium](https://towardsdatascience.com/deep-reinforcement-learning-for-supply-chain-optimization-3e4d99ad4b58)
 
 [Deep reinforcement learning for supply chain and price optimization, Ilya Katsov, 2020, blog](https://blog.griddynamics.com/deep-reinforcement-learning-for-supply-chain-and-price-optimization/)
 
