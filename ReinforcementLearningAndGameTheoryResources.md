@@ -974,6 +974,14 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
     https://towardsdatascience.com/speed-up-your-simulations-by-deploying-these-sampling-strategies-372993703ec5
 
+* Reinforcement Learning for Combinatorial Optimization with Or Rivlin
+
+    https://towardsdatascience.com/reinforcement-learning-for-combinatorial-optimization-d1402e396e91
+
+    related repo: [Minimum vertex cover with Deep Reinforcement Learning](https://github.com/orrivlin/MinimumVertexCover_DRL)
+
+    related paper: [Learning Heuristics over Large Graphs via Deep Reinforcement Learning, S. Manchanda et al, IIT-Deli, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Learning_Heuristics_over_Large_Graphs_via_Deep_Reinforcement_Learning_Manchanda_IIT-Deli_2020.pdf)
+
 
 ### PyLessons online tutorials using OpenAI Gym environment
 
