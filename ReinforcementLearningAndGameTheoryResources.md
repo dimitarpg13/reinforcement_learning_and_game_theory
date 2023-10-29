@@ -171,6 +171,10 @@ framework for sequential decisions, Warren B. Powell, Princeton, 2019](https://g
 
 [Reinforcement learning for supply chain optimization, L. Kemmer et al, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/ReinforcementLearning_for_Supply_Chain_Optimization_Kemmer_2018.pdf)
 
+[Deep Reinforcement Learning hands-on for Optimized Ad Placement with NandaKishore Joshi](https://towardsdatascience.com/deep-reinforcement-learning-hands-on-for-optimized-ad-placement-b402ffa47245)
+
+related repo: [ad placement example](https://github.com/NandaKishoreJoshi/Reinforcement_Lerning/blob/main/RL_course/1_Ad_placement.ipynb)
+
 ## Online tutorials and short readings
 
 ### OpenAI resources:
@@ -981,6 +985,10 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
     related repo: [Minimum vertex cover with Deep Reinforcement Learning](https://github.com/orrivlin/MinimumVertexCover_DRL)
 
     related paper: [Learning Heuristics over Large Graphs via Deep Reinforcement Learning, S. Manchanda et al, IIT-Deli, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Learning_Heuristics_over_Large_Graphs_via_Deep_Reinforcement_Learning_Manchanda_IIT-Deli_2020.pdf)
+
+* Inverse Reinforcement Learning with Jonathan Hui
+
+    https://jonathan-hui.medium.com/rl-inverse-reinforcement-learning-56c739acfb5a
 
 
 ### PyLessons online tutorials using OpenAI Gym environment
