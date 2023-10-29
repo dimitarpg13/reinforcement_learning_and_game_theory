@@ -175,6 +175,8 @@ framework for sequential decisions, Warren B. Powell, Princeton, 2019](https://g
 
 related repo: [ad placement example](https://github.com/NandaKishoreJoshi/Reinforcement_Lerning/blob/main/RL_course/1_Ad_placement.ipynb)
 
+link to the book [Reinforcement Learning in Action](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/deep-reinforcement-learning-in-action-book.pdf)
+
 ## Online tutorials and short readings
 
 ### OpenAI resources:
@@ -963,6 +965,17 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
     related paper: [Learning Transferable Visual Models From Natural Language Supervision, Alec Radford et al, OpenAI, 2021](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision_Radford_2021.pdf)
 
     related paper: [Zero-Shot Learning and its Applications from Autonomous Vehicles to COVID-19 Diagnosis: A Review, M. Rezaei et al, U Leeds, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Zero-Shot_Learning_and_its_Applications_from_Autonomous_Vehicles_to_COVID-19_Diagnosis-A_Review_Rezael_ULeeds_2020.pdf)
+
+* Policy Based Reinforcement Learning — A Detailed Study, Part 1, with NandaKishore Joshi
+
+    https://nandakishorej8.medium.com/part-1-policy-based-reinforcement-learning-a-detailed-study-1d4e9b8b5239
+
+    link to book: [here](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/deep-reinforcement-learning-in-action-book.pdf)
+
+* Policy Based Reinforcement Learning — OpenAI’s Cartpole with REINFORCE algorithm, Part 2, with NandaKishore Joshi
+
+    https://nandakishorej8.medium.com/part-2-policy-based-reinforcement-learning-openais-cartpole-with-reinforce-algorithm-18de8cb5efa4
+
 
 ### Python-based tools, techniques and design pattersn for Reinforcement Learning projects
 
