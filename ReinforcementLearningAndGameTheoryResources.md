@@ -1114,7 +1114,7 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
 * [Algorithmic Game Theory, Tim Roughgarden, Stanford CS364A, Fall 2013](https://youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4) 
 
-
+* [Game Theory Through the Computational Lens, Tim Roughgarden, LSE Events](https://www.youtube.com/watch?v=7HYJ2oJtLZk)
 
 ### 
 
