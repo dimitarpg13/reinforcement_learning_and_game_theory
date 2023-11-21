@@ -1110,6 +1110,12 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
 * [Algorithmic Game Theory, Tim Roughgarden, 2007](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/algorithmic-game-theory-roughgarden.pdf)
 
+* [N-Person Game Theory: Concepts and Applications by A. Rapoport, 1970](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/N-PersonGameTheory_Concepts_and_Applications.pdf)
+
+* [Mathematical Foundations of Game Theory, Rida Laraki, Jerome Renault, Sylvain Sorin, 2010](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Mathematical_Foundations_of_Game_Theory_Laraki_2019.pdf)
+
+* [Game Theory: Decisions, Interactions and Evolution, James N. Webb, 2000](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Webb-Game_Theory-Decisions_Interaction_and_Evolution.pdf)
+
 ## Articles
 
 * [Equilibrium Points in N-Person Games, John Nash, 1950](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/nash1950.pdf)
