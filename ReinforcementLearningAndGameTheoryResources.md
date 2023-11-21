@@ -1110,6 +1110,25 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
 * [Algorithmic Game Theory, Tim Roughgarden, 2007](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/algorithmic-game-theory-roughgarden.pdf)
 
+## Articles
+
+* [Equilibrium Points in N-Person Games, John Nash, 1950](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/nash1950.pdf)
+
+* [Notes on the N-Person Game - II: The Value of N-Person Game, L.S. Shapley, 1951](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/NotesOnNPersonGame_RM670_Shapley.pdf)
+
+* [N-Person Game Theory, L.S. Shapley, 1968](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/NPersonGameTheory_P3752_Shapley.pdf)
+
+* [The Expected Outcome Model of Two-Player Games, Bruce Abramson, Columbia U, 1987](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/The_Expected-Outcome_Model_of_Two-Player_Games_Bruce_CUCS-315-1987.pdf)
+
+* [Paradoxical Behaviour of Mechanical and Electrical Networks, J. Cohen, P. Horowitz, Harvard U, 1991](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/ParadoxicalBehaviorOfMechanicalAndElectricNetworksCohenHorowitzNature1991.pdf)
+
+* [Braess' Paradox in a Loss Network, N.G. Bean et al, 1995](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/BraessParadoxinaLossNetworkBean1995.pdf)
+
+* [Cooperative Games: Core and Shapley Values, R. Serano, Brown U., 2007](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/CooperativeGamesCoreAndShapleyValues.pdf)
+
+* [Student of Games: A unified learning algorithm for both
+perfect and imperfect information games, Martin Schmid et al, DeepMind, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/Student_of_Games-a_unified_learning_algorithm_for_both_perfect_and_imperfect_information_games_Schmid_2023.pdf)
+
 ## online lecture videos
 
 * [Algorithmic Game Theory, Tim Roughgarden, Stanford CS364A, Fall 2013](https://youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4) 
