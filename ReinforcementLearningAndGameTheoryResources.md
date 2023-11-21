@@ -1124,6 +1124,8 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
 * [Braess' Paradox in a Loss Network, N.G. Bean et al, 1995](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/BraessParadoxinaLossNetworkBean1995.pdf)
 
+* [Statistical Mechanics of Systems with heterogenous agents: Minority Games, D. Challet et al, 1999](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/Statistical_mechanics_of_systems_with_heterogeneous_agents-Minority_Games_Challet_1999.pdf)
+
 * [Cooperative Games: Core and Shapley Values, R. Serano, Brown U., 2007](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/CooperativeGamesCoreAndShapleyValues.pdf)
 
 * [Student of Games: A unified learning algorithm for both
