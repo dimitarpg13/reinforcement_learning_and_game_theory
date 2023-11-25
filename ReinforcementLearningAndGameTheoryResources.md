@@ -1122,6 +1122,10 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
 * [Notes on the N-Person Game - II: The Value of N-Person Game, L.S. Shapley, 1951](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/NotesOnNPersonGame_RM670_Shapley.pdf)
 
+* [A Theory of Individual Choice Behavior, R. Duncan Luce, Columbia U., 1957](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/TheoryOfIndividualChoiceBehaviorDLuce1957.pdf)
+
+* [The Hide-and-Seek Game of von Neumann, Merill Flood, 1968](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/TheHideAndSeekGameOfVonNeumanFlood1968.pdf)
+
 * [N-Person Game Theory, L.S. Shapley, 1968](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/NPersonGameTheory_P3752_Shapley.pdf)
 
 * [The Expected Outcome Model of Two-Player Games, Bruce Abramson, Columbia U, 1987](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/The_Expected-Outcome_Model_of_Two-Player_Games_Bruce_CUCS-315-1987.pdf)
