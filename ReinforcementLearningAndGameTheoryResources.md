@@ -177,6 +177,13 @@ related repo: [ad placement example](https://github.com/NandaKishoreJoshi/Reinfo
 
 link to the book [Reinforcement Learning in Action](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/deep-reinforcement-learning-in-action-book.pdf)
 
+# Reinforcement Learning in Large Language Models and related algorithms
+
+[Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions, Yevgen Chebotar et al, DeepMind, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Q-Transformer-Scalable_Offline_Reinforcement_Learning_via_Autoregressive_Q-Functions_Chebotar_DeepMind_2023.pdf)
+
+related repo: https://qtransformer.github.io/
+
+
 ## Online tutorials and short readings
 
 ### OpenAI resources:
