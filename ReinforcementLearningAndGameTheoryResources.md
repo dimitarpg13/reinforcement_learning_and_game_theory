@@ -138,7 +138,15 @@
 
 ## Reinforcement Learning in Supply Chain Management
 
+### introductory material to relevant algorithms by Wouter van Heeswijk
+
 [Why Hasn’t Reinforcement Learning Conquered The World (Yet)?, Wouter van Heeswijk, Medium](https://towardsdatascience.com/why-hasnt-reinforcement-learning-conquered-the-world-yet-459ae99982c6)
+
+[The Four Policy Classes of Reinforcement Learning, Wouter van Heeswijk, Medium](https://towardsdatascience.com/the-four-policy-classes-of-reinforcement-learning-38185daa6c8a)
+
+[Policy Gradients In Reinforcement Learning Explained, Wouter van Heeswijk, Medium](https://towardsdatascience.com/policy-gradients-in-reinforcement-learning-explained-ecec7df94245)
+
+[Proximal Policy Optimization (PPO) Explained, Wouter van Heeswijk, Medium](https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b)
 
 [Dynamic Pricing with Contextual Bandits: Learning by Doing, Massimiliano Costacurta, Medium](https://towardsdatascience.com/dynamic-pricing-with-contextual-bandits-learning-by-doing-b88e49f55894)
     
