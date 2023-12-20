@@ -994,6 +994,10 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
 ### Python-based tools, techniques and design pattersn for Reinforcement Learning projects
 
+* Learning with Stable-Baselines3: Reinforcement learning without the boilerplate code
+
+    https://towardsdatascience.com/convenient-reinforcement-learning-with-stable-baselines3-dccf466b7585
+
 *  Quickly Generate Combinatorial State Spaces in Python with Wouter van Heeswijk
 
     https://medium.com/codex/quickly-generate-combinatorial-state-spaces-in-python-c53decab2bdd
