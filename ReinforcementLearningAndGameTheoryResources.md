@@ -161,6 +161,8 @@ related video: [PyData Tel Aviv Meetup: Contextual Bandit for Pricing - Daniel H
 
 [A Unified Framework for Stochastic Optimization, Warren B. Powell, Princeton, 2017](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Powell-UnifiedFrameworkStochasticOptimization_July222017.pdf)
 
+[Tutorial on Stochastic Optimization in Energy II: An energy storage illustration, Warren B. Powell, 2015](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Powell-TutorialPartII-StochasticOptJan182015.pdf)
+
 [Challenges of Real World Reinforcement Learning, Gabriel Dulac-Arnold, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Challenges_of_Real-World_Reinforcement_Learning_Arnold_2019.pdf)
 
 [From Reinforcement Learning to Optimal Control: A unified
