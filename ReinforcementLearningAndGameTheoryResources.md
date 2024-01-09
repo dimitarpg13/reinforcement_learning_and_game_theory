@@ -1054,6 +1054,10 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
 * [BipedalWalker-v3 with Continuous Proximal Policy Optimization](https://pylessons.com/BipedalWalker-v3-PPO)
 
+### mlq.ai resources:
+
+* [Fundamentals of Reinforcement Learning: Estimating the Action-Value Function by Peter Foy, 2020](https://www.mlq.ai/reinforcement-learning-action-value-function/)
+
 ### StudyWolf's resources:
 * Reinforcement Learning Part 1: Q-Learning and exploration
 
