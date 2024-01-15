@@ -190,7 +190,7 @@ related repo: [ad placement example](https://github.com/NandaKishoreJoshi/Reinfo
 
 link to the book [Reinforcement Learning in Action](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/deep-reinforcement-learning-in-action-book.pdf)
 
-## Online Algorithms and posing online problems as Reinforcement Learning problmes
+## Online Algorithms and solving them with Reinforcement Learning
 
 [The k-server problem: Researchers Refute a Widespread Belief About Online Algorithms, Quanta Magazine, 2023](https://www.quantamagazine.org/researchers-refute-a-widespread-belief-about-online-algorithms-20231120#0)
 
