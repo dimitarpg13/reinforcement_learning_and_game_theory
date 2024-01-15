@@ -190,7 +190,7 @@ related repo: [ad placement example](https://github.com/NandaKishoreJoshi/Reinfo
 
 link to the book [Reinforcement Learning in Action](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/deep-reinforcement-learning-in-action-book.pdf)
 
-# Online Algorithms and posing online problems as Reinforcement Learning problmes
+## Online Algorithms and posing online problems as Reinforcement Learning problmes
 
 [The k-server problem: Researchers Refute a Widespread Belief About Online Algorithms, Quanta Magazine, 2023](https://www.quantamagazine.org/researchers-refute-a-widespread-belief-about-online-algorithms-20231120#0)
 
@@ -198,7 +198,7 @@ link to the book [Reinforcement Learning in Action](https://github.com/dimitarpg
 
 [The Online K-Server Problem, Aris Floratos, Ravi Boppana, Courant Institute, NUY](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/online_problems/The_Online_K-Server_problem_Flouratos_Courrant_Institute_NYU.pdf)
 
-# Reinforcement Learning in Large Language Models and related algorithms
+## Reinforcement Learning in Large Language Models and related algorithms
 
 [Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions, Yevgen Chebotar et al, DeepMind, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Q-Transformer-Scalable_Offline_Reinforcement_Learning_via_Autoregressive_Q-Functions_Chebotar_DeepMind_2023.pdf)
 
