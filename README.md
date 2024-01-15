@@ -18,6 +18,8 @@ For the second book we will discuss and go through the following packages: [Nash
  
  * [Reinforcement Learning](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
 
+ * [Self-Supervised Learning](https://github.com/dimitarpg13/self_supervised_learning/blob/main/SelfSupervisedLearningResources.md)
+
  * [NLP Concepts](https://github.com/dimitarpg13/nlp_concepts/blob/main/NLPResources.md)
  
  * [Transformers](https://github.com/dimitarpg13/transformers_intro/blob/main/TransformersResources.md)
