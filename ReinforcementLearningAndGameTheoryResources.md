@@ -23,6 +23,8 @@
 
 * [Faster sorting algorithms discovered using deep reinforcement learning, Mankowitz et al, 2023, Nature](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/FasterSortingAlgorithmsDiscoveredUsingDLRMankowitzNature2023.pdf)
 
+* [Proximal Policy Optimization Algorithms, John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov, OpenAI, 2017](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Proximal_Policy_Optimization_Algorithms_Shulman_2017.pdf)
+
 * [A Definition of Continual Reinforcement Learning, David Abel et al, DeepMind, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/A_Definition_of_Continual_Reinforcement_Learning_Abel_DeepMind_2023.pdf)
 
 * [A Model of Mood as Integrated Advantage, Bennett, D, Davidson, G., Niv Y, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/A_model_of_mood_as_integrated_advantage_Bennett2023.pdf)
