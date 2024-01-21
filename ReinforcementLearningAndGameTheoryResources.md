@@ -25,6 +25,8 @@
 
 * [Proximal Policy Optimization Algorithms, John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov, OpenAI, 2017](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Proximal_Policy_Optimization_Algorithms_Shulman_2017.pdf)
 
+* [Policy Gradient Methods for Reinforcement Learning with Function Approximation, Richard Sutton et al, AT&T, 1999](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/NIPS-1999-policy-gradient-methods-for-reinforcement-learning-with-function-approximation-Paper.pdf)
+
 * [A Definition of Continual Reinforcement Learning, David Abel et al, DeepMind, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/A_Definition_of_Continual_Reinforcement_Learning_Abel_DeepMind_2023.pdf)
 
 * [A Model of Mood as Integrated Advantage, Bennett, D, Davidson, G., Niv Y, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/A_model_of_mood_as_integrated_advantage_Bennett2023.pdf)
