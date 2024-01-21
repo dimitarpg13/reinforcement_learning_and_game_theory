@@ -25,6 +25,8 @@
 
 * [Proximal Policy Optimization Algorithms, John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov, OpenAI, 2017](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Proximal_Policy_Optimization_Algorithms_Shulman_2017.pdf)
 
+* [Learning to Predict by the Method of Temporal Differences, R. Sutton, 1988](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/sutton-88-with-erratum.pdf)
+
 * [Policy Gradient Methods for Reinforcement Learning with Function Approximation, Richard Sutton et al, AT&T, 1999](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/NIPS-1999-policy-gradient-methods-for-reinforcement-learning-with-function-approximation-Paper.pdf)
 
 * [Playing Atari with Deep Reinforcement Learning, V. Mnih, 2013](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Playing_Atari_with_Deep_Reinforcement_Learning_Mnih_2013.pdf)
