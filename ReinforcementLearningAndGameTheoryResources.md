@@ -23,6 +23,8 @@
 
 * [Faster sorting algorithms discovered using deep reinforcement learning, Mankowitz et al, 2023, Nature](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/FasterSortingAlgorithmsDiscoveredUsingDLRMankowitzNature2023.pdf)
 
+* [On Actor-Critic Algorithms, Vijay Konda, John Tsitsiklis, MIT, SIAM, 2003](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/J094-03-kon-actors.pdf)
+
 * [Proximal Policy Optimization Algorithms, John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov, OpenAI, 2017](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Proximal_Policy_Optimization_Algorithms_Shulman_2017.pdf)
 
 * [Learning to Predict by the Method of Temporal Differences, R. Sutton, 1988](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/sutton-88-with-erratum.pdf)
