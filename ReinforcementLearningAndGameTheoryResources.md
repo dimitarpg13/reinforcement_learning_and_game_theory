@@ -34,6 +34,8 @@ Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo In
 
 * [Policy Gradient Methods for Reinforcement Learning with Function Approximation, Richard Sutton et al, AT&T, 1999](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/NIPS-1999-policy-gradient-methods-for-reinforcement-learning-with-function-approximation-Paper.pdf)
 
+* [Gradient Descent for General Reinforcement Learning, Leemon Baird and Andrew Moore, 1999](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/baird_leemon_1999_1.pdf)
+
 * [Playing Atari with Deep Reinforcement Learning, V. Mnih, 2013](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Playing_Atari_with_Deep_Reinforcement_Learning_Mnih_2013.pdf)
 
 * [Continuous Control With Deep Reinforcement Learning, T. Lillicrap, et al, 2015](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Continuous_control_with_deep_reinforcement_learning_Lillycrap_2015.pdf)
