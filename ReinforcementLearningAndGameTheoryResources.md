@@ -25,6 +25,14 @@
 
 * [Proximal Policy Optimization Algorithms, John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov, OpenAI, 2017](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Proximal_Policy_Optimization_Algorithms_Shulman_2017.pdf)
 
+* [Policy Gradient Methods for Reinforcement Learning with Function Approximation, Richard Sutton et al, AT&T, 1999](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/NIPS-1999-policy-gradient-methods-for-reinforcement-learning-with-function-approximation-Paper.pdf)
+
+* [Playing Atari with Deep Reinforcement Learning, V. Mnih, 2013](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Playing_Atari_with_Deep_Reinforcement_Learning_Mnih_2013.pdf)
+
+* [Continuous Control With Deep Reinforcement Learning, T. Lillicrap, et al, 2015](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Continuous_control_with_deep_reinforcement_learning_Lillycrap_2015.pdf)
+
+* [Deep Reinforcement Learning from Self-Play in Imperfect-Information Games, Heinrich, UCL, 2016](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Deep_Reinforcement_Learning_from_Self-Play_in_Imperfect-Information_Games_Heinrich_Silver_2016.pdf)
+
 * [A Definition of Continual Reinforcement Learning, David Abel et al, DeepMind, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/A_Definition_of_Continual_Reinforcement_Learning_Abel_DeepMind_2023.pdf)
 
 * [A Model of Mood as Integrated Advantage, Bennett, D, Davidson, G., Niv Y, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/A_model_of_mood_as_integrated_advantage_Bennett2023.pdf)
@@ -48,10 +56,6 @@
 * [Expression Non-Markov Reward to a Markov Agent, Abel et al, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Expressing_Non-Markov_Reward_to_a_Markov_Agent_2022.pdf)
 
 * [Making Sense of Reinforcement Learning and Probabilistic Inference, O'Donoghue et al, ICLR, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Making_Sense_of_Reinforcement_Learning_And_Probabilistic_Inference_ODonoghue_ICLR_2020.pdf)
-
-* [Continuous Control With Deep Reinforcement Learning, T. Lillicrap, et al, 2015](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Continuous_control_with_deep_reinforcement_learning_Lillycrap_2015.pdf)
-
-* [Deep Reinforcement Learning from Self-Play in Imperfect-Information Games, Heinrich, UCL, 2016](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Deep_Reinforcement_Learning_from_Self-Play_in_Imperfect-Information_Games_Heinrich_Silver_2016.pdf)
 
 * [A Bayesian Approach to Robust Reinforcement Learning, Derman, Derman et al, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/A_Bayesian_Approach_to_Robust_Reinforcement_Learning_Derman_2019.pdf)
 
@@ -82,8 +86,6 @@
 * [Deep Reinforcement Learning from Sels-Play in Imperfect-Information Games, Heinrich, Silver, 2016](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Deep_Reinforcement_Learning_from_Self-Play_in_Imperfect-Information_Games_Heinrich_Silver_2016.pdf)
 
 * [Gradient Estimation Using Stochastic Computation Graphs, J. Schulman, N. Heess, 2016](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Gradient_Estimation_Using_Stochastic_Computation_Graphs_Schulman_2016.pdf)
-
-* [Playing Atari with Deep Reinforcement Learning, V. Mnih, 2013](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Playing_Atari_with_Deep_Reinforcement_Learning_Mnih_2013.pdf)
 
 * [Understanding Sampling-Based Adversarial Search Methods, Ramanujan, PhD Thesis, 2012](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Understanding_Sampling-Based_Adversarial_Search_Methods_Ramanujan_PhD_Thesis_2012.pdf)
 
