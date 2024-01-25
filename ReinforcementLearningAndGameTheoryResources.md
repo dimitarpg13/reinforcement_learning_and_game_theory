@@ -1019,6 +1019,15 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
     https://nandakishorej8.medium.com/part-2-policy-based-reinforcement-learning-openais-cartpole-with-reinforce-algorithm-18de8cb5efa4
 
+* RLAIF: Reinforcement Learning from AI Feedback with Cameron R. Wolfe, Jan, 2024
+
+    https://towardsdatascience.com/rlaif-reinforcement-learning-from-ai-feedback-d7dbdae8f093
+
+    related paper: [RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback, Harrison Lee et al, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/RLAIF-Scaling_Reinforcement_Learning_from_Human_Feedback_with_AI_Feedback_Lee_2023.pdf)
+
+    related paper: [Constitutional AI: Harmlessness from AI Feedback, Y. Bai, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Constitutional_AI-Harmlessness_from_AI_Feedback_Bai_2022.pdf)
+
+    related paper: [PaLM: Scaling Language Modeling with Pathways, A. Chowdhery et al, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/PaLM-Scaling_Language_Modeling_with_Pathways_Chowdhery_2022.pdf)
 
 ### Python-based tools, techniques and design pattersn for Reinforcement Learning projects
 
