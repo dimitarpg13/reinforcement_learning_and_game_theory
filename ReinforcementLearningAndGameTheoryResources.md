@@ -1029,6 +1029,19 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
     related paper: [PaLM: Scaling Language Modeling with Pathways, A. Chowdhery et al, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/PaLM-Scaling_Language_Modeling_with_Pathways_Chowdhery_2022.pdf)
 
+    related paper: [PaLM 2 Technical Report, Google, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/PaLM_2_Technical_Report_Anil_Google_2023.pdf)
+
+    related paper: [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models, Wei et al, Google Research, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Chain-of-Thought_Prompting_Elicits_Reasoning_in_Large_Language_Models_Wei_2023.pdf)
+
+    related paper: [Self-Consistency Improves Chain of Thought Reasoning in Language Models, Wang et al, Google Research, ICLR 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Self-Consistency_Improves_Chain_of_Thought_Reasoning_in_Language_Models_Wang_2022.pdf)
+
+    related paper: [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback, Bai et al, Anthropic, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Training_a_Helpful_and_Harmless_Assistant_with_Reinforcement_Learning_from_Human_Feedback_Bai_2022.pdf)
+
+    related paper: [A General Language Assistant as a Laboratory for Alignment, A. Askell et al, Anthropic, 2021](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/A_General_Language_Assistant_as_a_Laboratory_for_Alignment_Askell_Anthropic_2021.pdf)
+
+    related paper: [Learning to summarize from human feedback, N. Stiennon et al, OpenAI, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Learning_to_summarize_from_human_feedback_Stiennon_OpenAI_2022.pdf)
+
+
 ### Python-based tools, techniques and design pattersn for Reinforcement Learning projects
 
 * Learning with Stable-Baselines3: Reinforcement learning without the boilerplate code
