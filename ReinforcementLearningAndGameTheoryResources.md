@@ -221,6 +221,12 @@ link to the book [Reinforcement Learning in Action](https://github.com/dimitarpg
 
 related repo: https://qtransformer.github.io/
 
+## Adaptive Reinforcement Learning
+
+[AdaRL: What, Where, and How to Adapt in
+Transfer Reinforcement Learning, B. Huang et al, CMU, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/BayesianNetworks/AdaRL-What_Where_and_How_to_Adapt_in_Transfer_Reinforcement_Learning_Huang_CMU_UCambridge_2022.pdf)
+
+AdaRL repo: https://github.com/Adaptive-RL/AdaRL-code
 
 ## Online tutorials and short readings
 
