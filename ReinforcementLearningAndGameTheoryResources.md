@@ -88,6 +88,8 @@ Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo In
 
 * [Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications, T. Nguen et al, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/DeepReinforcementLearningForMultiAgentSystemsNguyen2019.pdf)
 
+* [DeepTrader: A Deep Reinforcement Learning Approach for Risk-Return Balanced Portfolio Management with Market Conditions Embedding, Z. Wang et al, AAAI, 2021](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/DeepTrader-A_Deep_Reinforcement_Learning_Approach_for_Risk-Return_Balanced_Portfolio_Management_with_Market_Conditions_Embedding_Wang_AAAI_2021.pdf)
+
 * [Fast deep reinforcement learning using online adjustments from the past, Hansen et al, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Fast_deep_reinforcement_learning_using_online_adjustments_from_the_past_Hansen_2018.pdf)
 
 * [A Generalised Method for Empirical Game Theoretic Analysis, K. Tuyls, J. Perolat, et al, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/A_Generalised_Method_for_Empirical_Game_Theoretic_Analysis_Tuyls_2018.pdf)
