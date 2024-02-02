@@ -221,6 +221,22 @@ link to the book [Reinforcement Learning in Action](https://github.com/dimitarpg
 
 related repo: https://qtransformer.github.io/
 
+[Basics of Reinforcement Learning for LLMs with Cameron Wolfe, medium](https://towardsdatascience.com/basics-of-reinforcement-learning-for-llms-d74c5178cd2d)
+
+related paper: [Deep Reinforcement Learning for Autonomous Driving: A Survey, BR Kiran et al, 2021](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Deep_Reinforcement_Learning_for_Autonomous_Driving-A_Survey_Kiran_2021.pdf)
+
+related paper: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, J. Devlin et al, Google, 2021](https://github.com/dimitarpg13/large_language_models/blob/main/articles/BERT-Pre-training_of_Deep_Bidirectional_Transformers_for_Language_Understanding_Devlin_Google_2019.pdf)
+
+related paper: [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback, Y. Bai et al, Anthropic, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Training_a_Helpful_and_Harmless_Assistant_with_Reinforcement_Learning_from_Human_Feedback_Anthropic_2022.pdf)
+
+related paper: [Playing Atari with Deep Reinforcement Learning, V. Mnih et al, DeepMind, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Playing_Atari_with_Deep_Reinforcement_Learning_Mnih_2013.pdf)
+
+related paper: [Distilling the Knowldege in a Neural Network, G. Hinton et al, Google, 2015](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Distilling_the_Knowledge_in_a_Neural_Network_Hinton_2015.pdf)
+
+related paper: [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results, Antti Tarvainen et al, The Curious AI Company, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Mean_teachers_are_better_role_models-Weight-averaged_consistency_targets_improve_semi-supervised_deep_learning_results_Tarvainen_2018.pdf)
+
+related paper: [Llama 2: Open Foundation and Fine-Tuned Chat Models, H. Touvron et al, MetaAI, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Llama2-Open_Foundation_and_Fine-Tuned_Chat_Models_Touvron_2023.pdf)
+
 ## Adaptive Reinforcement Learning
 
 [AdaRL: What, Where, and How to Adapt in
