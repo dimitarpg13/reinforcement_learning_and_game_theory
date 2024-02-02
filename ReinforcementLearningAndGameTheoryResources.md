@@ -223,6 +223,8 @@ related repo: https://qtransformer.github.io/
 
 [Basics of Reinforcement Learning for LLMs with Cameron Wolfe, medium](https://towardsdatascience.com/basics-of-reinforcement-learning-for-llms-d74c5178cd2d)
 
+related paper: [An Elementary Proof that Q Learning Converges Almost Surely, Matthew T. Regehr, Alex Ayoub, U of Alberta, 2021](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/An_Elementary_Proof_that_Q-learning_Converges_Almost_Surely_Regehr_UoAlberta_2021.pdf)
+
 related paper: [Deep Reinforcement Learning for Autonomous Driving: A Survey, BR Kiran et al, 2021](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Deep_Reinforcement_Learning_for_Autonomous_Driving-A_Survey_Kiran_2021.pdf)
 
 related paper: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, J. Devlin et al, Google, 2021](https://github.com/dimitarpg13/large_language_models/blob/main/articles/BERT-Pre-training_of_Deep_Bidirectional_Transformers_for_Language_Understanding_Devlin_Google_2019.pdf)
