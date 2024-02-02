@@ -229,7 +229,7 @@ related paper: [BERT: Pre-training of Deep Bidirectional Transformers for Langua
 
 related paper: [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback, Y. Bai et al, Anthropic, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Training_a_Helpful_and_Harmless_Assistant_with_Reinforcement_Learning_from_Human_Feedback_Anthropic_2022.pdf)
 
-related paper: [Playing Atari with Deep Reinforcement Learning, V. Mnih et al, DeepMind, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Playing_Atari_with_Deep_Reinforcement_Learning_Mnih_2013.pdf)
+related paper: [Playing Atari with Deep Reinforcement Learning, V. Mnih et al, DeepMind, 2013](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Playing_Atari_with_Deep_Reinforcement_Learning_Mnih_2013.pdf)
 
 related paper: [Distilling the Knowldege in a Neural Network, G. Hinton et al, Google, 2015](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Distilling_the_Knowledge_in_a_Neural_Network_Hinton_2015.pdf)
 
