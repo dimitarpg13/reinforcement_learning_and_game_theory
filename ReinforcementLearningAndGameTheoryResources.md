@@ -239,7 +239,9 @@ related paper: [Mean teachers are better role models: Weight-averaged consistenc
 
 related paper: [Llama 2: Open Foundation and Fine-Tuned Chat Models, H. Touvron et al, MetaAI, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Llama2-Open_Foundation_and_Fine-Tuned_Chat_Models_Touvron_2023.pdf)
 
-## Adaptive Reinforcement Learning
+[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training, Evan Hubinger et al, Anthropic, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Sleeper_Agents-Training_Deceptive_LLMs_that_Persist_Through_Safety_Training_Hubinger_Anthropic_2024.pdf)
+
+## Adaptive Reinforcement Learning, RL applied to Bayesian Networks
 
 [AdaRL: What, Where, and How to Adapt in
 Transfer Reinforcement Learning, B. Huang et al, CMU, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/BayesianNetworks/AdaRL-What_Where_and_How_to_Adapt_in_Transfer_Reinforcement_Learning_Huang_CMU_UCambridge_2022.pdf)
