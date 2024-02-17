@@ -14,6 +14,8 @@
 
 * [Reinforcement Learning - State of the Art, Marco Wiering, Martijn van Otterlo, 2012](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Reinforcement_learning_state_of_the_art.pdf)
 
+* [The Cross-Entropy Method: A Unified Approach to Combinatorial Optimization, Monte-Carlo Simulation and Machine Learning, RY Rubinstein, DP Kroese, 2004](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/The_Cross_Entropy_Method_A_Unified_Approach_Rubinstein_Kroese_2004.pdf)
+
 ## Articles and tutorials
 * [An Introduction to Deep Reinforcement Learning, Vincent Francois-Lavet et al, McGill, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/IntroToDeepReinforcementLearningVFrancois-Lavet2018.pdf)
 
