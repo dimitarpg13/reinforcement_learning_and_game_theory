@@ -595,6 +595,16 @@ AdaRL repo: https://github.com/Adaptive-RL/AdaRL-code
 
     https://medium.com/@artem.a.arutyunov/build-your-own-unbeatable-tictactoe-ai-with-reinforcement-learning-411502c54c22
 
+* The Actor-Critic Reinforcement Learning Algorithm with Dhanoop Karunakaran
+
+    https://medium.com/intro-to-artificial-intelligence/the-actor-critic-reinforcement-learning-algorithm-c8095a655c14
+
+    related link: [The idea behind Actor-Critic, Sergios Karagiannakoson, blog, 2018](https://theaisummer.com/Actor_critics/)
+
+    related link: [Going Deeper Into Reinforcement Learning: Fundamentals of Policy Gradients, Seita's place (blog), 2017](https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/)
+
+    related link: [Actor-Critic Algorithms, Sergey Levine, CS 294-112, 2017](https://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_5_actor_critic_pdf)
+
 * Implement Policy Iteration In Python - A Minimal Working Example with Wouter van Heeswijk
 
     https://towardsdatascience.com/implement-policy-iteration-in-python-a-minimal-working-example-6bf6cc156ca9
