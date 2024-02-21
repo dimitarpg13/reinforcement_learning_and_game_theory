@@ -22,3 +22,6 @@
 [submodule "src/examples/deep-reinforcement-learning-explained"]
 	path = src/examples/deep-reinforcement-learning-explained
 	url = https://github.com/dimitarpg13/Deep-Reinforcement-Learning-Explained.git
+[submodule "src/experiments/openai/gym/gymnasium-demo"]
+	path = src/experiments/openai/gym/gymnasium-demo
+	url = https://github.com/dimitarpg13/gymnasium-demo
