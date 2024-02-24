@@ -217,6 +217,27 @@ link to the book [Reinforcement Learning in Action](https://github.com/dimitarpg
 
 [The Online K-Server Problem, Aris Floratos, Ravi Boppana, Courant Institute, NUY](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/online_problems/The_Online_K-Server_problem_Flouratos_Courrant_Institute_NYU.pdf)
 
+## Decision Transformers - Reinforcement Learning via Sequence Modeling
+
+[Decision Transformer: Reinforcement Learning via Sequence Modeling, Lily Chen et al, UC Berkeley, 2021](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Decision_Transformer-Reinforcement_Learning_via_Sequence_Modeling_Chen_UCBerkeley_2021.pdf)
+
+[Decision Transformer: Reinforcement Learning via Sequence Modeling (Research Paper Explained), Yannick Kilcher, 2022, youtube video](https://youtu.be/-buULmf7dec)
+
+[Stanford CS25: V1 I Decision Transformer: Reinforcement Learning via Sequence Modeling, 2021, youtube video](https://youtu.be/w4Bw8WYL8Ps)
+
+[Decision transformer: Reinforcement Learning via Sequence Modeling, Youseff Fathi CS 885: Reinforcement Learning, U. of Waterloo, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/decision_transformer/cs885-Decision-transformer-Reinforcement-learning-via-sequence-modeling.pdf)
+
+[Online Decision Transformer, Q. Zheng et al, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/decision_transformer/Online_Decision_Transformer_zheng_2022.pdf)
+
+[Offline Reinforcement Learning as one Big Sequence Modeling Problem, M. Janner et al, 2021](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/decision_transformer/Offline_Reinforcement_Learning_as_One_Big_Sequence_Modeling_Problem_Janner_2021.pdf)
+
+[Reinforcement Learning Upside Down: Don't Predict Rewards - Just Map Them To Actions, Juergen Schmidhuber, Tech Report, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/decision_transformer/Reinforcement_Learning_Upside_Down-Dont_Predict_Rewards-Just_Map_Them_to_Actions_Schimdthuber_2020.pdf)
+
+[Training Agents using Upside Down Reinforcement Learning, R. Srivastava et al, 2021](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/decision_transformer/Training_Agents_using_Upside-Down_Reinforcement_Learning_Srivastava_2021.pdf)
+
+[RvS: What is Essential for Offline RL via Supervised Learning, Scott Emmons et al, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/decision_transformer/RvS-What_is_Essential_for_Offline_RL_via_Supervised_Learning_Emmons_2021.pdf)
+
+
 ## Reinforcement Learning in Large Language Models and related algorithms
 
 [Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs, A. Ahmadian et al, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Back_to_Basics-Revisiting_REINFORCE_Style_Optimization_for_Learning_from_Human_Feedback_in_LLMs_Ahmadian_2024.pdf)
@@ -1219,6 +1240,10 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
     _Note: lecture slides included under section "Articles and tutorials"_
 
 * [Reinforcement Learning, Emma Brunskill, Stanford CS234, Winter 2019](https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+
+* [Decision Transformer: Reinforcement Learning via Sequence Modeling (Research Paper Explained), Yannick Kilcher, 2022, youtube video](https://youtu.be/-buULmf7dec)
+
+* [Stanford CS25: V1 I Decision Transformer: Reinforcement Learning via Sequence Modeling, 2021, youtube video](https://youtu.be/w4Bw8WYL8Ps)
 
 * [RLHF: Reinforcement Learning from Human Feedback with Ms Aerin](https://automata88.medium.com/rlhf-reinforcement-learning-from-human-feedback-faa5ff4761d1)
 
