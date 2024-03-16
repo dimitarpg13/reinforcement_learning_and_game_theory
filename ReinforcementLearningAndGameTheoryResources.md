@@ -31,6 +31,8 @@
 
 * [Learning to Predict by the Method of Temporal Differences, R. Sutton, 1988](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/sutton-88-with-erratum.pdf)
 
+* [Simple statistical gradient-following algorithms for connectionist reinforcement learning, Ronald J. Williams, Northeastern U,, 1992](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Simple_statistical_gradient-following_algorithms_for_connectionist_reinforcement_learning_Williams_1992.pdf)
+
 * [An Analysis of Actor/Critic Algorithms using Eligibility Traces:
 Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo Institute of Technology, 1998](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Kimura98.pdf)
 
