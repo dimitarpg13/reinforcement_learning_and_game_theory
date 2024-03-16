@@ -266,10 +266,15 @@ related paper: [Llama 2: Open Foundation and Fine-Tuned Chat Models, H. Touvron 
 
 [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training, Evan Hubinger et al, Anthropic, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Sleeper_Agents-Training_Deceptive_LLMs_that_Persist_Through_Safety_Training_Hubinger_Anthropic_2024.pdf)
 
+## Human-like Reasoning and Representation Learning
+
+* [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking, Eric Zelikman et al, Stanford U., 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Quiet-STaR-Language_Models_Can_Teach_Themselves_to_Think_Before_Speaking_Zelikman_2024.pdf)
+
+* [STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning, E. Zelikman et al, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/STaR-Self-Taught_Reasoner_Bootstrapping_Reasoning_With_Reasoning_Zelikman_2022.pdf)
+
 ## Adaptive Reinforcement Learning, RL applied to Bayesian Networks
 
-[AdaRL: What, Where, and How to Adapt in
-Transfer Reinforcement Learning, B. Huang et al, CMU, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/BayesianNetworks/AdaRL-What_Where_and_How_to_Adapt_in_Transfer_Reinforcement_Learning_Huang_CMU_UCambridge_2022.pdf)
+[AdaRL: What, Where, and How to Adapt in Transfer Reinforcement Learning, B. Huang et al, CMU, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/BayesianNetworks/AdaRL-What_Where_and_How_to_Adapt_in_Transfer_Reinforcement_Learning_Huang_CMU_UCambridge_2022.pdf)
 
 AdaRL repo: https://github.com/Adaptive-RL/AdaRL-code
 
