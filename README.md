@@ -40,7 +40,7 @@ For the second book we will discuss and go through the following packages: [Nash
  
  * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/Resources.md)
 
- * [Dynamical Systems, Chaos, Ergodicity](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/Resources.md)
+ * [Dynamical Systems, State-Space Models, Chaos, Ergodicity](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/Resources.md)
 
  * [Information Theory, Statistical Mechanics, Diffusion Models](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/Resources.md)
 
@@ -52,4 +52,4 @@ For the second book we will discuss and go through the following packages: [Nash
 
 ## Note
 
-This repository uses git Large File Storage feature. In order to download locally the large files (> 7MB) which are maintained by git LFS you will need to install the Git extension for versioning large files: https://git-lfs.com/
+This repository uses git Large File Storage feature. In order to download locally the large files (> 1MB) which are maintained by git LFS you will need to install the Git extension for versioning large files: https://git-lfs.com/
