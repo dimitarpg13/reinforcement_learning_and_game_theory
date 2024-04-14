@@ -26,6 +26,10 @@ github repo: https://github.com/ray-project/ray/tree/master/rllib
 
 github repo: https://github.com/accel-brain/accel-brain-code/tree/master/Reinforcement-Learning
 
+### RL-Coach: RL framework using OpenAI Gym by Intel (archived)
+
+github repo: https://github.com/IntelLabs/coach (archived since 2022)
+
 ## Game theory frameworks
 
 ### Nashpy: a game theory framework for two player games
