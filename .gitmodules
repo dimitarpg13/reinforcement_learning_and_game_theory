@@ -7,6 +7,6 @@
 [submodule "src/examples/deep_rl_explained_from_jordi_torres"]
 	path = src/examples/deep_rl_explained_from_jordi_torres
 	url = https://github.com/dimitarpg13/Deep-Reinforcement-Learning-Explained.git
-[submodule "src/experiments/openai/gym/gymnasium-demo"]
-	path = src/experiments/openai/gym/gymnasium-demo
+[submodule "src/experiments/openai/gymnasium-demo"]
+	path = src/experiments/openai/gymnasium-demo
 	url = https://github.com/dimitarpg13/gymnasium-demo
