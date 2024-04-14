@@ -1,10 +1,10 @@
-[submodule "src/examples/reinforcement-learning"]
+[submodule "src/examples/rl_algorithms_from_denny_britz"]
 	path = src/examples/rl_algorithms_from_denny_britz
 	url = https://github.com/dimitarpg13/reinforcement-learning.git
-[submodule "src/examples/reinforcement-learning-an-introduction"]
+[submodule "src/examples/rl_introduction_from_shangtong_zhang"]
 	path = src/examples/rl_introduction_from_shangtong_zhang
 	url = https://github.com/dimitarpg13/reinforcement-learning-an-introduction.git
-[submodule "src/examples/deep-reinforcement-learning-explained"]
+[submodule "src/examples/deep_rl_explained_from_jordi_torres"]
 	path = src/examples/deep_rl_explained_from_jordi_torres
 	url = https://github.com/dimitarpg13/Deep-Reinforcement-Learning-Explained.git
 [submodule "src/experiments/openai/gym/gymnasium-demo"]
