@@ -24,5 +24,8 @@ github repo: https://github.com/Farama-Foundation/Gymnasium
 
 github repo: https://github.com/drvinceknight/Nashpy
 
+### PyGambit: compute package for (non-cooperative) game theory
+
+github repo: https://github.com/gambitproject/gambit
 
 
