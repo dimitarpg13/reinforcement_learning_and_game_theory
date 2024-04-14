@@ -9,4 +9,4 @@
 	url = https://github.com/dimitarpg13/Deep-Reinforcement-Learning-Explained.git
 [submodule "src/experiments/openai/gymnasium-demo"]
 	path = src/experiments/openai/gymnasium-demo
-	url = https://github.com/dimitarpg13/gymnasium-demo
+	url = https://github.com/dimitarpg13/gymnasium-demo.git
