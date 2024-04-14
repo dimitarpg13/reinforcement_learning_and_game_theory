@@ -18,6 +18,10 @@ github repo: https://github.com/keras-rl/keras-rl
 
 github repo: https://github.com/Farama-Foundation/Gymnasium 
 
+### RLib: RL framework using TF and Torch
+
+github repo: https://github.com/ray-project/ray/tree/master/rllib
+
 ### PyQLearning: RL library for building Q-learning algorithms
 
 github repo: https://github.com/accel-brain/accel-brain-code/tree/master/Reinforcement-Learning
