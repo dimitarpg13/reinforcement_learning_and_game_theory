@@ -44,4 +44,15 @@ github repo: https://github.com/drvinceknight/Nashpy
 
 github repo: https://github.com/gambitproject/gambit
 
+## Reinforcement Learning Examples and Demo code
+
+### Gymnasium Environment
+
+#### Repositories
+
+##### Gymnasium-Demo
+https://github.com/dimitarpg13/gymnasium-demo/
+
+Problems tackled in this repo: https://github.com/dimitarpg13/gymnasium-demo/blob/main/docs/CartpoleEnvironment.md
+
 
