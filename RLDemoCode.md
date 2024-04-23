@@ -1,5 +1,5 @@
 # Reinforcement Learning Demo Code
-This is Work In Progress. The contents of the listed Github repositories which be updated on a regular basis.
+This is **work in progress**. The contents of the listed Github repositories will be updated on a regular basis.
 
 ## Gymnasium Environment
 
