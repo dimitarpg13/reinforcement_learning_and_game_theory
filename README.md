@@ -11,7 +11,7 @@ We will go through some of the examples and excercises in the books and will wri
 
 For the books on Reinforcement Learning we will discuss and go through the following RL packages - [PyQLearning](https://pypi.org/project/pyqlearning/), [keras-rl](https://github.com/keras-rl/keras-rl), [tensorforce](https://github.com/tensorforce/tensorforce), [RL Coach](https://github.com/IntelLabs/coach), [RLib](https://docs.ray.io/en/latest/rllib/index.html).
 
-For the Theory of Games we will discuss and go through the following packages: [NashPy](https://nashpy.readthedocs.io/en/stable/) and [Gambit](http://www.gambit-project.org/gambit15/pyapi.html). 
+For Game Theory we will discuss and go through the following packages: [NashPy](https://nashpy.readthedocs.io/en/stable/) and [Gambit](http://www.gambit-project.org/gambit15/pyapi.html). 
 
 
 ## Selected Topics in Machine Learning
