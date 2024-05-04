@@ -270,6 +270,25 @@ related paper: [Llama 2: Open Foundation and Fine-Tuned Chat Models, H. Touvron 
 
 [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training, Evan Hubinger et al, Anthropic, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Sleeper_Agents-Training_Deceptive_LLMs_that_Persist_Through_Safety_Training_Hubinger_Anthropic_2024.pdf)
 
+### Reinforcement Learning from Human Feedback (RLHF) 
+
+[Deep Reinforcement Learnng from Human Preferences, Paul Christiano et al, OpenAI, 2017](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/Deep_reinforcement_learning_from_human_preferences_Paul_Christiano_OpenAI_2017.pdf)
+
+[Training Language Models to Follow Instructions With Human Feedback, L. Ouyang et al, OpenAI, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/Training_language_models_to_follow_instructions_with_human_feedback_Ouyang_OpenAI_2022.pdf)
+
+[Fine Tuning Language Models from Human Preferences, Daniel M. Ziegler et al, OpenAI, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/Fine-Tuning_Language_Models_from_Human_Preferences_Ziegler_OpenAI_2020.pdf)
+
+[Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback, Y. Bai et al, Anthropic, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/Training_a_Helpful_and_Harmless_Assistant_with_Reinforcement_Learning_from_Human_Feedback_Bai_Anthropic_2022.pdf)
+
+[Learning to Summarize from Human Feedback, Nisan Stiennon et al, OpenAI, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/Learning_to_summarize_from_human_feedback_Stiennon_OpenAI_2020.pdf)
+
+[Illustrating Reinforcement Learning from Human Feedback (RLHF), Hugging Face article, 2022, Nathan Lambert, Louis Castricato, Leandro von Werra
+, Alex Havrilla](https://huggingface.co/blog/rlhf)
+
+[Learning from human preferences, Dario Amodei, OpenAI blog, 2017](https://openai.com/index/learning-from-human-preferences)
+
+[Reinforcement Learning fro Human Feedback, Wikipedia](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback)
+
 ## Human-like Reasoning via Reinforcement Learning and Representation Learning
 
 * [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking, Eric Zelikman et al, Stanford U., 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Quiet-STaR-Language_Models_Can_Teach_Themselves_to_Think_Before_Speaking_Zelikman_2024.pdf)
@@ -281,6 +300,10 @@ related paper: [Llama 2: Open Foundation and Fine-Tuned Chat Models, H. Touvron 
 [AdaRL: What, Where, and How to Adapt in Transfer Reinforcement Learning, B. Huang et al, CMU, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/BayesianNetworks/AdaRL-What_Where_and_How_to_Adapt_in_Transfer_Reinforcement_Learning_Huang_CMU_UCambridge_2022.pdf)
 
 AdaRL repo: https://github.com/Adaptive-RL/AdaRL-code
+
+## Swarm-based Reinforcement Learning and its applications in Robotics
+
+## Maximum diffusion Reinforcement Learning
 
 ## Deep Reinforcement Learning for Physical Applications
 
