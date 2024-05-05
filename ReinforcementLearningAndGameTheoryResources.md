@@ -303,7 +303,15 @@ AdaRL repo: https://github.com/Adaptive-RL/AdaRL-code
 
 ## Swarm-based Reinforcement Learning and its applications in Robotics
 
+[Deep Reinforcement Learning for Swarm Systems, Maximilian Hüttenrauch et al, U. of Lincoln, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/swarm_algorithms/Deep_Reinforcement_Learning_for_Swarm_Systems_Huettenrauch_2019.pdf)
+
+[Using Reinforcement Learning to Herd a Robotic Swarm to a Target Distribution, Zahi Kakish et al, ASU, 2021](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/swarm_algorithms/Kakish-DARS-2021-Using-Reinforcement-Learning-to-Herd-a-Robotic-Swarm-to-a-Target-Distribution.pdf)
+
+[Reinforcement learning for swarm robotics: An overview of applications, algorithms and simulators, MA Blaise, Moulay A. Akhlouf, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/swarm_algorithms/Reinforcement_learning_for_swarm_robotics-An_overview_of_applications_algorithms_and_simulators_Blaise_2023.pdf)
+
 ## Maximum diffusion Reinforcement Learning
+
+[Maximum diffusion reinforcement learning, Thomas Beurreta et al, Northwestern U., 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/max_diffusion_reinforcement_learning/Maximum_diffusion_reinforcement_learning_Beruetta_NWU_2023.pdf)
 
 ## Deep Reinforcement Learning for Physical Applications
 
