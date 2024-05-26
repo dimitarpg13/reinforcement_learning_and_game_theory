@@ -289,6 +289,17 @@ related paper: [Llama 2: Open Foundation and Fine-Tuned Chat Models, H. Touvron 
 
 [Reinforcement Learning fro Human Feedback, Wikipedia](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback)
 
+[A General Theoretical Paradygm to Understand Learning from Human Preferences, M. Azar et al, Google DeepMind, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/A_General_Theoretical_Paradigm_to_Understand_Learning_from_Human_Preferences_Azar_2023.pdf)
+
+[Direct Preference Optimization: Your Language Model is Secretly a Reward Model, Rafel Rafailov et al, Stanford U., 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/Direct_Preference_Optimization-Your_Language_Model_is_Secretly_a_Reward_Model_Rafailov_Stanford_2023.pdf)
+
+[SLiC-HF: Sequence Likelihood Calibration with Human Feedback, Y. Zhao et al, Google Deepmind, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/SLiC-HF-Sequence_Likelihood_Calibration_with_Human_Feedback_Zhao_Google_2023.pdf)
+
+[KTO: Model Alignment as Prospect Theoretic Optimization, K. Ethayarajh et al, Stanford U., 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/KTO-Model_Alignment_as_Prospect_Theoretic_Optimization_Ethayaragh_2023.pdf)
+
+[](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/ORPO-Monolithic_Preference_Optimization_without_Reference_Model_Hong_2024.pdf)
+
+
 ## Human-like Reasoning via Reinforcement Learning and Representation Learning
 
 * [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking, Eric Zelikman et al, Stanford U., 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Quiet-STaR-Language_Models_Can_Teach_Themselves_to_Think_Before_Speaking_Zelikman_2024.pdf)
@@ -1329,6 +1340,12 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
 * [Student of Games: A unified learning algorithm for both
 perfect and imperfect information games, Martin Schmid et al, DeepMind, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/Student_of_Games-a_unified_learning_algorithm_for_both_perfect_and_imperfect_information_games_Schmid_2023.pdf)
+
+* [Game Theory Can Make AI More Correct and Efficient, Steve Nadis, Quanta Magazine, 2024](https://www.quantamagazine.org/game-theory-can-make-ai-more-correct-and-efficient-20240509/)
+
+* [The Consensus Game: Language Model Generation via Equilibrium Search, Athul Paul Jacob et al, MIT, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/The_Consensus_Game-Language_Model_Generation_via_Equilibrium_Search_Jacob_MIT_2024.pdf)
+
+* [States as Strings as Strategies: Steering Language Models with Game-Theoretic Solvers, Ian Gemp et al, Google DeepMind, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/States_as_Strings_as_Strategies-Steering_Language_Models_with_Game-Theoretic_Solvers_Gemp_DeepMind_2024.pdf)
 
 ## online lecture videos
 
