@@ -297,7 +297,7 @@ related paper: [Llama 2: Open Foundation and Fine-Tuned Chat Models, H. Touvron 
 
 [KTO: Model Alignment as Prospect Theoretic Optimization, K. Ethayarajh et al, Stanford U., 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/KTO-Model_Alignment_as_Prospect_Theoretic_Optimization_Ethayaragh_2023.pdf)
 
-[](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/ORPO-Monolithic_Preference_Optimization_without_Reference_Model_Hong_2024.pdf)
+[ORPO: Monolythic Preference Optimization without Reference Model, Hong, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/ORPO-Monolithic_Preference_Optimization_without_Reference_Model_Hong_2024.pdf)
 
 
 ## Human-like Reasoning via Reinforcement Learning and Representation Learning
