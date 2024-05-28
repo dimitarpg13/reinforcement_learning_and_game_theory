@@ -274,6 +274,8 @@ related paper: [Llama 2: Open Foundation and Fine-Tuned Chat Models, H. Touvron 
 
 [Deep Reinforcement Learnng from Human Preferences, Paul Christiano et al, OpenAI, 2017](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/Deep_reinforcement_learning_from_human_preferences_Paul_Christiano_OpenAI_2017.pdf)
 
+[Algorithms for Inverse Reinforcement Learning, Andrew Ng, Stuart Russel, Stanford, 2000](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Algorithms_for_Inverse_Reinforcement_Learning_Ng_Russel_2000.pdf)
+
 [Training Language Models to Follow Instructions With Human Feedback, L. Ouyang et al, OpenAI, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/Training_language_models_to_follow_instructions_with_human_feedback_Ouyang_OpenAI_2022.pdf)
 
 [Fine Tuning Language Models from Human Preferences, Daniel M. Ziegler et al, OpenAI, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/Fine-Tuning_Language_Models_from_Human_Preferences_Ziegler_OpenAI_2020.pdf)
