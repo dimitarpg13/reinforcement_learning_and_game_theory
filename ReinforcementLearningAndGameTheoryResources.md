@@ -1292,6 +1292,8 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 * [Deep Reinforcement Learning, Pieter Abbeel, Dept. of Electrical Engineering and Computer Sciences, UC Berkeley, August 2016](http://videolectures.net/deeplearning2016_abbeel_deep_reinforcement/)
     _Note: lecture slides included under section "Articles and tutorials"_
 
+* [CS885 Reinforcement Learning - Spring 2018 - University of Waterloo, Pascal Poupart](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc)
+
 * [Reinforcement Learning, Emma Brunskill, Stanford CS234, Winter 2019](https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
 * [Decision Transformer: Reinforcement Learning via Sequence Modeling (Research Paper Explained), Yannick Kilcher, 2022, youtube video](https://youtu.be/-buULmf7dec)
