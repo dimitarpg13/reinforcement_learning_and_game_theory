@@ -90,3 +90,52 @@ A graduate course in Computer Science offered in Spring 2018 at the University o
 
 [CS885 Lecture 20b: Memory augmented control networks (Presenter: Aravind Balakrishnan)](https://youtu.be/dHyhVAgUUns?si=-2VDF4qLwpmsWpuG)
 
+
+## Game Theory
+
+### Algorithmic Game Theory, Tim Roughgarden, Stanford CS364A, Fall 2013
+
+http://timroughgarden.org/f13/f13.htm
+
+Broad survey of topics at the interface of theoretical computer science and economics. Introduction to auction and mechanism design, with an emphasis on computational efficiency and robustness. Introduction to the "price of anarchy", with applications to networks. Algorithms and complexity theory for learning and computing Nash and market equilibria. Case studies in Web search auctions, wireless spectrum auctions, matching markets, network routing, and security applications.
+
+[Algorithmic Game Theory (Lecture 1: Introduction and Examples)](https://youtu.be/TM_QFmQU_VA?si=-OduO4Ok6l0Cgt1G)
+
+[Algorithmic Game Theory (Lecture 2: Mechanism Design Basics)](https://youtu.be/z1QZqYuiGa8?si=Q_to46ZZZ34LgTyx)
+
+[Algorithmic Game Theory (Lecture 3: Myerson's Lemma)](https://youtu.be/9qZwchMuslk?si=wn_EUCDJXtY60IPt)
+
+[Algorithmic Game Theory (Lecture 4: Algorithmic Mechanism Design)](https://youtu.be/BMoSLmuJsak?si=IDZNA4pA69GuM-MP)
+
+[Algorithmic Game Theory (Lecture 5: Revenue-Maximizing Auctions)](https://youtu.be/jQsAoMcxlIo?si=sN1Nmb38uGyzB-Eq)
+
+[Algorithmic Game Theory (Lecture 6: Simple Near-Optimal Auctions)](https://youtu.be/DkZswYeJLRE?si=Rrh30M4YVdTEZjRW)
+
+[Algorithmic Game Theory (Lecture 7: Multi-Parameter Mechanism Design and the VCG Mechanism)](https://youtu.be/TLl3FVXPVIY?si=mr8dczqG5aJHz_sE)
+
+[Algorithmic Game Theory (Lecture 8: Combinatorial and Wireless Spectrum Auctions)](https://youtu.be/TttPqjl991A?si=3yJiTsRpjWI8KzxJ)
+
+[Algorithmic Game Theory (Lecture 9: Beyond Quasi-Linearity)](https://youtu.be/zV6yH3-AdEg?si=bH4DwXsWthz3Gz7y)
+
+[Algorithmic Game Theory (Lecture 10: Kidney Exchange and Stable Matching)](https://youtu.be/NT07sILhsv4?si=R9tIHCzVDuMyZvNU)
+
+[Algorithmic Game Theory (Lecture 11: Selfish Routing and the Price of Anarchy)](https://youtu.be/jnLEEr3pc4Y?si=bjy2MBdkLVnsjh_i)
+
+[Algorithmic Game Theory (Lecture 12: Network Over-Provisioning and Atomic Selfish Routing)](https://youtu.be/JUc5BbotCVA?si=zcUzAAHXsKG6RR6s)
+
+[Algorithmic Game Theory (Lecture 13: Potential Games; A Hierarchy of Equilibria)](https://youtu.be/aV16MDoRZoc?si=_Hsu5tA_Xi_tOpjI)
+
+[Algorithmic Game Theory (Lecture 14: Robust Price-of-Anarchy Bounds in Smooth Games)](https://youtu.be/eYd7VxtITrE?si=PFe3aoycMezmrG0o)
+
+[Algorithmic Game Theory (Lecture 15: Best-Case and Strong Nash Equilibria)](https://youtu.be/VjCKNl-GENI?si=M5TSifaZq4zx64dK)
+
+[Algorithmic Game Theory (Lecture 16: Best-Response Dynamics)](https://youtu.be/QOCmIDzOcJA?si=YkzlnZMTzQwNXdt8)
+
+[Algorithmic Game Theory (Lecture 17: No-Regret Dynamics)](https://youtu.be/ssAEgJKRe9o?si=iw0XNcX84mel8NFx)
+
+[Algorithmic Game Theory (Lecture 18: From External Regret to Swap Regret and the Minimax Theorem)](https://youtu.be/XQ32p6clz9k?si=XOouaBY782-hLCO8)
+
+[Algorithmic Game Theory (Lecture 19: Pure Nash Equilibria and PLS-Completeness)](https://youtu.be/5xu8C0wj7UU?si=W2ZLKGnyD2G2fZvB)
+
+[Algorithmic Game Theory (Lecture 20: Mixed Nash Equilibria and PPAD-Completeness)](https://youtu.be/P8adJn_KQO0?si=OEu8EQZY-Uw5BkO1)
+
