@@ -29,6 +29,11 @@ books/DeepReinforcementLearning_AskeePlaat2023.pdf filter=lfs diff=lfs merge=lfs
 books/The_Cross_Entropy_Method_A_Unified_Approach_Rubinstein_Kroese_2004.pdf filter=lfs diff=lfs merge=lfs -text 
 books/TheoryofGamesAndStatisticalDecisionsBlackwell1954.pdf filter=lfs diff=lfs merge=lfs -text
 books/deep-reinforcement-learning-in-action-book.pdf filter=lfs diff=lfs merge=lfs -text
+books/1960-howard-dynamicprogrammingmarkovprocesses.pdf filter=lfs diff=lfs merge=lfs -text
+books/MarkovProcessesDynkin1969.pdf filter=lfs diff=lfs merge=lfs -text
+books/Powell-OptimalLearningWileyMarch112018.pdf filter=lfs diff=lfs merge=lfs -text
+books/ReinforcementLearningSuttonSecondEdition2020.pdf filter=lfs diff=lfs merge=lfs -text
+books/Reinforcement_learning_state_of_the_art.pdf filter=lfs diff=lfs merge=lfs -text
 docs/Inverse_RL_Sergey_Levine_2017.pdf filter=lfs diff=lfs merge=lfs -text
 docs/NotesOnSuttonsBook/chapters/EligibilityTracesSuttonSecondEdition2020.pdf filter=lfs diff=lfs merge=lfs -text
 docs/NotesOnSuttonsBook/chapters/MonteCarloMethodsSuttonSecondEdition2020.pdf filter=lfs diff=lfs merge=lfs -text
