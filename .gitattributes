@@ -25,3 +25,4 @@ articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/Traini
 articles/ReinforcementLearning/max_diffusion_reinforcement_learning/Maximum_diffusion_reinforcement_learning_Beruetta_NWU_2023.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ReinforcementLearning/swarm_algorithms/Deep_Reinforcement_Learning_for_Swarm_Systems_Huettenrauch_2019.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ReinforcementLearning/swarm_algorithms/Kakish-DARS-2021-Using-Reinforcement-Learning-to-Herd-a-Robotic-Swarm-to-a-Target-Distribution.pdf filter=lfs diff=lfs merge=lfs -text
+books/DeepReinforcementLearning_AskeePlaat2023.pdf filter=lfs diff=lfs merge=lfs -text
