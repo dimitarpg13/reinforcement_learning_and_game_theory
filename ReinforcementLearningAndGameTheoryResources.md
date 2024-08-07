@@ -334,6 +334,8 @@ AdaRL repo: https://github.com/Adaptive-RL/AdaRL-code
 
 [First Nuclear Plasma Control with Digital Twin, Sabine Hossenfelder, Feb 2024, youtube video](https://youtu.be/4VD_DLPQJBU)
 
+[Reinforcement Learning for Physical Dynamical Systems: An Alternative Approach: Reintroducing genetic algorithms and comparing to neural networks, Robert Etter, 2024, Towards Data Science](https://towardsdatascience.com/rl-for-physical-dynamical-systems-an-alternative-approach-8e2269dc1e79)
+
 
 ## Online tutorials and short readings
 
