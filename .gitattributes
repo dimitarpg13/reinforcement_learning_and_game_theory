@@ -80,7 +80,7 @@ articles/ReinforcementLearning/Training_a_Helpful_and_Harmless_Assistant_with_Re
 articles/ReinforcementLearning/plasma_control/First_application_of_data_assimilation‑based_control_to_fusion_plasma_Morishita_2024.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ReinforcementLearning/MARL/Emergent_Bartering_Behaviour_in_Multi-Agent_Reinforcement_Learning_Johansson_DeepMind_2022.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ReinforcementLearning/MARL/TheSurprisingEffectivenessofPPOinCooperativeMulti-AgentGames_Yu2022.pdf filter=lfs diff=lfs merge=lfs -text
-
+articles/OptimalControl/optimal_control_systems_Naidu.pdf filter=lfs diff=lfs merge=lfs -text
 
 
 
