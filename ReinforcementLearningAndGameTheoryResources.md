@@ -272,6 +272,8 @@ related paper: [Llama 2: Open Foundation and Fine-Tuned Chat Models, H. Touvron 
 
 ### Reinforcement Learning from Human Feedback (RLHF) 
 
+[Human-in-the-Loop Reinforcement Learning: A Survey and Position on Requirements, Challenges, and Opportunities, Carl Orge Retzlaff et al, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/Human-in-the-Loop_Reinforcement_Learning_A_Survey_and_Position_on_Requirements_Challenges_and_Opportunities_Retzlaff_2024.pdf)
+
 [Deep Reinforcement Learnng from Human Preferences, Paul Christiano et al, OpenAI, 2017](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/Deep_reinforcement_learning_from_human_preferences_Paul_Christiano_OpenAI_2017.pdf)
 
 [Algorithms for Inverse Reinforcement Learning, Andrew Ng, Stuart Russel, Stanford, 2000](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Algorithms_for_Inverse_Reinforcement_Learning_Ng_Russel_2000.pdf)
