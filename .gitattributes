@@ -81,7 +81,4 @@ articles/ReinforcementLearning/plasma_control/First_application_of_data_assimila
 articles/ReinforcementLearning/MARL/Emergent_Bartering_Behaviour_in_Multi-Agent_Reinforcement_Learning_Johansson_DeepMind_2022.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ReinforcementLearning/MARL/TheSurprisingEffectivenessofPPOinCooperativeMulti-AgentGames_Yu2022.pdf filter=lfs diff=lfs merge=lfs -text
 articles/OptimalControl/optimal_control_systems_Naidu.pdf filter=lfs diff=lfs merge=lfs -text
-
-
-
-
+articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/Human-in-the-Loop_Reinforcement_Learning_A_Survey_and_Position_on_Requirements_Challenges_and_Opportunities_Retzlaff_2024.pdf filter=lfs diff=lfs merge=lfs -text
