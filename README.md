@@ -36,6 +36,8 @@ For Game Theory we will discuss and go through the following packages: [NashPy](
  
  * [Causal Inference, Root Cause Analysis and Model Checking](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/RootCauseAnalysisResources.md)
 
+ * [Image Processing and Computer Vision: Techniques and Algorithms](https://github.com/dimitarpg13/image_processing/blob/main/Resources.md)
+
  * [Deep Learning and Neural Networks](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/Resources.md)
 
  * [Deep Learning for solving Image Processing problems and Generative Tasks](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/Resources.md)
