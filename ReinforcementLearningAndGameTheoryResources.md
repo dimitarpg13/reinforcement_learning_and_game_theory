@@ -1279,6 +1279,9 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 * [Introductuction to Monte Carlo Tree Search](http://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
 
 ## online lecture videos
+* [Lectures from ECE524 Foundations of Reinforcement Learning at Princeton University, Chi Jin, Spring 2024 
+](https://www.youtube.com/playlist?list=PLYXvCE1En13epbogBmgafC_Yyyk9oQogl)
+
 * [How ChatGPT is Trained with Ari Seff, (February 2023)](https://www.youtube.com/watch?v=VPRSBzXzavo)
 
 * [Reinforcement Learning from Human Feedback: Progress and Challenges with John Schulman (Berkeley EECS Colloquium, April 19, 2023)](https://www.youtube.com/watch?v=hhiLw5Q_UFg)
