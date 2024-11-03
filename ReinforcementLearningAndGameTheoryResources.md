@@ -316,6 +316,8 @@ related paper: [Llama 2: Open Foundation and Fine-Tuned Chat Models, H. Touvron 
 
 [STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning, E. Zelikman et al, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/STaR-Self-Taught_Reasoner_Bootstrapping_Reasoning_With_Reasoning_Zelikman_2022.pdf)
 
+[Training Language Models to Self-Correct via Reinforcement Learning,  Aviral Kumar et al, Google DeepMind, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Training_Language_Models_to_Self-Correct_via_Reinforcement_Learning_Kumar_2024.pdf)
+
 
 ## Adaptive Reinforcement Learning, RL applied to Bayesian Networks
 
@@ -1277,6 +1279,9 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 * [Introductuction to Monte Carlo Tree Search](http://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
 
 ## online lecture videos
+* [Lectures from ECE524 Foundations of Reinforcement Learning at Princeton University, Chi Jin, Spring 2024 
+](https://www.youtube.com/playlist?list=PLYXvCE1En13epbogBmgafC_Yyyk9oQogl)
+
 * [How ChatGPT is Trained with Ari Seff, (February 2023)](https://www.youtube.com/watch?v=VPRSBzXzavo)
 
 * [Reinforcement Learning from Human Feedback: Progress and Challenges with John Schulman (Berkeley EECS Colloquium, April 19, 2023)](https://www.youtube.com/watch?v=hhiLw5Q_UFg)
