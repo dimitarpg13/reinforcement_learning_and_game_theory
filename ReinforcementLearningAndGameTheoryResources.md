@@ -349,6 +349,10 @@ AdaRL repo: https://github.com/Adaptive-RL/AdaRL-code
 
 ## Optimal Control, Dynamic Programming, Viscous Flow, Hamilton-Jacobi-Bellman and the Eikonal Equations
 
+[Optimal Control Systems, DS Naidu, Idaho State University, 2002](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/OptimalControl/optimal_control_systems_Naidu.pdf)
+
+[The Pontryagin's Maximum Principle in Control and Optimal Control, AD Lewis, 2006](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/OptimalControl/pontryagin-maximum-principle-lewis-2006.pdf)
+
 [Discrete Dynamic Programming and Viscosity Solutions of the Bellman Equations, IC Dolcetta, M. Falcone, 1989](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/OptimalControl/Discrete_dynamic_programming_and_viscosity_solutions_of_the_Bellman_equation_Dolcetta_1989.pdf)
 
 [Hamilton-Jacobi-Bellman Equations and Optimal Control, IC Dolcetta, 1996](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/OptimalControl/Hamilton-Jacobi-Bellman_equations_and_optimal_control_Dolcetta_1996.pdf)
