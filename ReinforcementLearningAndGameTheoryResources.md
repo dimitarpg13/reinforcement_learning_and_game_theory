@@ -347,6 +347,23 @@ AdaRL repo: https://github.com/Adaptive-RL/AdaRL-code
 
 [Reinforcement Learning for Physical Dynamical Systems: An Alternative Approach: Reintroducing genetic algorithms and comparing to neural networks, Robert Etter, 2024, Towards Data Science](https://towardsdatascience.com/rl-for-physical-dynamical-systems-an-alternative-approach-8e2269dc1e79)
 
+## Optimal Control, Dynamic Programming, Viscous Flow, Hamilton-Jacobi-Bellman and the Eikonal Equations
+
+[Optimal Control Systems, DS Naidu, Idaho State University, 2002](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/OptimalControl/optimal_control_systems_Naidu.pdf)
+
+[The Pontryagin's Maximum Principle in Control and Optimal Control, AD Lewis, 2006](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/OptimalControl/pontryagin-maximum-principle-lewis-2006.pdf)
+
+[Discrete Dynamic Programming and Viscosity Solutions of the Bellman Equations, IC Dolcetta, M. Falcone, 1989](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/OptimalControl/Discrete_dynamic_programming_and_viscosity_solutions_of_the_Bellman_equation_Dolcetta_1989.pdf)
+
+[Hamilton-Jacobi-Bellman Equations and Optimal Control, IC Dolcetta, 1996](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/OptimalControl/Hamilton-Jacobi-Bellman_equations_and_optimal_control_Dolcetta_1996.pdf)
+
+[Viscosity Solutions of Hamilton-Jacobi-Equations and Optimal Control Problems, Alberto Bressan, 2001](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/OptimalControl/Viscosity_Solutions_of_Hamilton-Jacobi_Equations_and_Optimal_Control_Problems_Bressan_2001.pdf)
+
+[Simplical Dijkstra and A^{*} Algorithms: From Graphs to Continuous Spaces, D.S. Yershov, S.M. LaValle, 2012](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/OptimalControl/Simplicial_Dijkstra_and_AStar_Algorithms-From_Graphs_to_Continuous_Spaces_Yershov_2012.pdf)
+
+[Optimal Nonlinear Control Using Hamilton-Jacobi-Bellman Viscosity Solutions on Quasi-Monte Carlo Grids, CM Chilan, BA. Conway, UIUC, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/OptimalControl/Optimal_Nonlinear_Control_Using_Hamilton-Jacobi-Bellman_Viscosity_Solutions_on_Quasi-Monte_Carlo_Grids_Chilan_2020.pdf)
+
+[The Eikonal Equation, Wikipedia](https://en.wikipedia.org/wiki/Eikonal_equation)
 
 ## Online tutorials and short readings
 
