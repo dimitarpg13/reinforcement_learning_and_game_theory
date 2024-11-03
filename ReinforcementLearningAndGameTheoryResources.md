@@ -355,6 +355,10 @@ AdaRL repo: https://github.com/Adaptive-RL/AdaRL-code
 
 [Discrete Dynamic Programming and Viscosity Solutions of the Bellman Equations, IC Dolcetta, M. Falcone, 1989](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/OptimalControl/Discrete_dynamic_programming_and_viscosity_solutions_of_the_Bellman_equation_Dolcetta_1989.pdf)
 
+[Efficient Algorithms for Globally Optimal Trajectories, John Tstsiklis, 1995](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/OptimalControl/Efficient_Algorithms_for_Globally_Optimal_Trajectories_Tsitsiklis_1995.pdf)
+
+[Implementation of Efficient Algotihms for Globally Optimal Trajectories, L. C. Polymenakos, D. P. Bertsekas, and J. N. Tsitsiklis, 1998](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/OptimalControl/Implementation_of_Efficient_Algotihms_for_Globally_Optimal_Trajectories_Polymenakos_Bertsekas_Tsitsiklis_1998.pdf)
+
 [Hamilton-Jacobi-Bellman Equations and Optimal Control, IC Dolcetta, 1996](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/OptimalControl/Hamilton-Jacobi-Bellman_equations_and_optimal_control_Dolcetta_1996.pdf)
 
 [Viscosity Solutions of Hamilton-Jacobi-Equations and Optimal Control Problems, Alberto Bressan, 2001](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/OptimalControl/Viscosity_Solutions_of_Hamilton-Jacobi_Equations_and_Optimal_Control_Problems_Bressan_2001.pdf)
