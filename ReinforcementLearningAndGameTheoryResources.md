@@ -280,6 +280,8 @@ related paper: [Llama 2: Open Foundation and Fine-Tuned Chat Models, H. Touvron 
 
 [Algorithms for Inverse Reinforcement Learning, Andrew Ng, Stuart Russel, Stanford, 2000](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Algorithms_for_Inverse_Reinforcement_Learning_Ng_Russel_2000.pdf)
 
+[RL with KL penalties is better viewed as Bayesian inference, Tomasz Korbak et al, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/RL_with_KL_penalties_is_better_viewed_as_Bayesian_inference_Korbak_2022.pdf)
+
 [Training Language Models to Follow Instructions With Human Feedback, L. Ouyang et al, OpenAI, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/Training_language_models_to_follow_instructions_with_human_feedback_Ouyang_OpenAI_2022.pdf)
 
 [Fine Tuning Language Models from Human Preferences, Daniel M. Ziegler et al, OpenAI, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/Fine-Tuning_Language_Models_from_Human_Preferences_Ziegler_OpenAI_2020.pdf)
