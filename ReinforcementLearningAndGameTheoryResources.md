@@ -50,6 +50,8 @@ Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo In
 
 * [A Definition of Continual Reinforcement Learning, David Abel et al, DeepMind, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/A_Definition_of_Continual_Reinforcement_Learning_Abel_DeepMind_2023.pdf)
 
+* [Optimization Issues in KL-Constrained Approximate Policy Iteration, Nevena Lazic et al, 2021](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Optimization_Issues_in_KL-Constrained_Approximate_Policy_Iteration_Lazic_2021.pdf)
+
 * [A Model of Mood as Integrated Advantage, Bennett, D, Davidson, G., Niv Y, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/A_model_of_mood_as_integrated_advantage_Bennett2023.pdf)
 
 * [Emotions as Computations, Emanuel, A., Eldar, E., 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Emotions_as_computations_Emanuel_Eldar_2022.pdf)
