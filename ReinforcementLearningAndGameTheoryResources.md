@@ -244,6 +244,8 @@ link to the book [Reinforcement Learning in Action](https://github.com/dimitarpg
 
 ## Reinforcement Learning in Large Language Models and related algorithms
 
+[Robust Preference Optimization through Reward Model Distillation, Adam Fisch et al, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_fine_tuning_of_LLM/Robust_Preference_Optimization_through_Reward_Model_Distillation_Fisch_2024.pdf)
+
 [Vanishing Gradients in Reinforcement finetuning of Language Models, Noam Razin et al, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_fine_tuning_of_LLM/Vanishing_Gradients_in_Reinforcement_Finetuning_of_Language_Models_Razin_2024.pdf)
 
 [Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs, A. Ahmadian et al, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Back_to_Basics-Revisiting_REINFORCE_Style_Optimization_for_Learning_from_Human_Feedback_in_LLMs_Ahmadian_2024.pdf)
