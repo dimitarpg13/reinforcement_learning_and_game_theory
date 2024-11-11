@@ -244,6 +244,8 @@ link to the book [Reinforcement Learning in Action](https://github.com/dimitarpg
 
 ## Reinforcement Learning in Large Language Models and related algorithms
 
+[Vanishing Gradients in Reinforcement finetuning of Language Models, Noam Razin et al, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_fine_tuning_of_LLM/Vanishing_Gradients_in_Reinforcement_Finetuning_of_Language_Models_Razin_2024.pdf)
+
 [Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs, A. Ahmadian et al, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Back_to_Basics-Revisiting_REINFORCE_Style_Optimization_for_Learning_from_Human_Feedback_in_LLMs_Ahmadian_2024.pdf)
 
 [Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions, Yevgen Chebotar et al, DeepMind, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Q-Transformer-Scalable_Offline_Reinforcement_Learning_via_Autoregressive_Q-Functions_Chebotar_DeepMind_2023.pdf)
