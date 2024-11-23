@@ -19,6 +19,8 @@
 ## Articles and tutorials
 * [Structure in Reinforcement Learning: A Survey and Open Problems, Aditya Mohan et al, Institute of Artificial Intelligence, Leibniz Uni, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Structure_in_Reinforcement_Learning-A_Survey_and_Open_Problems_Mohan_2024.pdf)
 
+* [Reinforcement Learning: A Historical and Mathematical Overview (1950-2024), Miquel Noguer i Alonso, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Reinforcement_Learning-A_Historical_and_Mathematical_Overview_1950-2024_Noruer_i_Alonso.pdf)
+
 * [An Introduction to Deep Reinforcement Learning, Vincent Francois-Lavet et al, McGill, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/IntroToDeepReinforcementLearningVFrancois-Lavet2018.pdf)
 
 * [Discovering faster matrix multiplication algorithms with reinforcement learning, Fawzi A., 2021, Nature](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/DiscoveringFasterMatrixMultiplicationAlgorithmsWithReinforcementLearningFawziNature2021.pdf)
