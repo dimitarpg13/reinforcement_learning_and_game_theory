@@ -21,6 +21,8 @@
 
 * [Reinforcement Learning: A Historical and Mathematical Overview (1950-2024), Miquel Noguer i Alonso, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Reinforcement_Learning-A_Historical_and_Mathematical_Overview_1950-2024_Noruer_i_Alonso.pdf)
 
+* [Foundations of Reinforcement Learning and Interactive Decision Making, Dylan J. Foster and Alexander Rakhlin, Lecture Notes MIT, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Foundations_of_Reinforcement_Learning_andInteractive_Decision_Making_Foster_MIT_2024.pdf)
+
 * [An Introduction to Deep Reinforcement Learning, Vincent Francois-Lavet et al, McGill, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/IntroToDeepReinforcementLearningVFrancois-Lavet2018.pdf)
 
 * [Discovering faster matrix multiplication algorithms with reinforcement learning, Fawzi A., 2021, Nature](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/DiscoveringFasterMatrixMultiplicationAlgorithmsWithReinforcementLearningFawziNature2021.pdf)
