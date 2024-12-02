@@ -17,6 +17,8 @@
 * [The Cross-Entropy Method: A Unified Approach to Combinatorial Optimization, Monte-Carlo Simulation and Machine Learning, RY Rubinstein, DP Kroese, 2004](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/The_Cross_Entropy_Method_A_Unified_Approach_Rubinstein_Kroese_2004.pdf)
 
 ## Articles and tutorials
+* [Deep Reinforcement Learning Without Experience Replay, Target Networks, or Batch Updates, Mohamed Elsayed et al, U of Alberta, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/stream-x/Deep_Reinforcement_Learning_Without_Experience_Replay_Target_Networks_or_Batch_Updates_Elsayed_2024.pdf)
+
 * [Structure in Reinforcement Learning: A Survey and Open Problems, Aditya Mohan et al, Institute of Artificial Intelligence, Leibniz Uni, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Structure_in_Reinforcement_Learning-A_Survey_and_Open_Problems_Mohan_2024.pdf)
 
 * [Reinforcement Learning: A Historical and Mathematical Overview (1950-2024), Miquel Noguer i Alonso, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Reinforcement_Learning-A_Historical_and_Mathematical_Overview_1950-2024_Noruer_i_Alonso.pdf)
