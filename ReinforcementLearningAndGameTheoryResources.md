@@ -1410,6 +1410,8 @@ perfect and imperfect information games, Martin Schmid et al, DeepMind, 2023](ht
 
 * [States as Strings as Strategies: Steering Language Models with Game-Theoretic Solvers, Ian Gemp et al, Google DeepMind, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/States_as_Strings_as_Strategies-Steering_Language_Models_with_Game-Theoretic_Solvers_Gemp_DeepMind_2024.pdf)
 
+* [Game Theory and Multi-Agent Reinforcement Learning : From Nash Equilibria to Evolutionary Dynamics, Neil De La Fuente, Miquel Noguer i Alonso, Guim Casadella, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/Game_Theory_and_Multi-Agent_Reinforcement_Learning-From_Nash_Equilibria_to_Evolutionary_Dynamics_Fuente_2024.pdf)
+
 ## online lecture videos
 
 * [Algorithmic Game Theory, Tim Roughgarden, Stanford CS364A, Fall 2013](https://youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4) 
