@@ -223,6 +223,13 @@ related repo: [ad placement example](https://github.com/NandaKishoreJoshi/Reinfo
 
 link to the book [Reinforcement Learning in Action](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/deep-reinforcement-learning-in-action-book.pdf)
 
+## Reinforcement Learning in Retail and Marketing
+
+[Dynamic Pricing with Multi-Armed Bandits: Learning by Doing, Massimiliano Costacurta, 2023](https://towardsdatascience.com/dynamic-pricing-with-multi-armed-bandit-learning-by-doing-3e4550ed02ac)
+
+code: https://github.com/massi82/multi-armed-bandit
+
+
 ## Online Algorithms and solving them with Reinforcement Learning
 
 [The k-server problem: Researchers Refute a Widespread Belief About Online Algorithms, Quanta Magazine, 2023](https://www.quantamagazine.org/researchers-refute-a-widespread-belief-about-online-algorithms-20231120#0)
