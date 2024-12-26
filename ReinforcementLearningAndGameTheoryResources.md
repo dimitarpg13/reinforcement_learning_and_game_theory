@@ -223,6 +223,13 @@ related repo: [ad placement example](https://github.com/NandaKishoreJoshi/Reinfo
 
 link to the book [Reinforcement Learning in Action](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/deep-reinforcement-learning-in-action-book.pdf)
 
+## Reinforcement Learning in Retail and Marketing
+
+[Dynamic Pricing with Multi-Armed Bandits: Learning by Doing, Massimiliano Costacurta, 2023](https://towardsdatascience.com/dynamic-pricing-with-multi-armed-bandit-learning-by-doing-3e4550ed02ac)
+
+code: https://github.com/massi82/multi-armed-bandit
+
+
 ## Online Algorithms and solving them with Reinforcement Learning
 
 [The k-server problem: Researchers Refute a Widespread Belief About Online Algorithms, Quanta Magazine, 2023](https://www.quantamagazine.org/researchers-refute-a-widespread-belief-about-online-algorithms-20231120#0)
@@ -1409,6 +1416,8 @@ perfect and imperfect information games, Martin Schmid et al, DeepMind, 2023](ht
 * [The Consensus Game: Language Model Generation via Equilibrium Search, Athul Paul Jacob et al, MIT, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/The_Consensus_Game-Language_Model_Generation_via_Equilibrium_Search_Jacob_MIT_2024.pdf)
 
 * [States as Strings as Strategies: Steering Language Models with Game-Theoretic Solvers, Ian Gemp et al, Google DeepMind, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/States_as_Strings_as_Strategies-Steering_Language_Models_with_Game-Theoretic_Solvers_Gemp_DeepMind_2024.pdf)
+
+* [Game Theory and Multi-Agent Reinforcement Learning : From Nash Equilibria to Evolutionary Dynamics, Neil De La Fuente, Miquel Noguer i Alonso, Guim Casadella, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/Game_Theory_and_Multi-Agent_Reinforcement_Learning-From_Nash_Equilibria_to_Evolutionary_Dynamics_Fuente_2024.pdf)
 
 ## online lecture videos
 
