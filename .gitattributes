@@ -93,3 +93,4 @@ articles/ReinforcementLearning/Optimization_Issues_in_KL-Constrained_Approximate
 articles/ReinforcementLearning/Foundations_of_Reinforcement_Learning_andInteractive_Decision_Making_Foster_MIT_2024.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ReinforcementLearning/stream-x/Deep_Reinforcement_Learning_Without_Experience_Replay_Target_Networks_or_Batch_Updates_Elsayed_2024.pdf filter=lfs diff=lfs merge=lfs -text
 books/ReinforcementLearning_KevinMurphy_an_Overview_2024.pdf filter=lfs diff=lfs merge=lfs -text
+books/reinforcement-learning-and-stochastic-optimization-a-unified-framework-for-sequential-decisions-Powell-2022.pdf filter=lfs diff=lfs merge=lfs -text
