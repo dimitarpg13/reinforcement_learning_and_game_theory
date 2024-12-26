@@ -10,6 +10,8 @@
 
 * [Reinforcement Learning and Stochastic Optimization: A Unified Framework for Sequential Decisions, Warren Powel, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/reinforcement-learning-and-stochastic-optimization-a-unified-framework-for-sequential-decisions-Powell-2022.pdf)
 
+* [Reinforcement Learning and Stochastic Optimization: A Unified Framework for Sequential Decisions, Warren Powel, 2022 (version 2)](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Warren_B_Powell_Reinforcement_Learning_and_Stochastic_Optimization_2022_Version2.pdf)
+
 * [Reinforcement Learning and Stochastic Optimization: A Unified Framework for Sequential Decisions, Warren Powel, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Powell-Reinforcement-Learning-and-Stochastic-Optimization.pdf)
 
 * [Optimal Learning, Warren Powel, Ilya Ryzhov, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Powell-OptimalLearningWileyMarch112018.pdf)
