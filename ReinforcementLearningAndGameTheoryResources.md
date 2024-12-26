@@ -8,7 +8,9 @@
 
 * [Deep Reinforcement Learning, Aske Plaat, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/DeepReinforcementLearning_AskeePlaat2023.pdf)
 
-* [Reinforcement Learning and Stochastic Optimization, Warren Powel, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Powell-Reinforcement-Learning-and-Stochastic-Optimization.pdf)
+* [Reinforcement Learning and Stochastic Optimization: A Unified Framework for Sequential Decisions, Warren Powel, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/reinforcement-learning-and-stochastic-optimization-a-unified-framework-for-sequential-decisions-Powell-2022.pdf)
+
+* [Reinforcement Learning and Stochastic Optimization: A Unified Framework for Sequential Decisions, Warren Powel, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Powell-Reinforcement-Learning-and-Stochastic-Optimization.pdf)
 
 * [Optimal Learning, Warren Powel, Ilya Ryzhov, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Powell-OptimalLearningWileyMarch112018.pdf)
 
