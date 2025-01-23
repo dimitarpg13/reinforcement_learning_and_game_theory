@@ -95,3 +95,4 @@ articles/ReinforcementLearning/stream-x/Deep_Reinforcement_Learning_Without_Expe
 books/ReinforcementLearning_KevinMurphy_an_Overview_2024.pdf filter=lfs diff=lfs merge=lfs -text
 books/reinforcement-learning-and-stochastic-optimization-a-unified-framework-for-sequential-decisions-Powell-2022.pdf filter=lfs diff=lfs merge=lfs -text
 books/Warren_B_Powell_Reinforcement_Learning_and_Stochastic_Optimization_2022_Version2.pdf filter=lfs diff=lfs merge=lfs -text
+articles/ReinforcementLearning/reinforcement_fine_tuning_of_LLM/DeepSeekMath-Pushing_the_Limits_of_Mathematical_Reasoning_in_Open_Language_Models_Shao_2024.pdf filter=lfs diff=lfs merge=lfs -text
