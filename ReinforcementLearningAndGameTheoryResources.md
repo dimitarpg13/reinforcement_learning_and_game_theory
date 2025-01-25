@@ -301,6 +301,9 @@ related paper: [Llama 2: Open Foundation and Fine-Tuned Chat Models, H. Touvron 
 
 ### Reinforcement Learning from Human Feedback (RLHF) 
 
+[A Little Bit of Reinforcement Learning from Human Feedback: A short introduction to RLHF and post-training focused on
+language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/A_Little_Bit_of_Reinforcement_Learning_from_Human_Feedback_Lambert_2025.pdf)
+
 [Asymptotics of Language Model Alignment, Joy Qiping Yang et al, U. of Sydney, Google DeepMind, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Asymptotics_of_Language_Model_Alignment_Yang_2024.pdf)
 
 [Controlled Decoding from Language Models, Sidharth Mudgal et al, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/Controlled_Decoding_from_Language_Models_Mudgal_2024.pdf)
