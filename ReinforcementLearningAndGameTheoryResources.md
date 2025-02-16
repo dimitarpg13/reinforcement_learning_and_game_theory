@@ -301,6 +301,10 @@ related paper: [Llama 2: Open Foundation and Fine-Tuned Chat Models, H. Touvron 
 
 [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training, Evan Hubinger et al, Anthropic, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Sleeper_Agents-Training_Deceptive_LLMs_that_Persist_Through_Safety_Training_Hubinger_Anthropic_2024.pdf)
 
+[Direct Preference Optimization: Your Language Model is Secretly a Reward Model, Rafel Rafailov et al, Stanford U., 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/Direct_Preference_Optimization-Your_Language_Model_is_Secretly_a_Reward_Model_Rafailov_Stanford_2023.pdf)
+
+[DPO-Shift: Shifting the Distribution of Direct Preference Optimization, X. yang et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/DPO/DPO-Shift-Shifting_the_Distribution_of_Direct_Preference_Optimization_Yang_2025.pdf)
+
 ### Reinforcement Learning from Human Feedback (RLHF) 
 
 [A Little Bit of Reinforcement Learning from Human Feedback: A short introduction to RLHF and post-training focused on
