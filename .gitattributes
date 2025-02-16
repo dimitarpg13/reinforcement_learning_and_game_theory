@@ -99,3 +99,4 @@ articles/ReinforcementLearning/reinforcement_fine_tuning_of_LLM/DeepSeekMath-Pus
 articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/A_Little_Bit_of_Reinforcement_Learning_from_Human_Feedback_Lambert_2025.pdf filter=lfs diff=lfs merge=lfs -text
 books/The_Mathematics_of_Reinforcement_Learning_Doering_UoMannheim_2024.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ReinforcementLearning/DPO/DPO-Shift-Shifting_the_Distribution_of_Direct_Preference_Optimization_Yang_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/ReinforcementLearning/DPO/Direct_Preference_Optimization-Your_Language_Model_is_Secretly_a_Reward_Model_Rafailov_2024.pdf filter=lfs diff=lfs merge=lfs -text
