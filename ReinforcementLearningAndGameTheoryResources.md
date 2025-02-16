@@ -180,7 +180,7 @@ Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo In
 
 ## Reinforcement Learning in Supply Chain Management
 
-### introductory material to relevant algorithms by Wouter van Heeswijk
+### introductory material to relevant algorithms
 
 [Why Hasn’t Reinforcement Learning Conquered The World (Yet)?, Wouter van Heeswijk, Medium](https://towardsdatascience.com/why-hasnt-reinforcement-learning-conquered-the-world-yet-459ae99982c6)
 
