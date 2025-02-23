@@ -421,6 +421,8 @@ AdaRL repo: https://github.com/Adaptive-RL/AdaRL-code
 
 ### Imitation Learning
 
+[An Algorithmic Perspective on Imitation Learning, Takayuki Osa et al, U. of Tokyo, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/imitation_learning/An_Algorithmic_Perspective_on_Imitation_Learning_Osa_1018.pdf)
+
 [X-IL: Exploring the Design Space of Imitation Learning Policies, X. Jia et al, Karlsruhe Institute of Technology, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/imitation_learning/X-IL-Exploring_the_Design_Space_of_Imitation_Learning_Policies_Jia_2025.pdf)
 
 ## Online tutorials and short readings
