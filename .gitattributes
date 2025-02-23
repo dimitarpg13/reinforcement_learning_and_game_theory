@@ -100,3 +100,5 @@ articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/A_Litt
 books/The_Mathematics_of_Reinforcement_Learning_Doering_UoMannheim_2024.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ReinforcementLearning/DPO/DPO-Shift-Shifting_the_Distribution_of_Direct_Preference_Optimization_Yang_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ReinforcementLearning/DPO/Direct_Preference_Optimization-Your_Language_Model_is_Secretly_a_Reward_Model_Rafailov_2024.pdf filter=lfs diff=lfs merge=lfs -text
+articles/ReinforcementLearning/distributional_RL/An_opponent_striatal_circuit_for_distributional_reinforcement_learning_Lowet_Harvard_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/ReinforcementLearning/imitation_learning/X-IL-Exploring_the_Design_Space_of_Imitation_Learning_Policies_Jia_2025.pdf filter=lfs diff=lfs merge=lfs -text
