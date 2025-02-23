@@ -415,6 +415,14 @@ AdaRL repo: https://github.com/Adaptive-RL/AdaRL-code
 
 [The Eikonal Equation, Wikipedia](https://en.wikipedia.org/wiki/Eikonal_equation)
 
+### Distributional Reinforcement Learning
+
+[An Opponent Striatal Circuit for Distributional Reinforcement Learning, Adam S. Lowet et al, Harvard U., 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/distributional_RL/An_opponent_striatal_circuit_for_distributional_reinforcement_learning_Lowet_Harvard_2025.pdf)
+
+### Imitation Learning
+
+[X-IL: Exploring the Design Space of Imitation Learning Policies, X. Jia et al, Karlsruhe Institute of Technology, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/imitation_learning/X-IL-Exploring_the_Design_Space_of_Imitation_Learning_Policies_Jia_2025.pdf)
+
 ## Online tutorials and short readings
 
 ### OpenAI resources:
