@@ -1415,6 +1415,10 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
 * [Game Theory: Decisions, Interactions and Evolution, James N. Webb, 2000](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Webb-Game_Theory-Decisions_Interaction_and_Evolution.pdf)
 
+* [Game Theory: Analysis of Conflict, Roger B. Myerson, 2013](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/GameTheory/GameTheoryAnalysisofConflictMyerson2013.pdf)
+
+* [Game Theory and Its Applications in The Social Biological Sciences, Andrew M. Coleman, 2003](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/GameTheory/GameTheoryanditsApplicationsinTheSocialandBiologicalSciencesColmman2ed2003.pdf)
+
 ## Articles
 
 * [Equilibrium Points in N-Person Games, John Nash, 1950](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/nash1950.pdf)
