@@ -104,3 +104,4 @@ articles/ReinforcementLearning/distributional_RL/An_opponent_striatal_circuit_fo
 articles/ReinforcementLearning/imitation_learning/X-IL-Exploring_the_Design_Space_of_Imitation_Learning_Policies_Jia_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ReinforcementLearning/imitation_learning/An_Algorithmic_Perspective_on_Imitation_Learning_Osa_1018.pdf filter=lfs diff=lfs merge=lfs -text
 books/An_Algorithmic_Perspective_on_Imitation_Learning_Osa_U_of_Tokyo_2025.pdf filter=lfs diff=lfs merge=lfs -text
+books/GameTheory/AnIntroductiontoGameTheoryOsborne2000.pdf filter=lfs diff=lfs merge=lfs -text
