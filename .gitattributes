@@ -107,3 +107,4 @@ books/An_Algorithmic_Perspective_on_Imitation_Learning_Osa_U_of_Tokyo_2025.pdf f
 books/GameTheory/AnIntroductiontoGameTheoryOsborne2000.pdf filter=lfs diff=lfs merge=lfs -text
 books/GameTheory/AnIntroductiontoGameTheoryOsborne2013.pdf filter=lfs diff=lfs merge=lfs -text
 books/GameTheory/GameTheoryAnalysisofConflictMyerson2013.pdf filter=lfs diff=lfs merge=lfs -text
+books/GameTheory/GameTheoryanditsApplicationsinTheSocialandBiologicalSciencesColmman2ed2003.pdf filter=lfs diff=lfs merge=lfs -text
