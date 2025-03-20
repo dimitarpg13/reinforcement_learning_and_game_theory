@@ -1371,13 +1371,36 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
 * Deep Reinforcement Learning: John Schulman, OpenAI, Berkeley (MLSS Cadiz, 2016)
 
-    [Lecture 1](https://youtu.be/aUrX-rP_ss4)
+    [Lecture 1: Introduction and Markov Decision Processes](https://youtu.be/aUrX-rP_ss4)
 
     [Lecture 2](https://youtu.be/oPGVsoBonLM)
 
     [Lecture 3](https://youtu.be/rO7Dx8pSJQw)
 
     [Lecture 4](https://youtu.be/gb5Q2XL5c8A)
+
+* Introduction to Reinforcement Learning, David Silver, DeepMind x UCL, 2015
+
+    [Lecture 1: Introduction to Reinforcement Learning](https://youtu.be/2pWv7GOvuf0?si=zUJ4agxt1rkOsjuI)
+
+    [Lecture 2: Markov Decision Processes](https://youtu.be/lfHX2hHRMVQ?si=bBLrnVsPDj3NZMZ-)
+
+    [Lecture 3: Planning by Dynamic Programming](https://youtu.be/Nd1-UUMVfz4?si=2QadekYHYv-3yfGy)
+
+    [Lecture 4: Model Free Prediction](https://youtu.be/PnHCvfgC_ZA?si=N51Y2Ptl0LdiGorD)
+
+    [Lecture 5: Model Free Control](https://youtu.be/0g4j2k_Ggc4?si=VCdrsah2o9qMHxrh)
+
+    [Lecture 6: Value Function Approximation](https://youtu.be/UoPei5o4fps?si=ynMTsk2ETYFq96NC)
+
+    [Lecture 7: Policy Gradient Methods](https://youtu.be/KHZVXao4qXs?si=XuWn_b_Dqmv8UVJv)
+
+    [Lecture 8: Integrating Learning and Planning](https://youtu.be/ItMutbeOHtc?si=lQPB83phPouucuZe)
+
+    [Lecture 9: Exploration and Exploitation](https://youtu.be/sGuiWX07sKw?si=6dIbj_KYDKkEVYrs)
+
+    [Lecture 10: Classic Games](https://youtu.be/kZ_AUmFcZtk?si=90HRmzn9TTh3vLg9)
+  
 
 * [Deep Reinforcement Learning, David Silver, Dept. of Computer Science, University College, (July 2015, London)](http://videolectures.net/rldm2015_silver_reinforcement_learning/)
     _Note: lecture slides included under section "Articles and tutorials"_
