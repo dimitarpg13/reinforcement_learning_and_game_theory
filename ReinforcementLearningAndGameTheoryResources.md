@@ -1371,13 +1371,13 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
 * Deep Reinforcement Learning: John Schulman, OpenAI, Berkeley (MLSS Cadiz, 2016)
 
-    [Lecture 1: Introduction and Markov Decision Processes](https://youtu.be/aUrX-rP_ss4)
+    [Lecture 1: Intro, Episodic Reinforcement Learning and Markov Decision Processes](https://youtu.be/aUrX-rP_ss4)
 
-    [Lecture 2](https://youtu.be/oPGVsoBonLM)
+    [Lecture 2: More on Cross-Entropy Method and Value Functions](https://youtu.be/oPGVsoBonLM)
 
-    [Lecture 3](https://youtu.be/rO7Dx8pSJQw)
+    [Lecture 3: More on Episodic Reinforcement Learning and Policy Gradients](https://youtu.be/rO7Dx8pSJQw)
 
-    [Lecture 4](https://youtu.be/gb5Q2XL5c8A)
+    [Lecture 4: Performance of Policies, Policy Approximations, Parametrized Policies, Asynchronous Methods](https://youtu.be/gb5Q2XL5c8A)
 
 * Introduction to Reinforcement Learning, David Silver, DeepMind x UCL, 2015
 
