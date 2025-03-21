@@ -143,6 +143,14 @@ Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo In
 
 [...More Reinforcement Learning articles on DeepMind site](https://www.deepmind.com/research?tag=Reinforcement+learning)
 
+## The Cross-Entropy Method
+
+* [Learning Tetris Using the Noisy Cross-Entropy Method, Istvan Szita, Andras Loerincz, 2006](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Learning_Tetris_Using_the_Noisy_Cross-Entropy_Method_Szita_2006.pdf)
+
+* [Approximate Dynamic Programming Finally Performs Well In The Game of Tetris, Victor Gabillon et al, INRIA, 2013](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/NIPS-2013-approximate-dynamic-programming-finally-performs-well-in-the-game-of-tetris-Paper.pdf)
+
+* [A Tutorial On The Cross-Entropy Method, Pieter-Tjerk de Boer et al, MIT, 2003](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/A_Tutorial_on_the_Cross-Entropy_Method_deBoer_2003.pdf)
+
 ## Partially Observable Markov Processes articles
 
 * [A Survey of Partially Observable Markov Desicion Processes: theory, models and algorithms, Monahan G., 2014](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/SurveyOfPOMDP_TheoryModelsAndAlgorithmsMonahan1982.pdf)
