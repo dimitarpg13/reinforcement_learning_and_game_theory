@@ -159,6 +159,8 @@ Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo In
 
 * [Methods to optimize rare-event Monte Carlo reliability simulations for Large Hadron Collider Protection Systems, Milosz Blaszkiewicz, Thesis, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Methods_to_optimize_rare-event_Monte_Carlo_reliability_simulations_for_Large_Hadron_Collider_Protection_Systems_CERN-Thesis-2022.pdf)
 
+* [Heavy Tails, Importance Sampling, and Cross-Entropy, Soren Asmussen, Dirk Kroese, Reuven Rubinstein, 2003](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Heavy_Tails_Importance_Sampling_and_Cross_Entropy_Assmussen_2003.pdf)
+
 ## Partially Observable Markov Processes articles
 
 * [A Survey of Partially Observable Markov Desicion Processes: theory, models and algorithms, Monahan G., 2014](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/SurveyOfPOMDP_TheoryModelsAndAlgorithmsMonahan1982.pdf)
