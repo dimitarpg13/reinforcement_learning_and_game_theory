@@ -143,7 +143,7 @@ Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo In
 
 [...More Reinforcement Learning articles on DeepMind site](https://www.deepmind.com/research?tag=Reinforcement+learning)
 
-## The Cross-Entropy Method
+## The Cross-Entropy Method and Rare Events Simulation
 
 * [The Cross-Entropy Method: A Unified Approach to Combinatorial Optimization, Monte-Carlo Simulation and Machine Learning, RY Rubinstein, DP Kroese, 2004](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/The_Cross_Entropy_Method_A_Unified_Approach_Rubinstein_Kroese_2004.pdf)
 
@@ -156,6 +156,8 @@ Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo In
 * [Buffer Allocation Problem in production flow lines: a new Benders-decomposition-based exact solution approach, M. Zhang et al, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Buffer_Allocation_Problem_in_production_flow_lines_new_Benders-decomposition-based_exact_solution_approach_Zhang_2022.pdf)
 
 * [Introduction to Rare Events Simulation, John F. Shortle, Pierre L'Eccuyer, Draft, 2011](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Introduction_to_Rare-Event_Simulation.pdf)
+
+* [Methods to optimize rare-event Monte Carlo reliability simulations for Large Hadron Collider Protection Systems, Milosz Blaszkiewicz, Thesis, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Methods_to_optimize_rare-event_Monte_Carlo_reliability_simulations_for_Large_Hadron_Collider_Protection_Systems_CERN-Thesis-2022.pdf)
 
 ## Partially Observable Markov Processes articles
 
