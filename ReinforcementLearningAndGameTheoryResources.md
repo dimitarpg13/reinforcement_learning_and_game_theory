@@ -258,6 +258,8 @@ code: https://github.com/massi82/multi-armed-bandit
 
 [The Online K-Server Problem, Aris Floratos, Ravi Boppana, Courant Institute, NUY](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/online_problems/The_Online_K-Server_problem_Flouratos_Courrant_Institute_NYU.pdf)
 
+[On theInterpretation of Decision Problems with Imperfect Recall, Michelle Piccione, Ariel Rubinstein, 1995](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/online_problems/On_the_Interpretation_of_Decision_Problems_with_Imperfect_Recall_Piccione_1997.pdf)
+
 ## Decision Transformers - Reinforcement Learning via Sequence Modeling
 
 [Decision Transformer: Reinforcement Learning via Sequence Modeling, Lily Chen et al, UC Berkeley, 2021](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Decision_Transformer-Reinforcement_Learning_via_Sequence_Modeling_Chen_UCBerkeley_2021.pdf)
