@@ -110,3 +110,4 @@ books/GameTheory/GameTheoryAnalysisofConflictMyerson2013.pdf filter=lfs diff=lfs
 books/GameTheory/GameTheoryanditsApplicationsinTheSocialandBiologicalSciencesColmman2ed2003.pdf filter=lfs diff=lfs merge=lfs -text
 docs/NotesOnSuttonsBook/chapters/DynamicProgrammingSuttonSecondEdition2020.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ReinforcementLearning/DPO/A_Survey_of_Direct_Preference_Optimization_Liu_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/stochastic_optimization/Methods_to_optimize_rare-event_Monte_Carlo_reliability_simulations_for_Large_Hadron_Collider_Protection_Systems_CERN-Thesis-2022.pdf filter=lfs diff=lfs merge=lfs -text
