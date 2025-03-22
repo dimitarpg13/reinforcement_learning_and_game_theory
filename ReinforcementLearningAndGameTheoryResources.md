@@ -155,6 +155,8 @@ Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo In
 
 * [Buffer Allocation Problem in production flow lines: a new Benders-decomposition-based exact solution approach, M. Zhang et al, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Buffer_Allocation_Problem_in_production_flow_lines_new_Benders-decomposition-based_exact_solution_approach_Zhang_2022.pdf)
 
+* [Introduction to Rare Events Simulation, John F. Shortle, Pierre L'Eccuyer, Draft, 2011](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Introduction_to_Rare-Event_Simulation.pdf)
+
 ## Partially Observable Markov Processes articles
 
 * [A Survey of Partially Observable Markov Desicion Processes: theory, models and algorithms, Monahan G., 2014](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/SurveyOfPOMDP_TheoryModelsAndAlgorithmsMonahan1982.pdf)
