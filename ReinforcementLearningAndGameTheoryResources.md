@@ -143,7 +143,23 @@ Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo In
 
 [...More Reinforcement Learning articles on DeepMind site](https://www.deepmind.com/research?tag=Reinforcement+learning)
 
-## The Cross-Entropy Method and Rare Events Simulation
+## The MM Algorithm and the EM Algorithm
+
+* [Maximum Likelihood Theory for Incomplete Data from Exponential Family, Rolf Sundberg, U. of Stockholm, 1974](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Maximum_Likelihood_Theory_for_Incomplete_Data_from_Exponential_Family_Sundberg_1974.pdf)
+
+* [Maximum Likelihood from Incomplete Data via the EM Algorithm, A.P. Dempster, 1977](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Maximum_Likelihood_from_Incomplete_Data_via_the_EM_Algorithm_Dempster_1977.pdf)
+
+* [The EM Algorithm: An Old Folk Song Sung to Fast New Tune, XL Meng, 1997](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/The_EM_Algorithm_An_old_folk_song_sung_to_fast_new_tune_Meng_1997.pdf)
+
+* [Some Results on Maximum Likelihood from Incomplete Data - Finite Sample Properties and Improved M-estimator for Resampling, B. Surya, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Some_results_on_maximum_likelihood_from_incomplete_data-finite_sample_properties_and_improved_M-estimator_for_resampling_Surya_2022.pdf)
+
+* [The MM Algorithm (handout), Kenneth Lange, UCLA, 2007](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/The_MM_Algorithm_Lange_Talk_UCLA_2007.pdf)
+
+* [The MM Alternative to EM, TT Wu, Kenneth Lange, 2011](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/The_MM_Alternative_to_EM_Wu_2011.pdf)
+
+* [Nonconvex Optimization via MM Algorithms: Convergence Theory, Kenneth Lange, 2021](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Nonconvex_Optimization_via_MM_Algorithms-Convergence_Theory_Lange_2021.pdf)
+
+## The Cross-Entropy Method, Covariance Matrix Adaptation and Rare Events Simulation
 
 * [The Cross-Entropy Method: A Unified Approach to Combinatorial Optimization, Monte-Carlo Simulation and Machine Learning, RY Rubinstein, DP Kroese, 2004](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/The_Cross_Entropy_Method_A_Unified_Approach_Rubinstein_Kroese_2004.pdf)
 
@@ -158,6 +174,12 @@ Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo In
 * [Buffer Allocation Problem in production flow lines: a new Benders-decomposition-based exact solution approach, M. Zhang et al, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Buffer_Allocation_Problem_in_production_flow_lines_new_Benders-decomposition-based_exact_solution_approach_Zhang_2022.pdf)
 
 * [Introduction to Rare Events Simulation, John F. Shortle, Pierre L'Eccuyer, Draft, 2011](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Introduction_to_Rare-Event_Simulation.pdf)
+
+* [The CMA Evolution Strategy : A Tutorial, Nikolaus Hansen, Inria, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Tutorial_Covariance_Matrix_Adapatation_Evolution_Strategy_Hansen_Inria_2023.pdf)
+
+* [Tutorial: Covariance Matrix Adaptation Evolution Strategy handout, Nikolaus Hansen, ETH Zurich, 2006](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Tutorial_Covariance_Matrix_Adapatation_Evolution_Strategy_handout_Hansen_ETH_Zurich_2006.pdf)
+
+* [Optimizing Walking Controllers for Uncertain Inputs and Environments, Jack M. Wang et al, 2010](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Optimizing_Walking_Controllers_for_Uncertain_Inputs_and_Environments_Wang_2010.pdf)
 
 * [Methods to optimize rare-event Monte Carlo reliability simulations for Large Hadron Collider Protection Systems, Milosz Blaszkiewicz, Thesis, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Methods_to_optimize_rare-event_Monte_Carlo_reliability_simulations_for_Large_Hadron_Collider_Protection_Systems_CERN-Thesis-2022.pdf)
 
