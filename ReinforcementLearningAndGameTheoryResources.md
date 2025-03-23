@@ -153,6 +153,8 @@ Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo In
 
 * [Some Results on Maximum Likelihood from Incomplete Data - Finite Sample Properties and Improved M-estimator for Resampling, B. Surya, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Some_results_on_maximum_likelihood_from_incomplete_data-finite_sample_properties_and_improved_M-estimator_for_resampling_Surya_2022.pdf)
 
+* [A Legacy of EM Algorithms, Kenneth Lange et al, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/A_Legacy_of_EM_Algorithms_Lange_2022.pdf)
+
 * [The MM Algorithm (handout), Kenneth Lange, UCLA, 2007](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/The_MM_Algorithm_Lange_Talk_UCLA_2007.pdf)
 
 * [The MM Alternative to EM, TT Wu, Kenneth Lange, 2011](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/The_MM_Alternative_to_EM_Wu_2011.pdf)
