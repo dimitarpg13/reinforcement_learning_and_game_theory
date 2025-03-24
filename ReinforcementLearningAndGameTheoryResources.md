@@ -315,6 +315,8 @@ code: https://github.com/massi82/multi-armed-bandit
 
 ## Reinforcement Learning in Large Language Models and related algorithms
 
+[SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks, Y. Zhou et al, Meta FAIR, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_fine_tuning_of_LLM/SWEET-RL-Training_Multi-Turn_LLM_Agents_on_Collaborative_Reasoning_Tasks_Zhou_2025.pdf)
+
 [Scaling Reinforcement Learning with LLM, Kimi k1.5, Technical Report, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_fine_tuning_of_LLM/Scaling_RL_with_LLM_Kimi_k1.5_12.42.12_PM.pdf)
 
 [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models, Z. Shao et al, DeepSeek AI, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_fine_tuning_of_LLM/DeepSeekMath-Pushing_the_Limits_of_Mathematical_Reasoning_in_Open_Language_Models_Shao_2024.pdf)
