@@ -357,6 +357,8 @@ related paper: [Llama 2: Open Foundation and Fine-Tuned Chat Models, H. Touvron 
 
 [A Survey of Direct Preference Optimization, S. Liu et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/DPO/A_Survey_of_Direct_Preference_Optimization_Liu_2025.pdf)
 
+[Large Language Model Training and Reinforcement Learning, Miquel Noguer i Alonso, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_fine_tuning_of_LLM/Large_Language_Model_Training_and_Reinforcement_Learning_Alonso_2025.pdf)
+
 ### Reinforcement Learning from Human Feedback (RLHF) 
 
 [A Little Bit of Reinforcement Learning from Human Feedback: A short introduction to RLHF and post-training focused on
