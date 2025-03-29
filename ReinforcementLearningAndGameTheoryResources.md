@@ -1500,6 +1500,8 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
 * [A Theory of Individual Choice Behavior, R. Duncan Luce, Columbia U., 1957](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/TheoryOfIndividualChoiceBehaviorDLuce1957.pdf)
 
+* [Some Studies in Machine Learnong using the Game of Checkers, A.L. Samuel, 1959](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/Some_Studies_in_Machine_Learning_using_the_Game_of_Checkers_Samual_1959.pdf)
+
 * [The Hide-and-Seek Game of von Neumann, Merill Flood, 1968](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/TheHideAndSeekGameOfVonNeumanFlood1968.pdf)
 
 * [N-Person Game Theory, L.S. Shapley, 1968](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/NPersonGameTheory_P3752_Shapley.pdf)
