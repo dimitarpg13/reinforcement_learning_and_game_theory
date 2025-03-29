@@ -187,6 +187,14 @@ Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo In
 
 * [Heavy Tails, Importance Sampling, and Cross-Entropy, Soren Asmussen, Dirk Kroese, Reuven Rubinstein, 2003](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Heavy_Tails_Importance_Sampling_and_Cross_Entropy_Assmussen_2003.pdf)
 
+## Monte-Carlo Tree Search
+
+* [Monte Carlo Tree Search: A Review of Recent Modifications and Applications, Maciej Świechowsk et al, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MCTS/Monte_Carlo_Tree_Search-A_Review_of_Recent_Modifications_and_Applications_Swiechowski_2022.pdf)
+
+* [Monte-Carlo tree search as regularized policy optimization, Jean-Bastien Grill et al, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MCTS/Monte-Carlo_Tree_Search_as_Regularized_Policy_Optimization_Grill_2020.pdf)
+
+* [Efficient Selectivity and Backup Operators in Monte-Carlo Tree Search, Rémi Coulom, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MCTS/Efficient_Selectivity_and_Backup_Operators_in_Monte-Carlo_Tree_Search_Remi_Coulom_2025.pdf)
+
 ## Partially Observable Markov Processes articles
 
 * [A Survey of Partially Observable Markov Desicion Processes: theory, models and algorithms, Monahan G., 2014](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/SurveyOfPOMDP_TheoryModelsAndAlgorithmsMonahan1982.pdf)
@@ -204,14 +212,6 @@ Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo In
 * [Optimal Control For Partially Observable Markov Decision Processes Over an Infinite Horizon, Sawaki, 1978](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/OptimalCOntrolForPOMDPOverInfiniteHorizon1978Sawaki.pdf)
 
 * [Semi-Markov Decision Processes with Incomplete State Observation, Discounted Cost Criterion, Kazuyoshi Wakuta, 1982](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/SemiMarkovDecisionProcessesWithIncompleteStateObservation_DiscountedCostCriterion_Wakuta_1982.pdf)
-
-## Monte-Carlo Tree Search
-
-* [Monte Carlo Tree Search: A Review of Recent Modifications and Applications, Maciej Świechowsk et al, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MCTS/Monte_Carlo_Tree_Search-A_Review_of_Recent_Modifications_and_Applications_Swiechowski_2022.pdf)
-
-* [Monte-Carlo tree search as regularized policy optimization, Jean-Bastien Grill et al, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MCTS/Monte-Carlo_Tree_Search_as_Regularized_Policy_Optimization_Grill_2020.pdf)
-
-* [Efficient Selectivity and Backup Operators in Monte-Carlo Tree Search, Rémi Coulom, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MCTS/Efficient_Selectivity_and_Backup_Operators_in_Monte-Carlo_Tree_Search_Remi_Coulom_2025.pdf)
 
 ## Multi-Agent Reinforcement Learning (MARL) articles
 * [A Deep Reinforcement Learning For Multi Agent Systems: A Review of Challenges, Solutions and Applications,  Nguyen, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/DeepReinforcementLearningForMultiAgentSystemsNguyen2019.pdf)
