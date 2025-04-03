@@ -25,6 +25,9 @@
 * [An Algorithmic Perspective on Imitation Learning, Takayuki Osa et al, U. of Tokyo, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/An_Algorithmic_Perspective_on_Imitation_Learning_Osa_U_of_Tokyo_2025.pdf)
 
 ## Articles and tutorials
+
+* [What Makes Math Problems Hard for Reinforcement Learning: A Case Study, A. Shehper et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/AC_Conjecture/What_Makes_Math_Problems_Hard_for_Reinforcement_Learning_A_Case_Study_Shehper_2025.pdf)
+
 * [Deep Reinforcement Learning Without Experience Replay, Target Networks, or Batch Updates, Mohamed Elsayed et al, U of Alberta, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/stream-x/Deep_Reinforcement_Learning_Without_Experience_Replay_Target_Networks_or_Batch_Updates_Elsayed_2024.pdf)
 
 * [Structure in Reinforcement Learning: A Survey and Open Problems, Aditya Mohan et al, Institute of Artificial Intelligence, Leibniz Uni, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Structure_in_Reinforcement_Learning-A_Survey_and_Open_Problems_Mohan_2024.pdf)
@@ -476,15 +479,21 @@ AdaRL repo: https://github.com/Adaptive-RL/AdaRL-code
 
 [The Eikonal Equation, Wikipedia](https://en.wikipedia.org/wiki/Eikonal_equation)
 
-### Distributional Reinforcement Learning
+## Distributional Reinforcement Learning
 
 [An Opponent Striatal Circuit for Distributional Reinforcement Learning, Adam S. Lowet et al, Harvard U., 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/distributional_RL/An_opponent_striatal_circuit_for_distributional_reinforcement_learning_Lowet_Harvard_2025.pdf)
 
-### Imitation Learning
+## Imitation Learning
 
 [An Algorithmic Perspective on Imitation Learning, Takayuki Osa et al, U. of Tokyo, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/imitation_learning/An_Algorithmic_Perspective_on_Imitation_Learning_Osa_1018.pdf)
 
 [X-IL: Exploring the Design Space of Imitation Learning Policies, X. Jia et al, Karlsruhe Institute of Technology, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/imitation_learning/X-IL-Exploring_the_Design_Space_of_Imitation_Learning_Policies_Jia_2025.pdf)
+
+## Andrew-Curtis (AC) Conjecture
+
+[What Makes Math Problems Hard for Reinforcement Learning: A Case Study, A. Shehper et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/AC_Conjecture/What_Makes_Math_Problems_Hard_for_Reinforcement_Learning_A_Case_Study_Shehper_2025.pdf)
+
+[AI and the Andrew-Curtiss Conjecture, Sergey Gukov, Simmons Foundation, 2025](https://youtu.be/ZHIGh20MIu0?si=nQMQ857MtbDoQsjs)
 
 ## Online tutorials and short readings
 
