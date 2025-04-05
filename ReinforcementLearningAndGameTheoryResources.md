@@ -46,6 +46,8 @@
 
 * [Faster sorting algorithms discovered using deep reinforcement learning, Mankowitz et al, 2023, Nature](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/FasterSortingAlgorithmsDiscoveredUsingDLRMankowitzNature2023.pdf)
 
+* [Off-Policy Actor-Critic, Thomas Degris, Martha White, Richard S. Sutton, 2013](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Off-Policy_Actor-Critic_Degris_2013.pdf)
+
 * [On Actor-Critic Algorithms, Vijay Konda, John Tsitsiklis, MIT, SIAM, 2003](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/J094-03-kon-actors.pdf)
 
 * [Actor-Critic Algorithms, Vijay Konda, John Tsitsiklis, 1999](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/NIPS-1999-actor-critic-algorithms-Paper.pdf)
