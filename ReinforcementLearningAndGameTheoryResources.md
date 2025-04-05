@@ -50,6 +50,8 @@
 
 * [Proximal Policy Optimization Algorithms, John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov, OpenAI, 2017](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Proximal_Policy_Optimization_Algorithms_Shulman_2017.pdf)
 
+* [High-Dimensional Continuous Control Using Generalized Advantage Estimation, John Schulman, Philipp Moritz, Sergey Levine, Michael Jordan, Pieter Abbeel, 2015](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/High-Dimensional_Continuous_Control_Using_Generalized_Advantage_Estimation_Schulman_2015.pdf)
+
 * [Learning to Predict by the Method of Temporal Differences, R. Sutton, 1988](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/sutton-88-with-erratum.pdf)
 
 * [Simple statistical gradient-following algorithms for connectionist reinforcement learning, Ronald J. Williams, Northeastern U,, 1992](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Simple_statistical_gradient-following_algorithms_for_connectionist_reinforcement_learning_Williams_1992.pdf)
