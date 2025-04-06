@@ -489,6 +489,11 @@ AdaRL repo: https://github.com/Adaptive-RL/AdaRL-code
 
 [The Eikonal Equation, Wikipedia](https://en.wikipedia.org/wiki/Eikonal_equation)
 
+### Stohastic Optimal Control
+
+[Entropy Regularized Variational Dynamic Programming for Stochastic Optimal Control, Marc Lambert et al, INRIA-ENS, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/OptimalControl/Entropy_Regularized_Variational_Dynamic_Programming_for_Stochastic_Optimal_Control_Lambert_2025.pdf)
+
+
 ## Distributional Reinforcement Learning
 
 [An Opponent Striatal Circuit for Distributional Reinforcement Learning, Adam S. Lowet et al, Harvard U., 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/distributional_RL/An_opponent_striatal_circuit_for_distributional_reinforcement_learning_Lowet_Harvard_2025.pdf)
