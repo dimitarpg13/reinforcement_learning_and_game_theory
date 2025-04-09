@@ -124,3 +124,4 @@ articles/ReinforcementLearning/AC_Conjecture/What_Makes_Math_Problems_Hard_for_R
 articles/ReinforcementLearning/High-Dimensional_Continuous_Control_Using_Generalized_Advantage_Estimation_Schulman_2015.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ReinforcementLearning/NIPS-1999-actor-critic-algorithms-Paper.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ReinforcementLearning/Off-Policy_Actor-Critic_Degris_2013.pdf filter=lfs diff=lfs merge=lfs -text
+books/Reinforcement_Learning-A_Comprehensive_Overview_Kevin_P_Murphy_2025.pdf filter=lfs diff=lfs merge=lfs -text
