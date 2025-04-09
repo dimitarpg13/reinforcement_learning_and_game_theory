@@ -16,6 +16,8 @@
 
 * [Optimal Learning, Warren Powel, Ilya Ryzhov, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Powell-OptimalLearningWileyMarch112018.pdf)
 
+* [Reinforcement Learning: A Comprehensive Overview, Kevin P. Murphy, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Reinforcement_Learning-A_Comprehensive_Overview_Kevin_P_Murphy_2025.pdf)
+
 * [Reinforcement Learning: An Overview, Kevin P. Murphy, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/ReinforcementLearning_KevinMurphy_an_Overview_2024.pdf)
 
 * [Reinforcement Learning - State of the Art, Marco Wiering, Martijn van Otterlo, 2012](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Reinforcement_learning_state_of_the_art.pdf)
