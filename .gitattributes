@@ -125,3 +125,4 @@ articles/ReinforcementLearning/High-Dimensional_Continuous_Control_Using_General
 articles/ReinforcementLearning/NIPS-1999-actor-critic-algorithms-Paper.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ReinforcementLearning/Off-Policy_Actor-Critic_Degris_2013.pdf filter=lfs diff=lfs merge=lfs -text
 books/Reinforcement_Learning-A_Comprehensive_Overview_Kevin_P_Murphy_2025.pdf filter=lfs diff=lfs merge=lfs -text
+docs/Approximate_Dynamic_Programming_Short_Course_Complete_Dimitri_Bertsekas_2012.pdf filter=lfs diff=lfs merge=lfs -text
