@@ -499,6 +499,8 @@ AdaRL repo: https://github.com/Adaptive-RL/AdaRL-code
 
 [Entropy Regularized Variational Dynamic Programming for Stochastic Optimal Control, Marc Lambert et al, INRIA-ENS, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/OptimalControl/Entropy_Regularized_Variational_Dynamic_Programming_for_Stochastic_Optimal_Control_Lambert_2025.pdf)
 
+[A Brief Prehistory of Double Descent, Marco Loog et al, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/A_Brief_Prehistory_of_Double_Descent_Loog_2020.pdf)
+
 [Theory of the Double Descent Phenomena in High-Dimensional Linear Regression, Charles H. Martin, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/stochastic_optimization/Theory_of_the_Double_Descent_Phenomena_in_High-Dimensional_Linear_Regression_Charles_Martin_2025.pdf)
 
 
