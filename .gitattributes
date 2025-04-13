@@ -126,3 +126,4 @@ articles/ReinforcementLearning/NIPS-1999-actor-critic-algorithms-Paper.pdf filte
 articles/ReinforcementLearning/Off-Policy_Actor-Critic_Degris_2013.pdf filter=lfs diff=lfs merge=lfs -text
 books/Reinforcement_Learning-A_Comprehensive_Overview_Kevin_P_Murphy_2025.pdf filter=lfs diff=lfs merge=lfs -text
 docs/Approximate_Dynamic_Programming_Short_Course_Complete_Dimitri_Bertsekas_2012.pdf filter=lfs diff=lfs merge=lfs -text
+books/Rollout_Policy_Iteration_and_Distributed_Reinforcement_Learning_Bertsekas_Book_2020.pdf filter=lfs diff=lfs merge=lfs -text
