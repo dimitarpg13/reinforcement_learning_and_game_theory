@@ -6,6 +6,8 @@
 
 * [Reinforcement Learning and Optimal Control, Dimitri Bertsekas, 2019 (Draft)](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Reinforcement_Learning_and_Optimal_Control_Bertsekas.pdf)
 
+* [Rollout, Policy Iteration, and Distributed Reinforcement Learning, D. Bertsekas, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Rollout_Policy_Iteration_and_Distributed_Reinforcement_Learning_Bertsekas_Book_2020.pdf)
+
 * [Deep Reinforcement Learning, Aske Plaat, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/DeepReinforcementLearning_AskeePlaat2023.pdf)
 
 * [Reinforcement Learning and Stochastic Optimization: A Unified Framework for Sequential Decisions, Warren Powel, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/reinforcement-learning-and-stochastic-optimization-a-unified-framework-for-sequential-decisions-Powell-2022.pdf)
