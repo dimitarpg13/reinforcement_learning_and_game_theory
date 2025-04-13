@@ -432,6 +432,8 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/reinforcem
 
 ## Human-like Reasoning via Reinforcement Learning and Representation Learning
 
+[Concise Reasoning via Reinforcement Learning, M Fatemi et al, Wand AI, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_fine_tuning_of_LLM/Concise_Reasoning_via_Reinforcement_Learning_Fatemi_2025.pdf)
+
 [Asymptotics of Language Model Alignment, Joy Qiping Yang et al, U. of Sydney, Google DeepMind, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Asymptotics_of_Language_Model_Alignment_Yang_2024.pdf)
 
 [RL on Incorrect Synthetic Data Scales The Efficiency of LLM Math Reasoning by Eight-Fold, Amrith Setlur et al, CMU, DeepMind, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/RL_on_Incorrect_Synthetic_Data_Scales_the_Efficiency_of_LLM_Math_Reasoning_by_Eight-Fold_Setlur_CMU_2024.pdf)
