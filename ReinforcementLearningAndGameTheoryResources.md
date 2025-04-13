@@ -1451,6 +1451,9 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 * [Introductuction to Monte Carlo Tree Search](http://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
 
 ## online lecture videos
+
+* [Abstract Dynamic Programming, Reinforcement Learning, Newton's Method, and Gradient Optimization,  Dimitri Bertsekas, Apr 11, 2025](https://youtu.be/JmQzj0Be_Fg?si=QTNeEmp34iX-LdLY)
+
 * [Lectures from ECE524 Foundations of Reinforcement Learning at Princeton University, Chi Jin, Spring 2024 
 ](https://www.youtube.com/playlist?list=PLYXvCE1En13epbogBmgafC_Yyyk9oQogl)
 
