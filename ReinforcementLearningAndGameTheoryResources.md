@@ -234,6 +234,8 @@ Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo In
 
 * [Semi-Markov Decision Processes with Incomplete State Observation, Discounted Cost Criterion, Kazuyoshi Wakuta, 1982](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/SemiMarkovDecisionProcessesWithIncompleteStateObservation_DiscountedCostCriterion_Wakuta_1982.pdf)
 
+* [Infinite-Horizon Policy-Gradient Estimantion, Jonathan Baxter, Peter L. Bartlett, 2001](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Infinite-Horizon_Policy-Gradient_Estimation_Baxter_2001.pdf)
+
 ## Multi-Agent Reinforcement Learning (MARL) articles
 * [A Deep Reinforcement Learning For Multi Agent Systems: A Review of Challenges, Solutions and Applications,  Nguyen, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/DeepReinforcementLearningForMultiAgentSystemsNguyen2019.pdf)
 
