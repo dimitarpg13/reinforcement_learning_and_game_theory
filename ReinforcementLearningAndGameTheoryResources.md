@@ -234,6 +234,8 @@ Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo In
 
 * [Semi-Markov Decision Processes with Incomplete State Observation, Discounted Cost Criterion, Kazuyoshi Wakuta, 1982](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/SemiMarkovDecisionProcessesWithIncompleteStateObservation_DiscountedCostCriterion_Wakuta_1982.pdf)
 
+* [Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning, Evan Greensmith, Peter L. Bartlett, Jonathan Baxter, 2004](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Variance_Reduction_Techniques_for_Gradient_Estimates_in_Reinforcement_Learning_Greensmith_2004.pdf)
+
 * [Infinite-Horizon Policy-Gradient Estimantion, Jonathan Baxter, Peter L. Bartlett, 2001](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Infinite-Horizon_Policy-Gradient_Estimation_Baxter_2001.pdf)
 
 ## Multi-Agent Reinforcement Learning (MARL) articles
