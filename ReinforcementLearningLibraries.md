@@ -24,3 +24,8 @@ github repo: https://github.com/IntelLabs/coach (archived since 2022)
 OpenSpiel: a framework for reinforcement learning in games
 github repo: https://github.com/deepmind/open_spiel.git
 
+Sequential Decision Problem Modeling Library
+github repos: https://github.com/donghun2018/seqdecisionlib-release, https://github.com/wbpowell328/stochastic-optimization
+
+
+
