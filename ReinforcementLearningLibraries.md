@@ -1,4 +1,4 @@
-# Reinforcement Learning Libraries
+# Reinforcement Learning, Stochastic Optimization and game Theory Libraries
 
 Gymnasium: a reinforcement learning environment from OpenAI
 github repo: https://github.com/Farama-Foundation/Gymnasium
