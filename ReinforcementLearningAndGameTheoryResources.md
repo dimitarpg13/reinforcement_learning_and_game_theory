@@ -349,6 +349,8 @@ code: https://github.com/massi82/multi-armed-bandit
 
 ## Reinforcement Learning in Large Language Models and related algorithms
 
+[Process Reward Models That Think, M. Khaliffa et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Proces_Reward_Models_That_Think_Khalifa_2025.pdf)
+
 [LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities, Thomas Schmied et al, Google DeepMind, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_fine_tuning_of_LLM/LLMs_are_Greedy_Agents-Effects_of_RL_Fine-tuning_on_Decision-Making_Abilities_Schiemd_2025.pdf)
 
 [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks, Y. Zhou et al, Meta FAIR, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_fine_tuning_of_LLM/SWEET-RL-Training_Multi-Turn_LLM_Agents_on_Collaborative_Reasoning_Tasks_Zhou_2025.pdf)
