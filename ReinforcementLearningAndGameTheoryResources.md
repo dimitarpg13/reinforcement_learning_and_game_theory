@@ -318,6 +318,8 @@ code: https://github.com/massi82/multi-armed-bandit
 
 ## Online Algorithms and solving them with Reinforcement Learning
 
+[A Modern Introduction to Online Learning, Francesco Orabona, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/online_problems/A_Modern_Introduction_to_Online_Learning_Orabona_2025.pdf)
+
 [The k-server problem: Researchers Refute a Widespread Belief About Online Algorithms, Quanta Magazine, 2023](https://www.quantamagazine.org/researchers-refute-a-widespread-belief-about-online-algorithms-20231120#0)
 
 [The Randomized k-Server Conjecture Is False!, S. Bubeck et al, 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/online_problems/The_Randomized_k-Server_Conjecture_Is_False_Bubeck_2023.pdf)
