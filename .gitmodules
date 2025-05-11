@@ -10,3 +10,6 @@
 [submodule "src/experiments/openai/gymnasium-demo"]
 	path = src/experiments/openai/gymnasium-demo
 	url = https://github.com/dimitarpg13/gymnasium-demo.git
+[submodule "src/experiments/openai/gym-demo"]
+	path = src/experiments/openai/gym-demo
+	url = https://github.com/dimitarpg13/gym-demo
