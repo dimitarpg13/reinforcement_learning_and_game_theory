@@ -13,3 +13,6 @@
 [submodule "src/experiments/openai/gym-demo"]
 	path = src/experiments/openai/gym-demo
 	url = https://github.com/dimitarpg13/gym-demo
+[submodule "src/experiments/keras/dqn-demo"]
+	path = src/experiments/keras/dqn-demo
+	url = https://github.com/dimitarpg13/dqn-demo
