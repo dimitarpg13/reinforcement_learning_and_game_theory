@@ -34,3 +34,6 @@
 [submodule "src/experiments/rlib/rlib_demo"]
 	path = src/experiments/rlib/rlib_demo
 	url = https://github.com/dimitarpg13/rlib_demo
+[submodule "src/experiments/tensorforce/tensorforce_demo"]
+	path = src/experiments/tensorforce/tensorforce_demo
+	url = https://github.com/dimitarpg13/tensorforce_demo
