@@ -19,3 +19,6 @@
 [submodule "src/experiments/keras-rl/keras-rl_demo"]
 	path = src/experiments/keras-rl/keras-rl_demo
 	url = https://github.com/dimitarpg13/keras-rl_demo
+[submodule "src/experiments/nashpy/nashpy_demo"]
+	path = src/experiments/nashpy/nashpy_demo
+	url = https://github.com/dimitarpg13/nashpy_demo
