@@ -22,3 +22,6 @@
 [submodule "src/experiments/nashpy/nashpy_demo"]
 	path = src/experiments/nashpy/nashpy_demo
 	url = https://github.com/dimitarpg13/nashpy_demo
+[submodule "src/experiments/pygambit/pygambit_demo"]
+	path = src/experiments/pygambit/pygambit_demo
+	url = https://github.com/dimitarpg13/pygambit_demo
