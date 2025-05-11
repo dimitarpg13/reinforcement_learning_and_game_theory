@@ -28,3 +28,6 @@
 [submodule "src/experiments/pyqlearning/pyqlearning_demo"]
 	path = src/experiments/pyqlearning/pyqlearning_demo
 	url = https://github.com/dimitarpg13/pyqlearning_demo
+[submodule "src/experiments/rl-coach/rl-coach_demo"]
+	path = src/experiments/rl-coach/rl-coach_demo
+	url = https://github.com/dimitarpg13/rl-coach_demo
