@@ -444,6 +444,12 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/reinforcem
 
 ## Human-like Reasoning via Reinforcement Learning and Representation Learning
 
+[Reinforcement Learning for Reasoning in Large Language Models with One Training Example, Y. Wang et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Reinforcement_Learning_for_Reasoning_in_Large_Language_Models_with_One_Training_Example_Wang_2025.pdf)
+
+[TTRL: Test-Time Reinforcement Learning, Y. Zuo et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/TTRL-Test-Time_Reinforcement_Learning_Zuo_2025.pdf)
+
+[Absolute Zero: Reinforced Self-play Reasoning with Zero Data, A. Zhao et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Absolute_Zero-Reinforced_Self-play_Reasoning_with_Zero_Data_Zhao_2025.pdf)
+
 [Process Reward Models That Think, M. Khaliffa et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Proces_Reward_Models_That_Think_Khalifa_2025.pdf)
 
 [Concise Reasoning via Reinforcement Learning, M Fatemi et al, Wand AI, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Concise_Reasoning_via_Reinforcement_Learning_Fatemi_2025.pdf)
