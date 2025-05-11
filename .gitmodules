@@ -16,6 +16,3 @@
 [submodule "src/experiments/keras/dqn-demo"]
 	path = src/experiments/keras/dqn-demo
 	url = https://github.com/dimitarpg13/dqn-demo
-[submodule "src/experiments/keras/keras-rl_demo"]
-	path = src/experiments/keras/keras-rl_demo
-	url = https://github.com/dimitarpg13/keras-rl_demo
