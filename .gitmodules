@@ -31,3 +31,6 @@
 [submodule "src/experiments/rl-coach/rl-coach_demo"]
 	path = src/experiments/rl-coach/rl-coach_demo
 	url = https://github.com/dimitarpg13/rl-coach_demo
+[submodule "src/experiments/rlib/rlib_demo"]
+	path = src/experiments/rlib/rlib_demo
+	url = https://github.com/dimitarpg13/rlib_demo
