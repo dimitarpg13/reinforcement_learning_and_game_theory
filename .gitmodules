@@ -25,3 +25,6 @@
 [submodule "src/experiments/pygambit/pygambit_demo"]
 	path = src/experiments/pygambit/pygambit_demo
 	url = https://github.com/dimitarpg13/pygambit_demo
+[submodule "src/experiments/pyqlearning/pyqlearning_demo"]
+	path = src/experiments/pyqlearning/pyqlearning_demo
+	url = https://github.com/dimitarpg13/pyqlearning_demo
