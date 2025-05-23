@@ -133,3 +133,4 @@ articles/online_problems/A_Modern_Introduction_to_Online_Learning_Orabona_2025.p
 articles/ReinforcementLearning/human_like_reasoning/Reinforcement_Learning_for_Reasoning_in_Large_Language_Models_with_One_Training_Example_Wang_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ReinforcementLearning/human_like_reasoning/Absolute_Zero-Reinforced_Self-play_Reasoning_with_Zero_Data_Zhao_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/decision_theory/Decision_theory_Parmigiani_2009.pdf filter=lfs diff=lfs merge=lfs -text
+books/Patterns_Predictions_and_Actions_Hardt_2024.pdf filter=lfs diff=lfs merge=lfs -text
