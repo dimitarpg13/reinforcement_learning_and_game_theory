@@ -28,6 +28,8 @@
 
 * [An Algorithmic Perspective on Imitation Learning, Takayuki Osa et al, U. of Tokyo, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/An_Algorithmic_Perspective_on_Imitation_Learning_Osa_U_of_Tokyo_2025.pdf)
 
+* [Patterns, Predictions, and Actions, Moritz Hardt and Benjamin Recht, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Patterns_Predictions_and_Actions_Hardt_2024.pdf)
+
 ## Articles and tutorials
 
 * [Welcome to the Era of Experience, David Silver, Richard S. Sutton, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/The_Era_of_Experience_Silver_Sutton_2025.pdf)
