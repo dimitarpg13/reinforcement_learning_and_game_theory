@@ -403,6 +403,9 @@ related paper: [Llama 2: Open Foundation and Fine-Tuned Chat Models, H. Touvron 
 
 [Large Language Model Training and Reinforcement Learning, Miquel Noguer i Alonso, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_fine_tuning_of_LLM/Large_Language_Model_Training_and_Reinforcement_Learning_Alonso_2025.pdf)
 
+[Learning to Think: Information-Theoretic Reinforcement Fine-Tuning for LLMs, J. Wang et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Learning_to_Think-Information-Theoretic_Reinforcement_Fine-Tuning_for_LLMs_Wang_2025.pdf)
+
+
 ### Reinforcement Learning from Human Feedback (RLHF) 
 
 [A Little Bit of Reinforcement Learning from Human Feedback: A short introduction to RLHF and post-training focused on
@@ -447,6 +450,8 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/reinforcem
 
 
 ## Human-like Reasoning via Reinforcement Learning and Representation Learning
+
+[Learning to Think: Information-Theoretic Reinforcement Fine-Tuning for LLMs, J. Wang et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Learning_to_Think-Information-Theoretic_Reinforcement_Fine-Tuning_for_LLMs_Wang_2025.pdf)
 
 [Reinforcement Learning for Reasoning in Large Language Models with One Training Example, Y. Wang et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Reinforcement_Learning_for_Reasoning_in_Large_Language_Models_with_One_Training_Example_Wang_2025.pdf)
 
