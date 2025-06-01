@@ -496,6 +496,10 @@ AdaRL repo: https://github.com/Adaptive-RL/AdaRL-code
 
 [Maximum diffusion reinforcement learning, Thomas Beurreta et al, Northwestern U., 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/max_diffusion_reinforcement_learning/Maximum_diffusion_reinforcement_learning_Beruetta_NWU_2023.pdf)
 
+## Meta-Reinforcement Learning
+
+[A Tutorial on Meta-Reinforcement Learning, Jacob Beck et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/meta-rl/A_Tutorial_on_Meta-Reinforcement_Learning_Beck_2025.pdf)
+
 ## Deep Reinforcement Learning for Physical Applications
 
 [Predicting disruptive instabilities in controlled fusion plasmas through deep learning, Julian Kates-Harbeck et al, Harvard U, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/plasma_control/Predicting_disruptive_instabilities_in_controlled_fusion_plasmas_through_deep_learning_Kates-Harbeck_Harvard_2019.pdf)
