@@ -4,6 +4,8 @@
 
 * [Reinforcement Learning - An Introduction, Second Edition, Richard Sutton, Andrew Barto, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/ReinforcementLearningSuttonSecondEdition2020.pdf)
 
+* [Neuro-Dynamic Programming, D. Bertsekas, J. N. Tsitsiklis, 1995](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/NeuroDynamicProgramming_Bertsekas_Tsitsiklis_1995.pdf)
+
 * [Reinforcement Learning and Optimal Control, Dimitri Bertsekas, 2019 (Draft)](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Reinforcement_Learning_and_Optimal_Control_Bertsekas.pdf)
 
 * [Rollout, Policy Iteration, and Distributed Reinforcement Learning, D. Bertsekas, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Rollout_Policy_Iteration_and_Distributed_Reinforcement_Learning_Bertsekas_Book_2020.pdf)
@@ -403,6 +405,9 @@ related paper: [Llama 2: Open Foundation and Fine-Tuned Chat Models, H. Touvron 
 
 [Large Language Model Training and Reinforcement Learning, Miquel Noguer i Alonso, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_fine_tuning_of_LLM/Large_Language_Model_Training_and_Reinforcement_Learning_Alonso_2025.pdf)
 
+[Learning to Think: Information-Theoretic Reinforcement Fine-Tuning for LLMs, J. Wang et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Learning_to_Think-Information-Theoretic_Reinforcement_Fine-Tuning_for_LLMs_Wang_2025.pdf)
+
+
 ### Reinforcement Learning from Human Feedback (RLHF) 
 
 [A Little Bit of Reinforcement Learning from Human Feedback: A short introduction to RLHF and post-training focused on
@@ -448,6 +453,8 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/reinforcem
 
 ## Human-like Reasoning via Reinforcement Learning and Representation Learning
 
+[Learning to Think: Information-Theoretic Reinforcement Fine-Tuning for LLMs, J. Wang et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Learning_to_Think-Information-Theoretic_Reinforcement_Fine-Tuning_for_LLMs_Wang_2025.pdf)
+
 [Reinforcement Learning for Reasoning in Large Language Models with One Training Example, Y. Wang et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Reinforcement_Learning_for_Reasoning_in_Large_Language_Models_with_One_Training_Example_Wang_2025.pdf)
 
 [TTRL: Test-Time Reinforcement Learning, Y. Zuo et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/TTRL-Test-Time_Reinforcement_Learning_Zuo_2025.pdf)
@@ -490,6 +497,10 @@ AdaRL repo: https://github.com/Adaptive-RL/AdaRL-code
 ## Maximum diffusion Reinforcement Learning
 
 [Maximum diffusion reinforcement learning, Thomas Beurreta et al, Northwestern U., 2023](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/max_diffusion_reinforcement_learning/Maximum_diffusion_reinforcement_learning_Beruetta_NWU_2023.pdf)
+
+## Meta-Reinforcement Learning
+
+[A Tutorial on Meta-Reinforcement Learning, Jacob Beck et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/meta-rl/A_Tutorial_on_Meta-Reinforcement_Learning_Beck_2025.pdf)
 
 ## Deep Reinforcement Learning for Physical Applications
 
