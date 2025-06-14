@@ -263,6 +263,19 @@ Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo In
 
 * [Offline Multi-Agent Reinforcement Learning with Knowledge Distillation, Tseng, MIT-CSAIL, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/Offline_Multi-Agent_Reinforcement_Learning_with_Knowledge_Distillation_Tseng2022.pdf)
 
+## Reinforcement Learning As Probabilistic Modeling
+
+[Reinforcement Learning as Probabilistic Modelling: A Variational Inference Formulation (Part I), Haitham Bou Ammar, 2025](https://haithambouammar.substack.com/p/reinforcement-learning-as-probabilistic?r=5tkp1b&utm_campaign=post&utm_medium=web&triedRedirect=true)
+
+related material: 
+
+paper by David Blei: [Variational Inference - A Review for Statisticians, D. Blei, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/variational_methods/Variational_Inference-A_Review_for_Statisticians_Blei_2018.pdf)
+
+youtube lecture: [Variational Inference Lecture I|Probabilistic Modelling|Machine Learning, Machine Learning and AI Academy, 2020](https://youtu.be/nug3rz-4Lkg?si=9r1sD_Dklo296BQh)
+
+github repo: https://zhiyzuo.github.io/VI/
+
+
 
 ## Reinforcement Learning in Supply Chain Management
 
