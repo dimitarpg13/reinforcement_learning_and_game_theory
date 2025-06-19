@@ -138,3 +138,4 @@ articles/ReinforcementLearning/human_like_reasoning/Learning_to_Think-Informatio
 articles/variational_methods/Variational_Inference-A_Review_for_Statisticians_Blei_2018.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ReinforcementLearning/meta-rl/A_Tutorial_on_Meta-Reinforcement_Learning_Beck_2025.pdf filter=lfs diff=lfs merge=lfs -text
 books/NeuroDynamicProgramming_Bertsekas_Tsitsiklis_1995.pdf filter=lfs diff=lfs merge=lfs -text
+books/LessonsfromAlphazero_Bertsekas_2022.pdf filter=lfs diff=lfs merge=lfs -text
