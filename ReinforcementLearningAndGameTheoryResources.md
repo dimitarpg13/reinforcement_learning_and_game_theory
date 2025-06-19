@@ -1506,6 +1506,10 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
 ## online lecture videos
 
+* [Reinforcement Learning, Model Predictive Control, and the Newton step for Solving Bellman's Equation, Dimitri P. Bertsekas, June 3, 2022](https://youtu.be/ZBRouvMat2Q?si=x2UzDRlM1cv9RQ4x)
+
+  slides: [Reinforcement Learning and Model Predictive Control, Dimitri P. Bertsekas, Lecture at Harvard, June, 2025](https://web.mit.edu/dimitrib/www/MPC.CHESS.MIT.Harvard.pdf)
+
 * [Abstract Dynamic Programming, Reinforcement Learning, Newton's Method, and Gradient Optimization,  Dimitri Bertsekas, Apr 11, 2025](https://youtu.be/JmQzj0Be_Fg?si=QTNeEmp34iX-LdLY)
 
 * [Lectures from ECE524 Foundations of Reinforcement Learning at Princeton University, Chi Jin, Spring 2024 
