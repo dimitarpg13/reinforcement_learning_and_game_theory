@@ -4,6 +4,8 @@
 
 * [Reinforcement Learning - An Introduction, Second Edition, Richard Sutton, Andrew Barto, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/ReinforcementLearningSuttonSecondEdition2020.pdf)
 
+* [Lessons from AlphaZero for Optimal, Model Predictive and Adaptive Control, Dimitri P. Bertsekas, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/LessonsfromAlphazero_Bertsekas_2022.pdf)
+
 * [Neuro-Dynamic Programming, D. Bertsekas, J. N. Tsitsiklis, 1995](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/NeuroDynamicProgramming_Bertsekas_Tsitsiklis_1995.pdf)
 
 * [Reinforcement Learning and Optimal Control, Dimitri Bertsekas, 2019 (Draft)](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Reinforcement_Learning_and_Optimal_Control_Bertsekas.pdf)
