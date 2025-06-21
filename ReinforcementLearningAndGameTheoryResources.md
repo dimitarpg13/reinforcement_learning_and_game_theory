@@ -4,6 +4,8 @@
 
 * [Reinforcement Learning - An Introduction, Second Edition, Richard Sutton, Andrew Barto, 2020](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/ReinforcementLearningSuttonSecondEdition2020.pdf)
 
+* [Lessons from AlphaZero for Optimal, Model Predictive and Adaptive Control, Dimitri P. Bertsekas, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/LessonsfromAlphazero_Bertsekas_2022.pdf)
+
 * [Neuro-Dynamic Programming, D. Bertsekas, J. N. Tsitsiklis, 1995](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/NeuroDynamicProgramming_Bertsekas_Tsitsiklis_1995.pdf)
 
 * [Reinforcement Learning and Optimal Control, Dimitri Bertsekas, 2019 (Draft)](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Reinforcement_Learning_and_Optimal_Control_Bertsekas.pdf)
@@ -1503,6 +1505,10 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 * [Introductuction to Monte Carlo Tree Search](http://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
 
 ## online lecture videos
+
+* [Reinforcement Learning, Model Predictive Control, and the Newton step for Solving Bellman's Equation, Dimitri P. Bertsekas, June 3, 2022](https://youtu.be/ZBRouvMat2Q?si=x2UzDRlM1cv9RQ4x)
+
+  slides: [Reinforcement Learning and Model Predictive Control, Dimitri P. Bertsekas, Lecture at Harvard, June, 2025](https://web.mit.edu/dimitrib/www/MPC.CHESS.MIT.Harvard.pdf)
 
 * [Abstract Dynamic Programming, Reinforcement Learning, Newton's Method, and Gradient Optimization,  Dimitri Bertsekas, Apr 11, 2025](https://youtu.be/JmQzj0Be_Fg?si=QTNeEmp34iX-LdLY)
 

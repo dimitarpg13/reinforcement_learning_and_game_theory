@@ -139,3 +139,4 @@ articles/variational_methods/Variational_Inference-A_Review_for_Statisticians_Bl
 articles/ReinforcementLearning/meta-rl/A_Tutorial_on_Meta-Reinforcement_Learning_Beck_2025.pdf filter=lfs diff=lfs merge=lfs -text
 books/NeuroDynamicProgramming_Bertsekas_Tsitsiklis_1995.pdf filter=lfs diff=lfs merge=lfs -text
 articles/decision_theory/Statistical_Decision_Theory_and_Bayesian_Analysis_James_Berger-2nd_ed.pdf filter=lfs diff=lfs merge=lfs -text
+books/LessonsfromAlphazero_Bertsekas_2022.pdf filter=lfs diff=lfs merge=lfs -text
