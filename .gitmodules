@@ -37,3 +37,6 @@
 [submodule "src/experiments/tensorforce/tensorforce_demo"]
 	path = src/experiments/tensorforce/tensorforce_demo
 	url = https://github.com/dimitarpg13/tensorforce_demo
+[submodule "src/experiments/openai/dqn-demo"]
+	path = src/experiments/openai/dqn-demo
+	url = https://github.com/dimitarpg13/dqn-demo
