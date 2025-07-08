@@ -248,6 +248,8 @@ Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo In
 
 * [Infinite-Horizon Policy-Gradient Estimantion, Jonathan Baxter, Peter L. Bartlett, 2001](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Infinite-Horizon_Policy-Gradient_Estimation_Baxter_2001.pdf)
 
+* [Feature-Based Belief Aggregation for Partially Observable Markov Decision Problems, Yuchao Li, Kim Hammar, and Dimitri Bertsekas, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Feature-Based_Belief_Aggregation_for_Partially_Observable_Markov_Decision_Problems_Li_Bertsekas_2025.pdf)
+
 ## Multi-Agent Reinforcement Learning (MARL) articles
 * [A Deep Reinforcement Learning For Multi Agent Systems: A Review of Challenges, Solutions and Applications,  Nguyen, 2019](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/DeepReinforcementLearningForMultiAgentSystemsNguyen2019.pdf)
 
