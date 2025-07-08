@@ -146,3 +146,4 @@ articles/game_theory/collective_artificial_intelligence_and_evolutionary_dynamic
 articles/game_theory/collective_artificial_intelligence_and_evolutionary_dynamics/garcía-traulsen-picking-strategies-in-games-of-cooperation.pdf filter=lfs diff=lfs merge=lfs -text
 articles/game_theory/collective_artificial_intelligence_and_evolutionary_dynamics/kleiman-weiner-et-al-evolving-general-cooperation-with-a-bayesian-theory-of-mind.pdf filter=lfs diff=lfs merge=lfs -text
 articles/game_theory/collective_artificial_intelligence_and_evolutionary_dynamics/köster-et-al-tabula-rasa-agents-display-emergent-in-group-behavior.pdf filter=lfs diff=lfs merge=lfs -text
+articles/game_theory/collective_artificial_intelligence_and_evolutionary_dynamics/mcavoy-et-al-unilateral-incentive-alignment-in-two-agent-stochastic-games.pdf filter=lfs diff=lfs merge=lfs -text
