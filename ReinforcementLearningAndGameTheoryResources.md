@@ -28,6 +28,8 @@
 
 * [Reinforcement Learning - State of the Art, Marco Wiering, Martijn van Otterlo, 2012](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Reinforcement_learning_state_of_the_art.pdf)
 
+* [Adaptive Control Processes: A Guided Tour, Richard Bellman, Rand Corp, 1961](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Adaptive_Control_Processes_A_Guided_Tour_Bellman_1961.pdf)
+
 * [The Cross-Entropy Method: A Unified Approach to Combinatorial Optimization, Monte-Carlo Simulation and Machine Learning, RY Rubinstein, DP Kroese, 2004](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/The_Cross_Entropy_Method_A_Unified_Approach_Rubinstein_Kroese_2004.pdf)
 
 * [An Algorithmic Perspective on Imitation Learning, Takayuki Osa et al, U. of Tokyo, 2018](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/An_Algorithmic_Perspective_on_Imitation_Learning_Osa_U_of_Tokyo_2025.pdf)
