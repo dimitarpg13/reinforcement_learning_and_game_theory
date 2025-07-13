@@ -149,3 +149,4 @@ articles/game_theory/collective_artificial_intelligence_and_evolutionary_dynamic
 articles/game_theory/collective_artificial_intelligence_and_evolutionary_dynamics/mcavoy-et-al-unilateral-incentive-alignment-in-two-agent-stochastic-games.pdf filter=lfs diff=lfs merge=lfs -text
 articles/game_theory/collective_artificial_intelligence_and_evolutionary_dynamics/terrucha-et-al-humans-program-artificial-delegates-to-accurately-solve-collective-risk-dilemmas-but-lack-precision.pdf filter=lfs diff=lfs merge=lfs -text
 books/The_Elements_of_Differentiable_Programming_Blondel_2025.pdf filter=lfs diff=lfs merge=lfs -text
+docs/Optimal_Control_for_Linear_Dynamical_Systems_and_Quadratic_Costs_Abeel.pdf filter=lfs diff=lfs merge=lfs -text
