@@ -42,6 +42,8 @@
 
 * [Welcome to the Era of Experience, David Silver, Richard S. Sutton, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/The_Era_of_Experience_Silver_Sutton_2025.pdf)
 
+* [Rethinking MILP as a Policy Embedding MILP in Sequential Decision Analytics, Adam DeJans Jr., 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/decision_theory/Rethinking_MILP_as_a_Policy_Embedding_MILP_in_Sequential_Decision_Analytics_DeJans_2025.pdf)
+
 * [What Makes Math Problems Hard for Reinforcement Learning: A Case Study, A. Shehper et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/AC_Conjecture/What_Makes_Math_Problems_Hard_for_Reinforcement_Learning_A_Case_Study_Shehper_2025.pdf)
 
 * [Deep Reinforcement Learning Without Experience Replay, Target Networks, or Batch Updates, Mohamed Elsayed et al, U of Alberta, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/stream-x/Deep_Reinforcement_Learning_Without_Experience_Replay_Target_Networks_or_Batch_Updates_Elsayed_2024.pdf)
