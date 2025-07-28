@@ -273,6 +273,10 @@ Reinforcement Learning with Imperfect Value Functions, H. Kimura et al, Tokyo In
 
 * [Offline Multi-Agent Reinforcement Learning with Knowledge Distillation, Tseng, MIT-CSAIL, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/MARL/Offline_Multi-Agent_Reinforcement_Learning_with_Knowledge_Distillation_Tseng2022.pdf)
 
+## Continual Reinforcement Learning
+
+* [A Survey of Continual Reinforcement Learning, C. Pan et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/continual_RL/A_Survey_of_Continual_Reinforcement_Learning_Pan_2025.pdf)
+
 ## Reinforcement Learning As Probabilistic Modeling
 
 [Reinforcement Learning as Probabilistic Modelling: A Variational Inference Formulation (Part I), Haitham Bou Ammar, 2025](https://haithambouammar.substack.com/p/reinforcement-learning-as-probabilistic?r=5tkp1b&utm_campaign=post&utm_medium=web&triedRedirect=true)
