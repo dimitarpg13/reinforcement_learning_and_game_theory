@@ -153,3 +153,4 @@ docs/Optimal_Control_for_Linear_Dynamical_Systems_and_Quadratic_Costs_Abeel.pdf 
 books/Adaptive_Control_Processes_A_Guided_Tour_Bellman_1961.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ReinforcementLearning/continual_RL/A_Survey_of_Continual_Reinforcement_Learning_Pan_2025.pdf filter=lfs diff=lfs merge=lfs -text
 books/MDP/MarkovDecisionProcesses_Putterman_2005.pdf filter=lfs diff=lfs merge=lfs -text
+articles/game_theory/favorable_games/Optimal_Control_of_Faborable_Games_with_Time_Limit_Kulldorff_1988.pdf filter=lfs diff=lfs merge=lfs -text
