@@ -1598,6 +1598,8 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
 * [Theory of Games and Statistical Decisions, David Blackwell, 1954](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/TheoryofGamesAndStatisticalDecisionsBlackwell1954.pdf)
 
+* [Theory of Games and Economic Behavior, John von Neumann and Oscar Morgenstein, 1953](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/GameTheory/Theory_Of_Games_and_Economic_Behavior_von_Neumann_1954.pdf)
+
 * [Algorithmic Game Theory, Tim Roughgarden, 2007](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/algorithmic-game-theory-roughgarden.pdf)
 
 * [N-Person Game Theory: Concepts and Applications by A. Rapoport, 1970](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/N-PersonGameTheory_Concepts_and_Applications.pdf)
