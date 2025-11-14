@@ -292,7 +292,6 @@ youtube lecture: [Variational Inference Lecture I|Probabilistic Modelling|Machin
 github repo: https://zhiyzuo.github.io/VI/
 
 
-
 ## Reinforcement Learning in Supply Chain Management
 
 ### introductory material to relevant algorithms
@@ -587,6 +586,13 @@ AdaRL repo: https://github.com/Adaptive-RL/AdaRL-code
 [What Makes Math Problems Hard for Reinforcement Learning: A Case Study, A. Shehper et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/AC_Conjecture/What_Makes_Math_Problems_Hard_for_Reinforcement_Learning_A_Case_Study_Shehper_2025.pdf)
 
 [AI and the Andrew-Curtiss Conjecture, Sergey Gukov, Simmons Foundation, 2025](https://youtu.be/ZHIGh20MIu0?si=nQMQ857MtbDoQsjs)
+
+
+## AlphaProof
+
+[Olympiad-level formal mathematical reasoning with reinforcement learning, Thomas Hubert et al, DeepMind, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/AlphaProof/Olympiad-level_formal_mathematical_reasoning_with_reinforcement_learning_Hubert_2025.pdf)
+
+github repo: https://github.com/AlphaProof
 
 ## Online tutorials and short readings
 
