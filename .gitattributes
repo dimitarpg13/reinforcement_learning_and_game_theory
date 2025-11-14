@@ -157,3 +157,4 @@ articles/game_theory/favorable_games/Optimal_Control_of_Faborable_Games_with_Tim
 articles/game_theory/favorable_games/Optimal_Gambling_Systems_for_Favorable_Games_Thorp_1969.pdf filter=lfs diff=lfs merge=lfs -text
 books/GameTheory/Theory_Of_Games_and_Economic_Behavior_von_Neumann_1954.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ReinforcementLearning/AlphaProof/Olympiad-level_formal_mathematical_reasoning_with_reinforcement_learning_Hubert_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/ReinforcementLearning/AlphaEvolve/Mathematical_Exploration_and_Discovery_at_Scale_Georgiev_2025.pdf filter=lfs diff=lfs merge=lfs -text
