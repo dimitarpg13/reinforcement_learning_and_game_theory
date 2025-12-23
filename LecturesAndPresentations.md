@@ -2,6 +2,31 @@
 
 ## Reinforcement Learning
 
+### Reinforcement Learning Course of 10 Lectures - 2015 - DeepMind, David Silver
+
+[Lecture 1: Introduction to Reinforecement Learning](https://youtu.be/2pWv7GOvuf0?si=tIFqRQqXtIKQqIfy)
+
+[Lecture 2: Markov Decision Processes](https://youtu.be/lfHX2hHRMVQ?si=2Bh68PSwkgeBwMdH)
+
+[Lecture 3: Planning by Dynamic Programming](https://youtu.be/Nd1-UUMVfz4?si=PtHTJxNsSv46jGhL)
+
+[Lecture 4: Model-Free Prediction](https://youtu.be/PnHCvfgC_ZA?si=IqXL7eV_zlSzJnkV)
+
+[Lecture 5: Model Free Control](https://youtu.be/0g4j2k_Ggc4?si=thSURH8bGJOTDr-X)
+
+[Lecture 6: Value Function Approximation](https://youtu.be/UoPei5o4fps?si=7hpHP4hbHhtS0V_l)
+
+[Lecture 7: Policy Gradient Methods](https://youtu.be/KHZVXao4qXs?si=a8HmbwnBjI-J2fog)
+
+[Lecture 8: Integrating Learning and Planning](https://youtu.be/ItMutbeOHtc?si=mdmRLcK3rTUcYbfw)
+
+[Lecture 9: Exploration and Exploitation](https://youtu.be/sGuiWX07sKw?si=0QqGO6QdPViPm8hd)
+
+[Lecture 10: Classic Games](https://youtu.be/kZ_AUmFcZtk?si=dThuoYycW5r3rpU2)
+
+
+
+
 ### CS885 Reinforcement Learning - Spring 2018 - University of Waterloo, Pascal Poupart
 
 https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/schedule.html
