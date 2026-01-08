@@ -74,6 +74,8 @@
 
 * [On Actor-Critic Algorithms, Vijay Konda, John Tsitsiklis, MIT, SIAM, 2003](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/J094-03-kon-actors.pdf)
 
+* [Natural Actor-Critic, Jan Peters et al, 2005](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/NaturalActorCritic_Peters_2005.pdf)
+
 * [Approximate Gradient Methods in Policy-Space Optimization of Markov Reward Processes, Peter N. Marbach, John Tsitsiklis, 2003](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/Approximate_gradient_methods_in_policy-space_optimization_of_markov_reward_processes_Marbach_Tsitsiklis_2003.pdf)
 
 * [Actor-Critic Algorithms, Vijay Konda, John Tsitsiklis, 1999](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/NIPS-1999-actor-critic-algorithms-Paper.pdf)
