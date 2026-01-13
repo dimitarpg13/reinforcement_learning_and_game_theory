@@ -1116,6 +1116,8 @@ Training Deep Neural Networks for Reinforcement Learning, Felipe Such et al, 201
 
 * [Algorithmic Game Theory, Tim Roughgarden, 2007](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/algorithmic-game-theory-roughgarden.pdf)
 
+* [Game Theory, Giacomo Bonanno, 3rd Edition, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/GameTheory/game_theory_Bonano_3rd_Edition_2024.pdf)
+
 * [N-Person Game Theory: Concepts and Applications by A. Rapoport, 1970](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/N-PersonGameTheory_Concepts_and_Applications.pdf)
 
 * [Mathematical Foundations of Game Theory, Rida Laraki, Jerome Renault, Sylvain Sorin, 2010](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Mathematical_Foundations_of_Game_Theory_Laraki_2019.pdf)
