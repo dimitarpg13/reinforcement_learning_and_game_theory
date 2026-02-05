@@ -482,6 +482,7 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/reinforcem
 
 [ORPO: Monolythic Preference Optimization without Reference Model, Hong, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/ORPO-Monolithic_Preference_Optimization_without_Reference_Model_Hong_2024.pdf)
 
+[Multiplayer Nash Preference Optimization, F. Wu et al, 2026](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/Multiplayer_Nash_Preference_Optimization_Wu_2026.pdf)
 
 ## Human-like Reasoning via Reinforcement Learning and Representation Learning
 
