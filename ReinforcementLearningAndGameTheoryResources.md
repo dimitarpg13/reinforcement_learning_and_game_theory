@@ -1170,6 +1170,14 @@ perfect and imperfect information games, Martin Schmid et al, DeepMind, 2023](ht
 
 * [Game Theory and Multi-Agent Reinforcement Learning : From Nash Equilibria to Evolutionary Dynamics, Neil De La Fuente, Miquel Noguer i Alonso, Guim Casadella, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/Game_Theory_and_Multi-Agent_Reinforcement_Learning-From_Nash_Equilibria_to_Evolutionary_Dynamics_Fuente_2024.pdf)
 
+### Pursuit-Evasion Games
+
+* [Pursuit-Evasion Differential Games, John B. Berger, PhD Thesis, 1968](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/pursuit-evasion/Pursuit-Evasion_Differential_Games_Berger_PhD_Thesis_MIT_1968.pdf)
+
+
+
+* [Chases and Escapes: The Mathematics of Pursuit and Evasion, Paul J. Nahin, Princeton Puzzlers, 2007](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/game_theory/pursuit-evasion/Chases_and_Escapes_the_Mathematics_of_Pursuit_and_Evasion_Princeton_Puzzlers_Nahin_2007.pdf)
+
 ## online lecture videos
 
 * [Algorithmic Game Theory, Tim Roughgarden, Stanford CS364A, Fall 2013](https://youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4) 
