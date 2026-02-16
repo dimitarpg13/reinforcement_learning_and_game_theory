@@ -8,32 +8,32 @@
 	path = src/examples/deep_rl_explained_from_jordi_torres
 	url = https://github.com/dimitarpg13/Deep-Reinforcement-Learning-Explained.git
 [submodule "src/experiments/openai/gymnasium-demo"]
-	path = src/experiments/openai/gymnasium-demo
+	path = src/demos/openai/gymnasium-demo
 	url = https://github.com/dimitarpg13/gymnasium-demo.git
 [submodule "src/experiments/openai/gym-demo"]
-	path = src/experiments/openai/gym-demo
+	path = src/demos/openai/gym-demo
 	url = https://github.com/dimitarpg13/gym-demo
 [submodule "src/experiments/keras/dqn-demo"]
-	path = src/experiments/keras/dqn-demo
+	path = src/demos/keras/dqn-demo
 	url = https://github.com/dimitarpg13/dqn-demo
 [submodule "src/experiments/keras-rl/keras-rl_demo"]
-	path = src/experiments/keras-rl/keras-rl_demo
+	path = src/demos/keras-rl/keras-rl_demo
 	url = https://github.com/dimitarpg13/keras-rl_demo
 [submodule "src/experiments/nashpy/nashpy_demo"]
-	path = src/experiments/nashpy/nashpy_demo
+	path = src/demos/nashpy/nashpy_demo
 	url = https://github.com/dimitarpg13/nashpy_demo
 [submodule "src/experiments/pygambit/pygambit_demo"]
-	path = src/experiments/pygambit/pygambit_demo
+	path = src/demos/pygambit/pygambit_demo
 	url = https://github.com/dimitarpg13/pygambit_demo
 [submodule "src/experiments/pyqlearning/pyqlearning_demo"]
-	path = src/experiments/pyqlearning/pyqlearning_demo
+	path = src/demos/pyqlearning/pyqlearning_demo
 	url = https://github.com/dimitarpg13/pyqlearning_demo
 [submodule "src/experiments/rl-coach/rl-coach_demo"]
-	path = src/experiments/rl-coach/rl-coach_demo
+	path = src/demos/rl-coach/rl-coach_demo
 	url = https://github.com/dimitarpg13/rl-coach_demo
 [submodule "src/experiments/rlib/rlib_demo"]
-	path = src/experiments/rlib/rlib_demo
+	path = src/demos/rlib/rlib_demo
 	url = https://github.com/dimitarpg13/rlib_demo
 [submodule "src/experiments/tensorforce/tensorforce_demo"]
-	path = src/experiments/tensorforce/tensorforce_demo
+	path = src/demos/tensorforce/tensorforce_demo
 	url = https://github.com/dimitarpg13/tensorforce_demo
