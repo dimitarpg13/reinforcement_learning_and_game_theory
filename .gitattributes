@@ -176,3 +176,4 @@ articles/game_theory/pursuit-evasion/A_Pursuit-Evasion_Differential_Game_with_St
 articles/game_theory/pursuit-evasion/A_two-player_stochastic_pursuit-evasion_differential_game_Li_2007.pdf filter=lfs diff=lfs merge=lfs -text
 articles/game_theory/pursuit-evasion/Formal_Solutions_for_a_Class_of_Pursuit_Evasion_Games_Willman_1968.pdf filter=lfs diff=lfs merge=lfs -text
 articles/game_theory/pursuit-evasion/Linear_Stochastic_Differential_Games_Behn_TechReport_1969.pdf filter=lfs diff=lfs merge=lfs -text
+books/Probabilistic_Artificial_Intelligence_Krause_2025.pdf filter=lfs diff=lfs merge=lfs -text
