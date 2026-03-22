@@ -179,3 +179,4 @@ articles/game_theory/pursuit-evasion/Linear_Stochastic_Differential_Games_Behn_T
 books/Probabilistic_Artificial_Intelligence_Krause_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/game_theory/the_Shapley_value/The_Shapley_Value_Roth_1988.pdf filter=lfs diff=lfs merge=lfs -text
 articles/game_theory/dynamic_programming/Existence_and_Uniqueness_of_Fixed_Point_for_the_Bellman_Operator_in_Deterministic_Dynamic_Programming_DP2012-05.pdf filter=lfs diff=lfs merge=lfs -text
+articles/game_theory/A_Value_for_N-Person_Games_Shapley_1955.pdf filter=lfs diff=lfs merge=lfs -text
