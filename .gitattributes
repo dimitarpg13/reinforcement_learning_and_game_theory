@@ -181,3 +181,4 @@ articles/game_theory/the_Shapley_value/The_Shapley_Value_Roth_1988.pdf filter=lf
 articles/game_theory/dynamic_programming/Existence_and_Uniqueness_of_Fixed_Point_for_the_Bellman_Operator_in_Deterministic_Dynamic_Programming_DP2012-05.pdf filter=lfs diff=lfs merge=lfs -text
 articles/game_theory/A_Value_for_N-Person_Games_Shapley_1955.pdf filter=lfs diff=lfs merge=lfs -text
 articles/game_theory/Notes_on_the_N-Person_Game_part_I_Characteristic-Point_Solutions_of_the_Four-Person_Game_Shapley_1951.pdf filter=lfs diff=lfs merge=lfs -text
+articles/game_theory/Game_Theory_in_Economics-Characteristic_Function_Core_and_Stable_Set_Shapley_1973.pdf filter=lfs diff=lfs merge=lfs -text
